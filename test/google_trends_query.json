@@ -1,0 +1,4652 @@
+{
+  "search_metadata": {
+    "id": "670fcd58fc40bfe9b1078831",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/8b44048574d50277/670fcd58fc40bfe9b1078831.json",
+    "created_at": "2024-10-16 14:27:36 UTC",
+    "processed_at": "2024-10-16 14:27:36 UTC",
+    "google_trends_trending_now_url": "https://trends.google.com/_/TrendsUi/data/batchexecute?rpcids=i0OFE&source-path=%2Ftrending&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/8b44048574d50277/670fcd58fc40bfe9b1078831.html",
+    "prettify_html_file": "https://serpapi.com/searches/8b44048574d50277/670fcd58fc40bfe9b1078831.prettify",
+    "total_time_taken": 0.44
+  },
+  "search_parameters": {
+    "engine": "google_trends_trending_now",
+    "hl": "en",
+    "geo": "US"
+  },
+  "trending_searches": [
+    {
+      "query": "amari cooper",
+      "start_timestamp": 1729015800,
+      "search_volume": 500000,
+      "increase_percentage": 1000,
+      "trend_breakdown": [
+        "amari cooper trade",
+        "amari cooper stats",
+        "marquez valdes-scantling",
+        "amari cooper contract",
+        "browns depth chart",
+        "amari cooper bills",
+        "bills trade",
+        "cooper",
+        "bills amari cooper",
+        "amari.cooper",
+        "mvs",
+        "browns",
+        "browns trade",
+        "cooper to bills",
+        "amari cooper to bills",
+        "cooper bills",
+        "browns news",
+        "amari cooper to the bills",
+        "amari",
+        "amari cooper news",
+        "buffalo bills news",
+        "bills news",
+        "browns trade amari cooper",
+        "cooper amari",
+        "amari cooper fantasy",
+        "cleveland browns depth chart"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amari+cooper&tz=420"
+    },
+    {
+      "query": "kate moss",
+      "start_timestamp": 1729033800,
+      "search_volume": 200000,
+      "increase_percentage": 1000,
+      "trend_breakdown": [
+        "tyra banks",
+        "vs fashion show 2024",
+        "candice swanepoel",
+        "victoria's secret fashion show 2024",
+        "lila moss",
+        "alessandra ambrosio",
+        "adriana lima 2024",
+        "victoria secret",
+        "where to watch victoria secret fashion show",
+        "valentina sampaio",
+        "victoria secret fashion show 2024 where to watch",
+        "tyra banks victoria secret",
+        "taylor hill",
+        "victoria's secret",
+        "gisele bündchen",
+        "vs fashion show",
+        "where can i watch the victoria secret fashion show 2024",
+        "where to watch victoria secret fashion show 2024",
+        "how to watch victoria secret fashion show",
+        "what time is the victoria secret fashion show",
+        "where to watch the victoria secret fashion show 2024",
+        "when is the victoria secret fashion show 2024",
+        "victoria secret fashion show 2024 streaming",
+        "victoria secret show",
+        "where can i watch victoria secret fashion show",
+        "victorias secret fashion show",
+        "victoria secret fashion show live",
+        "tyra banks 2024",
+        "kate moss victoria secret",
+        "how long is the victoria secret fashion show",
+        "where to watch vs fashion show 2024",
+        "where is the victoria secret fashion show 2024",
+        "victoria secret fashion show 2024 live",
+        "victoria secret fashion show where to watch",
+        "when was the last victoria secret fashion show",
+        "what channel is the victoria's secret fashion show on",
+        "victoria secret fashion show 2024 time",
+        "victoria secret models",
+        "jasmine tookes",
+        "who is performing at vs fashion show",
+        "watch victoria secret fashion show",
+        "where is the vs fashion show 2024",
+        "victoria secret show 2024",
+        "vs fashion show 2024 time",
+        "2024 victoria's secret fashion show",
+        "where can i watch victoria secret fashion show 2024",
+        "victoria's secret fashion show 2024 where to watch",
+        "victoria secret fashion show time",
+        "what time is victoria secret fashion show 2024",
+        "victoria secret fashion show performers",
+        "what time is the victoria secret fashion show 2024",
+        "what time does the victoria secret show start",
+        "kendall jenner victoria secret 2024",
+        "candice victoria secret",
+        "bella hadid victoria secret 2024",
+        "where can i watch the victoria secret fashion show",
+        "how long is the victoria secret fashion show 2024",
+        "when does the victoria secret show start",
+        "vs show",
+        "victoria secret fashion show 2024 performers",
+        "how long is victoria secret show",
+        "who's performing at the victoria's secret fashion show",
+        "where to watch the vs fashion show 2024",
+        "is kendall jenner walking in the vs fashion show",
+        "when is victoria secret fashion show 2024",
+        "how to watch the victoria secret fashion show",
+        "what channel is victoria secret fashion show 2024",
+        "victoria secret fashion show 2024 models",
+        "vs fashion show performers",
+        "victoria secret angels",
+        "who performed at vs fashion show",
+        "cher victoria secret"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kate+moss&tz=420"
+    },
+    {
+      "query": "argentina vs bolivia",
+      "start_timestamp": 1729017600,
+      "search_volume": 200000,
+      "increase_percentage": 1000,
+      "trend_breakdown": [
+        "argentina - bolivia",
+        "argentina vs",
+        "world cup qualifiers",
+        "messi",
+        "argentina",
+        "argentina vs. bolivia",
+        "argentina bolivia",
+        "argentina national football team vs bolivia national football team lineups",
+        "lionel messi",
+        "argentina national football team",
+        "argentina soccer",
+        "where to watch argentina national football team vs bolivia national football team",
+        "argentina national football team vs bolivia national football team timeline",
+        "argentina national football team vs bolivia national football team standings",
+        "argentina match",
+        "bolivia vs",
+        "argentina game",
+        "argentina national football team vs bolivia national football team stats",
+        "bolivia",
+        "argentina national football team standings",
+        "bolivia national football team",
+        "cristiano ronaldo"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=argentina+vs+bolivia&tz=420"
+    },
+    {
+      "query": "méxico - estados unidos",
+      "start_timestamp": 1729042200,
+      "search_volume": 100000,
+      "increase_percentage": 1000,
+      "trend_breakdown": [
+        "mexico vs estados unidos",
+        "méxico vs. estados unidos",
+        "seleccion mexicana",
+        "raúl jiménez",
+        "cesar huerta",
+        "estadio akron",
+        "selección de fútbol de méxico",
+        "méxico estados unidos",
+        "chino huerta",
+        "amistosos"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=m%C3%A9xico+-+estados+unidos&tz=420"
+    },
+    {
+      "query": "johnny gaudreau",
+      "start_timestamp": 1729032000,
+      "search_volume": 50000,
+      "increase_percentage": 1000,
+      "trend_breakdown": [
+        "columbus blue jackets",
+        "blue jackets",
+        "gaudreau",
+        "johnny hockey",
+        "sean monahan",
+        "gaudreau brothers",
+        "matthew gaudreau"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=johnny+gaudreau&tz=420"
+    },
+    {
+      "query": "asml stock",
+      "start_timestamp": 1729002600,
+      "search_volume": 50000,
+      "increase_percentage": 300,
+      "trend_breakdown": [
+        "asml",
+        "asml stock price",
+        "asml earnings"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=asml+stock&tz=420"
+    },
+    {
+      "query": "brazil vs peru",
+      "start_timestamp": 1729026600,
+      "search_volume": 100000,
+      "increase_percentage": 1000,
+      "trend_breakdown": [
+        "peru vs brazil",
+        "brazil national football team vs peru national football team lineups",
+        "conmebol",
+        "brasil vs",
+        "brazil vs",
+        "brazil national football team",
+        "peru vs",
+        "brazil national football team vs peru national football team standings",
+        "where to watch brazil national football team vs peru national football team",
+        "peru brasil",
+        "peru",
+        "brazil national football team vs peru national football team stats",
+        "brazil national football team vs peru national football team timeline",
+        "raphinha",
+        "brazil soccer",
+        "peru national football team"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=brazil+vs+peru&tz=420"
+    },
+    {
+      "query": "colin allred",
+      "start_timestamp": 1729036800,
+      "search_volume": 100000,
+      "increase_percentage": 700,
+      "trend_breakdown": [
+        "cruz allred debate",
+        "ted cruz debate",
+        "ted cruz",
+        "allred cruz debate",
+        "texas senate polls",
+        "texas senate debate",
+        "ted cruz debate tonight",
+        "collin allred",
+        "colin allred polls",
+        "texas debate",
+        "cruz debate",
+        "colin allred ted cruz debate",
+        "allred",
+        "colin allred debate"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=colin+allred&tz=420"
+    },
+    {
+      "query": "jake e lee",
+      "start_timestamp": 1729018200,
+      "search_volume": 50000,
+      "increase_percentage": 1000,
+      "trend_breakdown": [
+        "ozzy osbourne",
+        "rock legend shot",
+        "jake e. lee",
+        "rock legend shot multiple times"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jake+e+lee&tz=420"
+    },
+    {
+      "query": "gigi hadid",
+      "start_timestamp": 1729030200,
+      "search_volume": 50000,
+      "increase_percentage": 800,
+      "trend_breakdown": [
+        "bradley cooper",
+        "bella hadid",
+        "gigi hadid boyfriend"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=gigi+hadid&tz=420"
+    },
+    {
+      "query": "red flag (fire weather) warning",
+      "start_timestamp": 1729011600,
+      "search_volume": 100000,
+      "increase_percentage": 1000,
+      "trend_breakdown": [
+        "red flag fire weather warning",
+        "ca"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=red+flag+%28fire+weather%29+warning&tz=420"
+    },
+    {
+      "query": "barbara palvin",
+      "start_timestamp": 1729029000,
+      "search_volume": 20000,
+      "increase_percentage": 500,
+      "trend_breakdown": [
+        "dylan sprouse",
+        "dylan sprouse wife",
+        "barbara sprouse"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=barbara+palvin&tz=420"
+    },
+    {
+      "query": "cher",
+      "start_timestamp": 1729032000,
+      "search_volume": 50000,
+      "increase_percentage": 1000,
+      "trend_breakdown": [
+        "lisa",
+        "amber rose",
+        "lisa blackpink",
+        "cher boyfriend",
+        "alexander edwards",
+        "blackpink",
+        "cher's boyfriend"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cher&tz=420"
+    },
+    {
+      "query": "derek hough",
+      "start_timestamp": 1729038600,
+      "search_volume": 100000,
+      "increase_percentage": 500,
+      "trend_breakdown": [
+        "hayley erbert",
+        "derek hough wife",
+        "hayley hough",
+        "what happened to derek hough wife",
+        "what happened to derek hough's wife",
+        "hayley hough health",
+        "hayley hough injury",
+        "derek hough's wife",
+        "brooks dancing with the stars",
+        "hayley erbert hough",
+        "what happened to hayley erbert"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=derek+hough&tz=420"
+    },
+    {
+      "query": "warriors vs lakers",
+      "start_timestamp": 1729042200,
+      "search_volume": 50000,
+      "increase_percentage": 1000,
+      "trend_breakdown": [
+        "golden state warriors vs lakers match player stats",
+        "lakers vs warriors",
+        "warriors",
+        "nba lakers",
+        "golden state warriors",
+        "nba games today",
+        "gsw",
+        "warriors game",
+        "warriors schedule",
+        "anthony davis",
+        "lakers vs golden state warriors match player stats",
+        "dalton knecht",
+        "steph curry",
+        "where to watch lakers vs golden state warriors"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=warriors+vs+lakers&tz=420"
+    },
+    {
+      "query": "alex consani",
+      "start_timestamp": 1729026000,
+      "search_volume": 20000,
+      "increase_percentage": 500,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alex+consani&tz=420"
+    },
+    {
+      "query": "nfl trades",
+      "start_timestamp": 1729002600,
+      "search_volume": 50000,
+      "increase_percentage": 500,
+      "trend_breakdown": [
+        "nfl trades today",
+        "nfl trade deadline 2024",
+        "nfl trade",
+        "when is the nfl trade deadline",
+        "trade deadline nfl",
+        "when is nfl trade deadline"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nfl+trades&tz=420"
+    },
+    {
+      "query": "mexico national football team vs usmnt lineups",
+      "start_timestamp": 1729038000,
+      "search_volume": 100000,
+      "increase_percentage": 900,
+      "trend_breakdown": [
+        "mexico vs",
+        "raul jimenez",
+        "mexico soccer",
+        "mexico vs usa soccer",
+        "usmnt vs mexico",
+        "mexico fc",
+        "mexico national football team",
+        "mexico",
+        "usa soccer",
+        "friendlies",
+        "mexico game",
+        "usa mexico",
+        "where to watch mexico national football team vs usmnt",
+        "us mexico soccer",
+        "mexico national football team vs usmnt stats",
+        "usa vs mexico soccer",
+        "mexico national team",
+        "usa",
+        "usa vs",
+        "mauricio pochettino",
+        "pochettino",
+        "us soccer",
+        "mexico usa",
+        "usa vs mexico today",
+        "mexico national football team vs usmnt timeline",
+        "pulisic",
+        "mexico national football team vs usmnt",
+        "christian pulisic",
+        "usmnt schedule",
+        "mexico va usa",
+        "raul jimenez mexico",
+        "mexico vs us",
+        "usa v mexico",
+        "united states men's national soccer team"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mexico+national+football+team+vs+usmnt+lineups&tz=420"
+    },
+    {
+      "query": "brandon mcmanus",
+      "start_timestamp": 1729027200,
+      "search_volume": 20000,
+      "increase_percentage": 600,
+      "trend_breakdown": [
+        "packers kicker",
+        "brayden narveson",
+        "packers news"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=brandon+mcmanus&tz=420"
+    },
+    {
+      "query": "jason segel",
+      "start_timestamp": 1729044600,
+      "search_volume": 20000,
+      "increase_percentage": 300,
+      "trend_breakdown": [
+        "shrinking",
+        "shrinking season 2"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jason+segel&tz=420"
+    },
+    {
+      "query": "india vs new zealand",
+      "start_timestamp": 1729048200,
+      "search_volume": 20000,
+      "increase_percentage": 800,
+      "trend_breakdown": [
+        "ind vs nz",
+        "bangalore weather"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=india+vs+new+zealand&tz=420"
+    },
+    {
+      "query": "francesca eastwood",
+      "start_timestamp": 1729027800,
+      "search_volume": 20000,
+      "increase_percentage": 400,
+      "trend_breakdown": [
+        "clint eastwood"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=francesca+eastwood&tz=420"
+    },
+    {
+      "query": "cam akers",
+      "start_timestamp": 1729031400,
+      "search_volume": 20000,
+      "increase_percentage": 1000,
+      "trend_breakdown": [
+        "cam akers trade",
+        "vikings trade",
+        "cam akers vikings",
+        "cam.akers"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cam+akers&tz=420"
+    },
+    {
+      "query": "charlamagne",
+      "start_timestamp": 1729015800,
+      "search_volume": 20000,
+      "increase_percentage": 200,
+      "trend_breakdown": [
+        "fascism",
+        "charlamagne tha god kamala harris",
+        "who is charlamagne tha god",
+        "kamala",
+        "5",
+        "is"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=charlamagne&tz=420"
+    },
+    {
+      "query": "christy martin",
+      "start_timestamp": 1729035600,
+      "search_volume": 5000,
+      "increase_percentage": 200,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=christy+martin&tz=420"
+    },
+    {
+      "query": "ssi recipients extra check november",
+      "start_timestamp": 1729075200,
+      "search_volume": 5000,
+      "increase_percentage": 900,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ssi+recipients+extra+check+november&tz=420"
+    },
+    {
+      "query": "anatomy of lies",
+      "start_timestamp": 1729008600,
+      "search_volume": 20000,
+      "increase_percentage": 200,
+      "trend_breakdown": [
+        "elizabeth finch"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=anatomy+of+lies&tz=420"
+    },
+    {
+      "query": "georgia early voting",
+      "start_timestamp": 1729018200,
+      "search_volume": 20000,
+      "increase_percentage": 100,
+      "trend_breakdown": [
+        "early voting results",
+        "early voting near me",
+        "election polls 2024",
+        "georgia early voting numbers",
+        "trump atlanta",
+        "cumming ga"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=georgia+early+voting&tz=420"
+    },
+    {
+      "query": "ashley graham",
+      "start_timestamp": 1729031400,
+      "search_volume": 10000,
+      "increase_percentage": 300,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ashley+graham&tz=420"
+    },
+    {
+      "query": "djt stock",
+      "start_timestamp": 1729018200,
+      "search_volume": 50000,
+      "increase_percentage": 200,
+      "trend_breakdown": [
+        "djt",
+        "trump media stock",
+        "stocks"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=djt+stock&tz=420"
+    },
+    {
+      "query": "ashley parham",
+      "start_timestamp": 1729042200,
+      "search_volume": 10000,
+      "increase_percentage": 300,
+      "trend_breakdown": [
+        "accused",
+        "ashley parham diddy"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ashley+parham&tz=420"
+    },
+    {
+      "query": "north carolina governor mark robinson",
+      "start_timestamp": 1729053000,
+      "search_volume": 20000,
+      "increase_percentage": 1000,
+      "trend_breakdown": [
+        "north carolina mark robinson",
+        "mark robinson north carolina"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=north+carolina+governor+mark+robinson&tz=420"
+    },
+    {
+      "query": "boo buckets mcdonalds",
+      "start_timestamp": 1729042800,
+      "search_volume": 10000,
+      "increase_percentage": 600,
+      "trend_breakdown": [
+        "mcdonald's boo buckets"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=boo+buckets+mcdonalds&tz=420"
+    },
+    {
+      "query": "drug stock",
+      "start_timestamp": 1729003800,
+      "search_volume": 20000,
+      "increase_percentage": 100,
+      "trend_breakdown": [
+        "walgreens stores closing",
+        "walgreens closing",
+        "walgreens closing 1200 stores"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=drug+stock&tz=420"
+    },
+    {
+      "query": "thomas tuchel",
+      "start_timestamp": 1729014600,
+      "search_volume": 10000,
+      "increase_percentage": 200,
+      "trend_breakdown": [
+        "tuchel"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=thomas+tuchel&tz=420"
+    },
+    {
+      "query": "embattled mayor adams",
+      "start_timestamp": 1729045200,
+      "search_volume": 10000,
+      "increase_percentage": 200,
+      "trend_breakdown": [
+        "what changes often in this clue nyt",
+        "natural boundary between france and italy nyt",
+        "capital city on the nile river nyt",
+        "total displayed on a running app nyt"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=embattled+mayor+adams&tz=420"
+    },
+    {
+      "query": "giovanny aldama garcia",
+      "start_timestamp": 1729026000,
+      "search_volume": 10000,
+      "increase_percentage": 200,
+      "trend_breakdown": [
+        "abandoned",
+        "face"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=giovanny+aldama+garcia&tz=420"
+    },
+    {
+      "query": "north korean soldiers ukraine",
+      "start_timestamp": 1729046400,
+      "search_volume": 20000,
+      "increase_percentage": 800,
+      "trend_breakdown": [
+        "north korean soldiers",
+        "north korea news",
+        "ukraine war",
+        "south korea north korean"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=north+korean+soldiers+ukraine&tz=420"
+    },
+    {
+      "query": "bet awards 2024",
+      "start_timestamp": 1729027800,
+      "search_volume": 50000,
+      "increase_percentage": 400,
+      "trend_breakdown": [
+        "bet hip hop awards 2024",
+        "hip hop awards 2024",
+        "bet awards",
+        "bet hip hop awards",
+        "kendrick lamar",
+        "bet"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bet+awards+2024&tz=420"
+    },
+    {
+      "query": "lois riess",
+      "start_timestamp": 1729002600,
+      "search_volume": 10000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lois+riess&tz=420"
+    },
+    {
+      "query": "petra jordan indiana jones",
+      "start_timestamp": 1729053000,
+      "search_volume": 10000,
+      "increase_percentage": 600,
+      "trend_breakdown": [
+        "petra jordan tombs holy grail"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=petra+jordan+indiana+jones&tz=420"
+    },
+    {
+      "query": "tyla",
+      "start_timestamp": 1729031400,
+      "search_volume": 10000,
+      "increase_percentage": 400,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tyla&tz=420"
+    },
+    {
+      "query": "tom brady raiders",
+      "start_timestamp": 1729028400,
+      "search_volume": 20000,
+      "increase_percentage": 200,
+      "trend_breakdown": [
+        "tom brady",
+        "mark davis",
+        "richard seymour",
+        "profootballtalk"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tom+brady+raiders&tz=420"
+    },
+    {
+      "query": "tell me lies season 3",
+      "start_timestamp": 1729054200,
+      "search_volume": 10000,
+      "increase_percentage": 400,
+      "trend_breakdown": [
+        "tell me lies season 2",
+        "season 3 tell me lies",
+        "tell me lies season 2 finale",
+        "tell me lies episodes",
+        "jackson white",
+        "how many episodes of tell me lies season 2"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tell+me+lies+season+3&tz=420"
+    },
+    {
+      "query": "miriam adelson",
+      "start_timestamp": 1729029600,
+      "search_volume": 5000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=miriam+adelson&tz=420"
+    },
+    {
+      "query": "rufus wainwright",
+      "start_timestamp": 1729023000,
+      "search_volume": 10000,
+      "increase_percentage": 200,
+      "trend_breakdown": [
+        "rufus wainwright hallelujah",
+        "ymca song",
+        "hallelujah",
+        "trump town hall music",
+        "ok",
+        "trump town hall philadelphia"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=rufus+wainwright&tz=420"
+    },
+    {
+      "query": "national bosses day",
+      "start_timestamp": 1729077600,
+      "search_volume": 2000,
+      "increase_percentage": 300,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=national+bosses+day&tz=420"
+    },
+    {
+      "query": "lightning lane premier pass",
+      "start_timestamp": 1729076400,
+      "search_volume": 2000,
+      "increase_percentage": 300,
+      "trend_breakdown": [
+        "disney premier pass"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lightning+lane+premier+pass&tz=420"
+    },
+    {
+      "query": "marta xargay casademont",
+      "start_timestamp": 1729033200,
+      "search_volume": 10000,
+      "increase_percentage": 100,
+      "trend_breakdown": [
+        "breanna stewart",
+        "breanna stewart wife",
+        "marta xargay"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=marta+xargay+casademont&tz=420"
+    },
+    {
+      "query": "jerry west",
+      "start_timestamp": 1729083600,
+      "search_volume": 2000,
+      "increase_percentage": 500,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jerry+west&tz=420"
+    },
+    {
+      "query": "guilherme bomba vasconcelos",
+      "start_timestamp": 1729077000,
+      "search_volume": 2000,
+      "increase_percentage": 200,
+      "trend_breakdown": [
+        "guilherme vasconcelos"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=guilherme+bomba+vasconcelos&tz=420"
+    },
+    {
+      "query": "dina manzo",
+      "start_timestamp": 1729030800,
+      "search_volume": 10000,
+      "increase_percentage": 75,
+      "trend_breakdown": [
+        "thomas manzo"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dina+manzo&tz=420"
+    },
+    {
+      "query": "la niña winter forecast",
+      "start_timestamp": 1729078800,
+      "search_volume": 5000,
+      "increase_percentage": 400,
+      "trend_breakdown": [
+        "winter weather forecast",
+        "la nina winter 2024",
+        "la nina",
+        "la nina winter weather"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=la+ni%C3%B1a+winter+forecast&tz=420"
+    },
+    {
+      "query": "ms stock",
+      "start_timestamp": 1729078800,
+      "search_volume": 5000,
+      "increase_percentage": 100,
+      "trend_breakdown": [
+        "morgan stanley",
+        "morgan stanley stock",
+        "morgan stanley earnings"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ms+stock&tz=420"
+    },
+    {
+      "query": "hunter king",
+      "start_timestamp": 1729014000,
+      "search_volume": 5000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hunter+king&tz=420"
+    },
+    {
+      "query": "sam heughan",
+      "start_timestamp": 1729084800,
+      "search_volume": 1000,
+      "increase_percentage": 300,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sam+heughan&tz=420"
+    },
+    {
+      "query": "renee montgomery",
+      "start_timestamp": 1729086600,
+      "search_volume": 1000,
+      "increase_percentage": 300,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=renee+montgomery&tz=420"
+    },
+    {
+      "query": "eddie redmayne",
+      "start_timestamp": 1729082400,
+      "search_volume": 2000,
+      "increase_percentage": 300,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=eddie+redmayne&tz=420"
+    },
+    {
+      "query": "houston weather",
+      "start_timestamp": 1729063800,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=houston+weather&tz=420"
+    },
+    {
+      "query": "brasil - perú",
+      "start_timestamp": 1729036200,
+      "end_timestamp": 1729087200,
+      "search_volume": 50000,
+      "increase_percentage": 1000,
+      "trend_breakdown": [
+        "brasil vs. perú",
+        "brasil vs peru",
+        "eliminatorias",
+        "peru vs brasil",
+        "conmebol eliminatorias",
+        "brasil x peru"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=brasil+-+per%C3%BA&tz=420"
+    },
+    {
+      "query": "sajid khan",
+      "start_timestamp": 1729059600,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sajid+khan&tz=420"
+    },
+    {
+      "query": "montana jordan",
+      "start_timestamp": 1729083000,
+      "search_volume": 1000,
+      "increase_percentage": 200,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=montana+jordan&tz=420"
+    },
+    {
+      "query": "polymarket election",
+      "start_timestamp": 1729054200,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "trend_breakdown": [
+        "presidential betting odds",
+        "predictit"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=polymarket+election&tz=420"
+    },
+    {
+      "query": "weather houston",
+      "start_timestamp": 1729065600,
+      "search_volume": 5000,
+      "increase_percentage": 100,
+      "trend_breakdown": [
+        "san antonio weather",
+        "dallas weather",
+        "weather san antonio"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=weather+houston&tz=420"
+    },
+    {
+      "query": "kindle",
+      "start_timestamp": 1729065000,
+      "search_volume": 2000,
+      "increase_percentage": 50,
+      "trend_breakdown": [
+        "amazon kindle"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kindle&tz=420"
+    },
+    {
+      "query": "scotland national football team",
+      "start_timestamp": 1729086600,
+      "search_volume": 50000,
+      "increase_percentage": 100,
+      "trend_breakdown": [
+        "scotland vs portugal",
+        "portugal vs scotland",
+        "portugal",
+        "portugal vs",
+        "scotland national football team vs portugal national football team lineups",
+        "portugal national football team",
+        "scotland national football team vs portugal national football team stats",
+        "portugal soccer"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=scotland+national+football+team&tz=420"
+    },
+    {
+      "query": "south america",
+      "start_timestamp": 1729079400,
+      "search_volume": 1000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=south+america&tz=420"
+    },
+    {
+      "query": "venezuela vs paraguay",
+      "start_timestamp": 1729018800,
+      "end_timestamp": 1729083600,
+      "search_volume": 50000,
+      "increase_percentage": 600,
+      "trend_breakdown": [
+        "paraguay vs venezuela",
+        "venezuela vs",
+        "paraguay vs. venezuela",
+        "venezuela paraguay",
+        "paraguay vs",
+        "venezuela hoy",
+        "paraguay",
+        "vinotinto",
+        "venezuela futbol"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=venezuela+vs+paraguay&tz=420"
+    },
+    {
+      "query": "uruguay vs ecuador",
+      "start_timestamp": 1729025400,
+      "end_timestamp": 1729081800,
+      "search_volume": 50000,
+      "increase_percentage": 900,
+      "trend_breakdown": [
+        "uruguay - ecuador",
+        "eliminatorias mundial 2026",
+        "uruguay vs. ecuador",
+        "ecuador",
+        "uruguay",
+        "ecuador soccer"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=uruguay+vs+ecuador&tz=420"
+    },
+    {
+      "query": "costa rica - guatemala",
+      "start_timestamp": 1729034400,
+      "end_timestamp": 1729080600,
+      "search_volume": 50000,
+      "increase_percentage": 1000,
+      "trend_breakdown": [
+        "costa rica vs guatemala",
+        "guatemala vs costa rica",
+        "costa rica vs. guatemala",
+        "guatemala vs",
+        "guatemala soccer",
+        "selección de fútbol de guatemala",
+        "guatemala hoy"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=costa+rica+-+guatemala&tz=420"
+    },
+    {
+      "query": "caracal cat hoffman estates",
+      "start_timestamp": 1729056600,
+      "search_volume": 2000,
+      "increase_percentage": 200,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=caracal+cat+hoffman+estates&tz=420"
+    },
+    {
+      "query": "emily osment",
+      "start_timestamp": 1729083000,
+      "search_volume": 2000,
+      "increase_percentage": 300,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=emily+osment&tz=420"
+    },
+    {
+      "query": "agatha all along episode 6",
+      "start_timestamp": 1729041600,
+      "search_volume": 2000,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=agatha+all+along+episode+6&tz=420"
+    },
+    {
+      "query": "nick jonas",
+      "start_timestamp": 1729068600,
+      "search_volume": 1000,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nick+jonas&tz=420"
+    },
+    {
+      "query": "sunrise on the reaping",
+      "start_timestamp": 1729083000,
+      "search_volume": 1000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sunrise+on+the+reaping&tz=420"
+    },
+    {
+      "query": "colombia - chile",
+      "start_timestamp": 1729021800,
+      "end_timestamp": 1729079400,
+      "search_volume": 50000,
+      "increase_percentage": 1000,
+      "trend_breakdown": [
+        "colombia vs. chile",
+        "chile vs colombia",
+        "colombia chile",
+        "seleccion colombia",
+        "caracol en vivo",
+        "gol caracol",
+        "caracol tv",
+        "gol caracol en vivo",
+        "chile colombia"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=colombia+-+chile&tz=420"
+    },
+    {
+      "query": "fbi international",
+      "start_timestamp": 1729032600,
+      "end_timestamp": 1729081800,
+      "search_volume": 20000,
+      "increase_percentage": 500,
+      "trend_breakdown": [
+        "fbi international cast",
+        "jesse lee soffer",
+        "cast of fbi international"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fbi+international&tz=420"
+    },
+    {
+      "query": "austin weather",
+      "start_timestamp": 1729069200,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=austin+weather&tz=420"
+    },
+    {
+      "query": "louisiana tech football",
+      "start_timestamp": 1729026000,
+      "end_timestamp": 1729083000,
+      "search_volume": 20000,
+      "increase_percentage": 300,
+      "trend_breakdown": [
+        "new mexico state football",
+        "la tech football",
+        "la tech vs nm state",
+        "nmsu football",
+        "new mexico state"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=louisiana+tech+football&tz=420"
+    },
+    {
+      "query": "oklo stock",
+      "start_timestamp": 1729084800,
+      "search_volume": 1000,
+      "increase_percentage": 100,
+      "trend_breakdown": [
+        "oklo"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=oklo+stock&tz=420"
+    },
+    {
+      "query": "gaza israel",
+      "start_timestamp": 1729047000,
+      "search_volume": 5000,
+      "increase_percentage": 400,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=gaza+israel&tz=420"
+    },
+    {
+      "query": "dwts elimination",
+      "start_timestamp": 1729044000,
+      "end_timestamp": 1729086000,
+      "search_volume": 50000,
+      "increase_percentage": 200,
+      "trend_breakdown": [
+        "who went home on dancing with the stars",
+        "who was eliminated from dancing with the stars",
+        "jenn tran",
+        "who got eliminated on dancing with the stars",
+        "danny amendola",
+        "dancing with the stars elimination",
+        "joey graziadei",
+        "what time is dancing with the stars on tonight",
+        "who got voted off dancing with the stars",
+        "dancing with the stars live",
+        "bruno dancing with the stars",
+        "danny dancing with the stars"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dwts+elimination&tz=420"
+    },
+    {
+      "query": "mayor adams",
+      "start_timestamp": 1729046400,
+      "search_volume": 2000,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mayor+adams&tz=420"
+    },
+    {
+      "query": "bryan johnson",
+      "start_timestamp": 1729057800,
+      "search_volume": 1000,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bryan+johnson&tz=420"
+    },
+    {
+      "query": "23 and me",
+      "start_timestamp": 1729077000,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "trend_breakdown": [
+        "23andme"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=23+and+me&tz=420"
+    },
+    {
+      "query": "france",
+      "start_timestamp": 1729072800,
+      "search_volume": 1000,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=france&tz=420"
+    },
+    {
+      "query": "flyers vs oilers",
+      "start_timestamp": 1729044000,
+      "end_timestamp": 1729087800,
+      "search_volume": 20000,
+      "increase_percentage": 100,
+      "trend_breakdown": [
+        "oilers",
+        "edmonton oilers",
+        "flyers score",
+        "philadelphia flyers",
+        "connor mcdavid",
+        "oilers game",
+        "flyers schedule"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=flyers+vs+oilers&tz=420"
+    },
+    {
+      "query": "paraguay - venezuela",
+      "start_timestamp": 1729030200,
+      "end_timestamp": 1729081200,
+      "search_volume": 20000,
+      "increase_percentage": 900,
+      "trend_breakdown": [
+        "venezuela national football team",
+        "paraguay national football team vs venezuela national football team standings",
+        "antonio sanabria"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=paraguay+-+venezuela&tz=420"
+    },
+    {
+      "query": "bob lee",
+      "start_timestamp": 1729024200,
+      "search_volume": 2000,
+      "increase_percentage": 75,
+      "trend_breakdown": [
+        "cash app founder",
+        "cashapp"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bob+lee&tz=420"
+    },
+    {
+      "query": "qatar",
+      "start_timestamp": 1729068600,
+      "search_volume": 1000,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=qatar&tz=420"
+    },
+    {
+      "query": "troy vs south alabama",
+      "start_timestamp": 1729027800,
+      "end_timestamp": 1729083600,
+      "search_volume": 20000,
+      "increase_percentage": 300,
+      "trend_breakdown": [
+        "troy football",
+        "south alabama",
+        "south alabama vs troy prediction",
+        "troy",
+        "gio lopez",
+        "south alabama vs troy"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=troy+vs+south+alabama&tz=420"
+    },
+    {
+      "query": "sick new world 2025",
+      "start_timestamp": 1729012200,
+      "end_timestamp": 1729080000,
+      "search_volume": 20000,
+      "increase_percentage": 200,
+      "trend_breakdown": [
+        "acid bath",
+        "sick new world",
+        "sick new world 2024"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sick+new+world+2025&tz=420"
+    },
+    {
+      "query": "aaron judge",
+      "start_timestamp": 1729038000,
+      "end_timestamp": 1729051800,
+      "search_volume": 50000,
+      "increase_percentage": 900,
+      "trend_breakdown": [
+        "yankees score",
+        "ny yankees",
+        "did the yankees win last night",
+        "tanner bibee",
+        "nyy vs cle",
+        "nyy score",
+        "alcs game 2",
+        "yankees roster",
+        "baseball games today",
+        "bibee",
+        "indians game",
+        "will brennan",
+        "rocchio",
+        "rocchio guardians",
+        "yankee game tonight",
+        "ny yankees schedule"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=aaron+judge&tz=420"
+    },
+    {
+      "query": "eliminatorias conmebol",
+      "start_timestamp": 1729027200,
+      "end_timestamp": 1729048200,
+      "search_volume": 50000,
+      "increase_percentage": 700,
+      "trend_breakdown": [
+        "eliminatorias copa del mundo",
+        "eliminatorias sudamericanas",
+        "tabla de posiciones eliminatorias",
+        "tabla de posiciones",
+        "eliminatorias conmebol 2026"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=eliminatorias+conmebol&tz=420"
+    },
+    {
+      "query": "full moon october",
+      "start_timestamp": 1729032600,
+      "end_timestamp": 1729082400,
+      "search_volume": 20000,
+      "increase_percentage": 75,
+      "trend_breakdown": [
+        "moon",
+        "when is the full moon",
+        "hunters moon",
+        "when is the full moon in october 2024",
+        "next full moon 2024",
+        "when is full moon",
+        "super moon",
+        "super moon october 2024",
+        "supermoon october 2024",
+        "full.moon october 2024",
+        "is it a full moon",
+        "when is full moon in october 2024",
+        "october 2024 full moon"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=full+moon+october&tz=420"
+    },
+    {
+      "query": "atnf stock",
+      "start_timestamp": 1729084200,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=atnf+stock&tz=420"
+    },
+    {
+      "query": "spain vs serbia",
+      "start_timestamp": 1729014000,
+      "end_timestamp": 1729063800,
+      "search_volume": 20000,
+      "increase_percentage": 700,
+      "trend_breakdown": [
+        "uefa nations league schedule",
+        "nations league standings",
+        "spain national football team vs serbia national football team lineups"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=spain+vs+serbia&tz=420"
+    },
+    {
+      "query": "melissa aviles-ramos",
+      "start_timestamp": 1729084200,
+      "search_volume": 1000,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=melissa+aviles-ramos&tz=420"
+    },
+    {
+      "query": "johnny gaudreau death",
+      "start_timestamp": 1729035000,
+      "end_timestamp": 1729087200,
+      "search_volume": 5000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=johnny+gaudreau+death&tz=420"
+    },
+    {
+      "query": "winter storm warning",
+      "start_timestamp": 1729022400,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=winter+storm+warning&tz=420"
+    },
+    {
+      "query": "flyers",
+      "start_timestamp": 1729046400,
+      "end_timestamp": 1729080600,
+      "search_volume": 10000,
+      "increase_percentage": 400,
+      "trend_breakdown": [
+        "matvei michkov",
+        "michkov",
+        "michkov flyers"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=flyers&tz=420"
+    },
+    {
+      "query": "yankees",
+      "start_timestamp": 1729047000,
+      "end_timestamp": 1729050000,
+      "search_volume": 100000,
+      "increase_percentage": 200,
+      "trend_breakdown": [
+        "josh naylor",
+        "gerrit cole",
+        "yankee game",
+        "yankee",
+        "stephen vogt",
+        "where to watch yankees vs cleveland guardians",
+        "cleveland guardians vs yankees timeline",
+        "kyle manzardo",
+        "yankee stadium",
+        "yankees vs guardians prediction",
+        "cc sabathia",
+        "what channel is the yankee game on tonight",
+        "naylor guardians",
+        "yankees lineup today"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=yankees&tz=420"
+    },
+    {
+      "query": "spurs vs heat",
+      "start_timestamp": 1729036200,
+      "end_timestamp": 1729084200,
+      "search_volume": 10000,
+      "increase_percentage": 200,
+      "trend_breakdown": [
+        "miami heat",
+        "san antonio spurs"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=spurs+vs+heat&tz=420"
+    },
+    {
+      "query": "mark ballas",
+      "start_timestamp": 1729036800,
+      "end_timestamp": 1729066800,
+      "search_volume": 20000,
+      "increase_percentage": 900,
+      "trend_breakdown": [
+        "bruno dwts"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mark+ballas&tz=420"
+    },
+    {
+      "query": "hornets vs knicks",
+      "start_timestamp": 1729036200,
+      "end_timestamp": 1729084200,
+      "search_volume": 10000,
+      "increase_percentage": 200,
+      "trend_breakdown": [
+        "charlotte hornets vs knicks match player stats",
+        "charlotte hornets",
+        "hornets"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hornets+vs+knicks&tz=420"
+    },
+    {
+      "query": "thunder vs nuggets",
+      "start_timestamp": 1729042200,
+      "end_timestamp": 1729084800,
+      "search_volume": 10000,
+      "increase_percentage": 200,
+      "trend_breakdown": [
+        "denver nuggets",
+        "nuggets",
+        "okc thunder",
+        "oklahoma city thunder vs denver nuggets match player stats"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=thunder+vs+nuggets&tz=420"
+    },
+    {
+      "query": "celtics vs raptors",
+      "start_timestamp": 1729034400,
+      "end_timestamp": 1729081800,
+      "search_volume": 20000,
+      "increase_percentage": 200,
+      "trend_breakdown": [
+        "celtics",
+        "boston celtics",
+        "boston celtics vs toronto raptors match player stats",
+        "celtics schedule",
+        "davion mitchell",
+        "raptors"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=celtics+vs+raptors&tz=420"
+    },
+    {
+      "query": "jacob fearnley",
+      "start_timestamp": 1729086000,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jacob+fearnley&tz=420"
+    },
+    {
+      "query": "irina shayk",
+      "start_timestamp": 1729034400,
+      "end_timestamp": 1729080000,
+      "search_volume": 10000,
+      "increase_percentage": 300,
+      "trend_breakdown": [
+        "behati prinsloo"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=irina+shayk&tz=420"
+    },
+    {
+      "query": "conmebol qualifiers",
+      "start_timestamp": 1729023000,
+      "end_timestamp": 1729076400,
+      "search_volume": 20000,
+      "increase_percentage": 400,
+      "trend_breakdown": [
+        "colombia vs",
+        "colombia soccer",
+        "colombia fc",
+        "colombia national football team",
+        "colombia national football team vs chile national football team lineups",
+        "colombia national football team vs chile national football team standings",
+        "chile vs",
+        "colombia vs chile where to watch"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=conmebol+qualifiers&tz=420"
+    },
+    {
+      "query": "nfl mock draft 2025",
+      "start_timestamp": 1729087800,
+      "search_volume": 500,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nfl+mock+draft+2025&tz=420"
+    },
+    {
+      "query": "nile river",
+      "start_timestamp": 1729047000,
+      "search_volume": 1000,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nile+river&tz=420"
+    },
+    {
+      "query": "brooks nader",
+      "start_timestamp": 1729041000,
+      "end_timestamp": 1729058400,
+      "search_volume": 50000,
+      "increase_percentage": 100,
+      "trend_breakdown": [
+        "brooks and gleb",
+        "brooks nader and gleb",
+        "who is brooks nader",
+        "brooks and gleb dwts"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=brooks+nader&tz=420"
+    },
+    {
+      "query": "israel gaza",
+      "start_timestamp": 1729038600,
+      "end_timestamp": 1729077000,
+      "search_volume": 10000,
+      "increase_percentage": 600,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=israel+gaza&tz=420"
+    },
+    {
+      "query": "poland vs croatia",
+      "start_timestamp": 1729014000,
+      "end_timestamp": 1729063800,
+      "search_volume": 20000,
+      "increase_percentage": 800,
+      "trend_breakdown": [
+        "croatia vs poland",
+        "croatia",
+        "poland national football team vs croatia national football team lineups",
+        "poland"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=poland+vs+croatia&tz=420"
+    },
+    {
+      "query": "mike leach",
+      "start_timestamp": 1729038000,
+      "end_timestamp": 1729066200,
+      "search_volume": 10000,
+      "increase_percentage": 600,
+      "trend_breakdown": [
+        "coach leach",
+        "coach mike leach"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mike+leach&tz=420"
+    },
+    {
+      "query": "alim mcneill",
+      "start_timestamp": 1729036200,
+      "end_timestamp": 1729082400,
+      "search_volume": 5000,
+      "increase_percentage": 200,
+      "trend_breakdown": [
+        "alim mcneil"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alim+mcneill&tz=420"
+    },
+    {
+      "query": "españa - serbia",
+      "start_timestamp": 1729014600,
+      "end_timestamp": 1729039200,
+      "search_volume": 20000,
+      "increase_percentage": 1000,
+      "trend_breakdown": [
+        "españa vs. serbia"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=espa%C3%B1a+-+serbia&tz=420"
+    },
+    {
+      "query": "wild vs blues",
+      "start_timestamp": 1729033800,
+      "end_timestamp": 1729080600,
+      "search_volume": 20000,
+      "increase_percentage": 200,
+      "trend_breakdown": [
+        "minnesota wild",
+        "mn wild",
+        "st louis blues",
+        "filip gustavsson",
+        "stl blues",
+        "wild hockey",
+        "jakub lauko",
+        "blues"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=wild+vs+blues&tz=420"
+    },
+    {
+      "query": "lufthansa",
+      "start_timestamp": 1729009800,
+      "end_timestamp": 1729086000,
+      "search_volume": 10000,
+      "increase_percentage": 75,
+      "trend_breakdown": [
+        "lufthansa airlines",
+        "lufthansa fined $4 million"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lufthansa&tz=420"
+    },
+    {
+      "query": "south carolina women's basketball",
+      "start_timestamp": 1729035000,
+      "end_timestamp": 1729086000,
+      "search_volume": 5000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=south+carolina+women%27s+basketball&tz=420"
+    },
+    {
+      "query": "life is strange double exposure",
+      "start_timestamp": 1729023000,
+      "end_timestamp": 1729079400,
+      "search_volume": 5000,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=life+is+strange+double+exposure&tz=420"
+    },
+    {
+      "query": "andres guardado",
+      "start_timestamp": 1729042200,
+      "end_timestamp": 1729067400,
+      "search_volume": 10000,
+      "increase_percentage": 500,
+      "trend_breakdown": [
+        "andrés guardado",
+        "diego lainez",
+        "guardado"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=andres+guardado&tz=420"
+    },
+    {
+      "query": "canada vs panama",
+      "start_timestamp": 1729033200,
+      "end_timestamp": 1729053600,
+      "search_volume": 10000,
+      "increase_percentage": 500,
+      "trend_breakdown": [
+        "canadá - panamá"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=canada+vs+panama&tz=420"
+    },
+    {
+      "query": "fbi show",
+      "start_timestamp": 1729035000,
+      "end_timestamp": 1729061400,
+      "search_volume": 20000,
+      "increase_percentage": 200,
+      "trend_breakdown": [
+        "fbi cast",
+        "fbi",
+        "is tiffany leaving fbi",
+        "why is tiffany leaving fbi",
+        "cast of fbi",
+        "fbi tv series"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fbi+show&tz=420"
+    },
+    {
+      "query": "pelicans vs rockets",
+      "start_timestamp": 1729038600,
+      "end_timestamp": 1729081800,
+      "search_volume": 10000,
+      "increase_percentage": 100,
+      "trend_breakdown": [
+        "houston rockets",
+        "rockets",
+        "pelicans",
+        "zion williamson",
+        "new orleans pelicans vs houston rockets match player stats"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pelicans+vs+rockets&tz=420"
+    },
+    {
+      "query": "trump bloomberg interview",
+      "start_timestamp": 1729022400,
+      "end_timestamp": 1729079400,
+      "search_volume": 20000,
+      "increase_percentage": 100,
+      "trend_breakdown": [
+        "john micklethwait",
+        "bloomberg",
+        "economic club of chicago",
+        "bloomberg news"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+bloomberg+interview&tz=420"
+    },
+    {
+      "query": "defense rankings week 7",
+      "start_timestamp": 1729056000,
+      "end_timestamp": 1729085400,
+      "search_volume": 10000,
+      "increase_percentage": 100,
+      "trend_breakdown": [
+        "trade analyzer",
+        "demario douglas",
+        "start sit week 7",
+        "fantasypros"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=defense+rankings+week+7&tz=420"
+    },
+    {
+      "query": "bolivia vs argentina",
+      "start_timestamp": 1729028400,
+      "end_timestamp": 1729079400,
+      "search_volume": 10000,
+      "increase_percentage": 200,
+      "trend_breakdown": [
+        "argentina hoy",
+        "thiago almada",
+        "selección de fútbol de argentina"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bolivia+vs+argentina&tz=420"
+    },
+    {
+      "query": "fbi most wanted",
+      "start_timestamp": 1729035000,
+      "end_timestamp": 1729077000,
+      "search_volume": 5000,
+      "increase_percentage": 100,
+      "trend_breakdown": [
+        "fbi most wanted cast"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fbi+most+wanted&tz=420"
+    },
+    {
+      "query": "english teacher",
+      "start_timestamp": 1729033800,
+      "end_timestamp": 1729087800,
+      "search_volume": 5000,
+      "increase_percentage": 100,
+      "trend_breakdown": [
+        "brian jordan alvarez"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=english+teacher&tz=420"
+    },
+    {
+      "query": "shai davidai",
+      "start_timestamp": 1729036200,
+      "end_timestamp": 1729085400,
+      "search_volume": 5000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=shai+davidai&tz=420"
+    },
+    {
+      "query": "kings vs jazz",
+      "start_timestamp": 1729042800,
+      "end_timestamp": 1729079400,
+      "search_volume": 5000,
+      "increase_percentage": 200,
+      "trend_breakdown": [
+        "utah jazz",
+        "sacramento kings",
+        "keyonte george",
+        "sacramento kings vs utah jazz match player stats"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kings+vs+jazz&tz=420"
+    },
+    {
+      "query": "where is the comet tonight",
+      "start_timestamp": 1729033200,
+      "end_timestamp": 1729050000,
+      "search_volume": 20000,
+      "increase_percentage": 200,
+      "trend_breakdown": [
+        "comet october 2024",
+        "how to see the comet tonight",
+        "comet tonight california",
+        "comet tonight colorado",
+        "tsuchinshan-atlas",
+        "where to see comet tonight",
+        "comet viewing tonight",
+        "comet visible tonight",
+        "comet tonight utah",
+        "what comet is visible tonight",
+        "comet tonight texas",
+        "where to see the comet tonight",
+        "comet atlas",
+        "comet tonight florida",
+        "what direction is the comet"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=where+is+the+comet+tonight&tz=420"
+    },
+    {
+      "query": "jay leno",
+      "start_timestamp": 1729066800,
+      "end_timestamp": 1729086000,
+      "search_volume": 1000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jay+leno&tz=420"
+    },
+    {
+      "query": "food replacement snap",
+      "start_timestamp": 1729024800,
+      "end_timestamp": 1729045800,
+      "search_volume": 20000,
+      "increase_percentage": 700,
+      "trend_breakdown": [
+        "snap food stamps florida"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=food+replacement+snap&tz=420"
+    },
+    {
+      "query": "ual stock",
+      "start_timestamp": 1729022400,
+      "search_volume": 2000,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ual+stock&tz=420"
+    },
+    {
+      "query": "escocia - portugal",
+      "start_timestamp": 1729014600,
+      "end_timestamp": 1729037400,
+      "search_volume": 20000,
+      "increase_percentage": 800,
+      "trend_breakdown": [
+        "liga de naciones",
+        "escocia vs. portugal"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=escocia+-+portugal&tz=420"
+    },
+    {
+      "query": "week 7 defense rankings",
+      "start_timestamp": 1729062000,
+      "end_timestamp": 1729084800,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "trend_breakdown": [
+        "week 7 defense",
+        "best defense week 7"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=week+7+defense+rankings&tz=420"
+    },
+    {
+      "query": "yankees game",
+      "start_timestamp": 1729036200,
+      "end_timestamp": 1729050000,
+      "search_volume": 20000,
+      "increase_percentage": 300,
+      "trend_breakdown": [
+        "gleyber torres"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=yankees+game&tz=420"
+    },
+    {
+      "query": "heidi klum",
+      "start_timestamp": 1729073400,
+      "end_timestamp": 1729084200,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=heidi+klum&tz=420"
+    },
+    {
+      "query": "carla bruni",
+      "start_timestamp": 1729035000,
+      "end_timestamp": 1729084200,
+      "search_volume": 5000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=carla+bruni&tz=420"
+    },
+    {
+      "query": "golden knights vs capitals",
+      "start_timestamp": 1729032000,
+      "end_timestamp": 1729078800,
+      "search_volume": 5000,
+      "increase_percentage": 200,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=golden+knights+vs+capitals&tz=420"
+    },
+    {
+      "query": "nico paz",
+      "start_timestamp": 1729042200,
+      "end_timestamp": 1729081800,
+      "search_volume": 5000,
+      "increase_percentage": 200,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nico+paz&tz=420"
+    },
+    {
+      "query": "deandre hopkins",
+      "start_timestamp": 1729016400,
+      "end_timestamp": 1729082400,
+      "search_volume": 5000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=deandre+hopkins&tz=420"
+    },
+    {
+      "query": "2k25 patch notes",
+      "start_timestamp": 1729060800,
+      "end_timestamp": 1729087200,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "trend_breakdown": [
+        "nba 2k25 patch notes"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=2k25+patch+notes&tz=420"
+    },
+    {
+      "query": "cameron diaz",
+      "start_timestamp": 1729059000,
+      "end_timestamp": 1729088400,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cameron+diaz&tz=420"
+    },
+    {
+      "query": "jose ramirez",
+      "start_timestamp": 1729035600,
+      "end_timestamp": 1729051800,
+      "search_volume": 10000,
+      "increase_percentage": 700,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jose+ramirez&tz=420"
+    },
+    {
+      "query": "dallas stars",
+      "start_timestamp": 1729037400,
+      "end_timestamp": 1729051200,
+      "search_volume": 10000,
+      "increase_percentage": 400,
+      "trend_breakdown": [
+        "sharks vs stars"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dallas+stars&tz=420"
+    },
+    {
+      "query": "olivia nuzzi",
+      "start_timestamp": 1729020600,
+      "end_timestamp": 1729081200,
+      "search_volume": 5000,
+      "increase_percentage": 200,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=olivia+nuzzi&tz=420"
+    },
+    {
+      "query": "hannah smith love island",
+      "start_timestamp": 1729020000,
+      "end_timestamp": 1729081800,
+      "search_volume": 5000,
+      "increase_percentage": 100,
+      "trend_breakdown": [
+        "hannah love island",
+        "hannah smith"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hannah+smith+love+island&tz=420"
+    },
+    {
+      "query": "memefi code",
+      "start_timestamp": 1729065000,
+      "end_timestamp": 1729081800,
+      "search_volume": 2000,
+      "increase_percentage": 400,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=memefi+code&tz=420"
+    },
+    {
+      "query": "tampa bay lightning",
+      "start_timestamp": 1729033200,
+      "end_timestamp": 1729078200,
+      "search_volume": 10000,
+      "increase_percentage": 200,
+      "trend_breakdown": [
+        "lightning game",
+        "canucks vs lightning"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tampa+bay+lightning&tz=420"
+    },
+    {
+      "query": "moses moody",
+      "start_timestamp": 1729051800,
+      "end_timestamp": 1729080600,
+      "search_volume": 2000,
+      "increase_percentage": 200,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=moses+moody&tz=420"
+    },
+    {
+      "query": "christopher columbus dna",
+      "start_timestamp": 1729006200,
+      "end_timestamp": 1729036200,
+      "search_volume": 10000,
+      "increase_percentage": 300,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=christopher+columbus+dna&tz=420"
+    },
+    {
+      "query": "dwight howard",
+      "start_timestamp": 1729039800,
+      "end_timestamp": 1729053600,
+      "search_volume": 20000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dwight+howard&tz=420"
+    },
+    {
+      "query": "india national cricket team vs new zealand national cricket team timeline",
+      "start_timestamp": 1729050600,
+      "end_timestamp": 1729080000,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=india+national+cricket+team+vs+new+zealand+national+cricket+team+timeline&tz=420"
+    },
+    {
+      "query": "washington capitals",
+      "start_timestamp": 1729033200,
+      "end_timestamp": 1729075800,
+      "search_volume": 5000,
+      "increase_percentage": 200,
+      "trend_breakdown": [
+        "capitals"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=washington+capitals&tz=420"
+    },
+    {
+      "query": "asmongold banned",
+      "start_timestamp": 1729011000,
+      "end_timestamp": 1729070400,
+      "search_volume": 5000,
+      "increase_percentage": 100,
+      "trend_breakdown": [
+        "asmongold banned 2024"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=asmongold+banned&tz=420"
+    },
+    {
+      "query": "anthony volpe",
+      "start_timestamp": 1729037400,
+      "end_timestamp": 1729050600,
+      "search_volume": 10000,
+      "increase_percentage": 200,
+      "trend_breakdown": [
+        "alex verdugo",
+        "gold glove finalists 2024",
+        "juan soto"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=anthony+volpe&tz=420"
+    },
+    {
+      "query": "blackhawks vs flames",
+      "start_timestamp": 1729039800,
+      "end_timestamp": 1729080600,
+      "search_volume": 5000,
+      "increase_percentage": 100,
+      "trend_breakdown": [
+        "calgary flames"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blackhawks+vs+flames&tz=420"
+    },
+    {
+      "query": "breaking benjamin",
+      "start_timestamp": 1729052400,
+      "end_timestamp": 1729087200,
+      "search_volume": 2000,
+      "increase_percentage": 75,
+      "trend_breakdown": [
+        "breaking benjamin awaken"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=breaking+benjamin&tz=420"
+    },
+    {
+      "query": "ningbo open",
+      "start_timestamp": 1729060200,
+      "end_timestamp": 1729084200,
+      "search_volume": 1000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ningbo+open&tz=420"
+    },
+    {
+      "query": "stanley kubrick",
+      "start_timestamp": 1729050600,
+      "end_timestamp": 1729080600,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "trend_breakdown": [
+        "full metal jacket"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=stanley+kubrick&tz=420"
+    },
+    {
+      "query": "rachel yaffe liver cancer",
+      "start_timestamp": 1729072200,
+      "end_timestamp": 1729078800,
+      "search_volume": 2000,
+      "increase_percentage": 900,
+      "trend_breakdown": [
+        "rachel yaffe tiktok"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=rachel+yaffe+liver+cancer&tz=420"
+    },
+    {
+      "query": "doutzen kroes",
+      "start_timestamp": 1729035000,
+      "end_timestamp": 1729079400,
+      "search_volume": 2000,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=doutzen+kroes&tz=420"
+    },
+    {
+      "query": "alejandro zendejas",
+      "start_timestamp": 1729045200,
+      "end_timestamp": 1729077000,
+      "search_volume": 5000,
+      "increase_percentage": 200,
+      "trend_breakdown": [
+        "zendejas",
+        "jesús angulo",
+        "zendejas america",
+        "edson alvarez",
+        "edson álvarez"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alejandro+zendejas&tz=420"
+    },
+    {
+      "query": "carolina hurricanes",
+      "start_timestamp": 1729032600,
+      "end_timestamp": 1729046400,
+      "search_volume": 10000,
+      "increase_percentage": 200,
+      "trend_breakdown": [
+        "devils vs hurricanes",
+        "jackson blake",
+        "devils",
+        "nj devils"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=carolina+hurricanes&tz=420"
+    },
+    {
+      "query": "tarjeta roja",
+      "start_timestamp": 1729024200,
+      "end_timestamp": 1729043400,
+      "search_volume": 5000,
+      "increase_percentage": 300,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tarjeta+roja&tz=420"
+    },
+    {
+      "query": "russell crowe",
+      "start_timestamp": 1729035000,
+      "end_timestamp": 1729064400,
+      "search_volume": 5000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=russell+crowe&tz=420"
+    },
+    {
+      "query": "portugal fc",
+      "start_timestamp": 1729019400,
+      "end_timestamp": 1729032000,
+      "search_volume": 10000,
+      "increase_percentage": 800,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=portugal+fc&tz=420"
+    },
+    {
+      "query": "myles garrett",
+      "start_timestamp": 1729016400,
+      "end_timestamp": 1729077600,
+      "search_volume": 5000,
+      "increase_percentage": 200,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=myles+garrett&tz=420"
+    },
+    {
+      "query": "2024 presidential election polls",
+      "start_timestamp": 1729068000,
+      "end_timestamp": 1729084200,
+      "search_volume": 2000,
+      "increase_percentage": 50,
+      "trend_breakdown": [
+        "current presidential polls",
+        "who is winning the election",
+        "polls 2024",
+        "presidential polls 2024",
+        "harris trump polls",
+        "polls harris trump"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=2024+presidential+election+polls&tz=420"
+    },
+    {
+      "query": "polonia - croacia",
+      "start_timestamp": 1729014600,
+      "end_timestamp": 1729034400,
+      "search_volume": 10000,
+      "increase_percentage": 300,
+      "trend_breakdown": [
+        "polonia vs. croacia"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=polonia+-+croacia&tz=420"
+    },
+    {
+      "query": "andrew thomas",
+      "start_timestamp": 1729029600,
+      "end_timestamp": 1729083000,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=andrew+thomas&tz=420"
+    },
+    {
+      "query": "body works candles",
+      "start_timestamp": 1729033800,
+      "end_timestamp": 1729087800,
+      "search_volume": 5000,
+      "increase_percentage": 200,
+      "trend_breakdown": [
+        "bath and body works candles",
+        "bath and body works snowed in candles",
+        "snowed in bath and body works"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=body+works+candles&tz=420"
+    },
+    {
+      "query": "jazz chisholm jr",
+      "start_timestamp": 1729036800,
+      "end_timestamp": 1729050000,
+      "search_volume": 5000,
+      "increase_percentage": 400,
+      "trend_breakdown": [
+        "chisholm yankees",
+        "jazz chisholm jr."
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jazz+chisholm+jr&tz=420"
+    },
+    {
+      "query": "david duke",
+      "start_timestamp": 1729027800,
+      "end_timestamp": 1729072200,
+      "search_volume": 2000,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=david+duke&tz=420"
+    },
+    {
+      "query": "rosatis",
+      "start_timestamp": 1729003800,
+      "end_timestamp": 1729038000,
+      "search_volume": 5000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=rosatis&tz=420"
+    },
+    {
+      "query": "john jacobson jr",
+      "start_timestamp": 1729016400,
+      "end_timestamp": 1729083000,
+      "search_volume": 5000,
+      "increase_percentage": 75,
+      "trend_breakdown": [
+        "skylar deleon"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=john+jacobson+jr&tz=420"
+    },
+    {
+      "query": "luke weaver",
+      "start_timestamp": 1729047000,
+      "end_timestamp": 1729051200,
+      "search_volume": 10000,
+      "increase_percentage": 1000,
+      "trend_breakdown": [
+        "clay holmes",
+        "weaver yankees",
+        "luke weaver yankees"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=luke+weaver&tz=420"
+    },
+    {
+      "query": "jasmine crockett",
+      "start_timestamp": 1729051200,
+      "end_timestamp": 1729074000,
+      "search_volume": 2000,
+      "increase_percentage": 200,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jasmine+crockett&tz=420"
+    },
+    {
+      "query": "kendall jenner",
+      "start_timestamp": 1729036200,
+      "end_timestamp": 1729073400,
+      "search_volume": 2000,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kendall+jenner&tz=420"
+    },
+    {
+      "query": "ecuador vs",
+      "start_timestamp": 1729032000,
+      "end_timestamp": 1729045800,
+      "search_volume": 10000,
+      "increase_percentage": 300,
+      "trend_breakdown": [
+        "uruguay vs",
+        "uruguay national football team vs ecuador national football team lineups"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ecuador+vs&tz=420"
+    },
+    {
+      "query": "azealia banks",
+      "start_timestamp": 1729037400,
+      "end_timestamp": 1729075800,
+      "search_volume": 2000,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=azealia+banks&tz=420"
+    },
+    {
+      "query": "stranger things season 5",
+      "start_timestamp": 1729046400,
+      "end_timestamp": 1729075200,
+      "search_volume": 2000,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=stranger+things+season+5&tz=420"
+    },
+    {
+      "query": "unc vs memphis basketball",
+      "start_timestamp": 1729033800,
+      "end_timestamp": 1729077600,
+      "search_volume": 10000,
+      "increase_percentage": 100,
+      "trend_breakdown": [
+        "memphis tigers basketball",
+        "unc basketball schedule",
+        "north carolina basketball",
+        "memphis basketball",
+        "unc basketball roster",
+        "seth trimble",
+        "unc vs memphis"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=unc+vs+memphis+basketball&tz=420"
+    },
+    {
+      "query": "nashville predators",
+      "start_timestamp": 1729036800,
+      "end_timestamp": 1729050600,
+      "search_volume": 5000,
+      "increase_percentage": 100,
+      "trend_breakdown": [
+        "kraken vs predators"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nashville+predators&tz=420"
+    },
+    {
+      "query": "top oregon official put on leave",
+      "start_timestamp": 1729006800,
+      "end_timestamp": 1729027200,
+      "search_volume": 5000,
+      "increase_percentage": 200,
+      "trend_breakdown": [
+        "oregon forestry mike shaw"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=top+oregon+official+put+on+leave&tz=420"
+    },
+    {
+      "query": "curt cignetti",
+      "start_timestamp": 1729023600,
+      "end_timestamp": 1729081800,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=curt+cignetti&tz=420"
+    },
+    {
+      "query": "austin wells",
+      "start_timestamp": 1729036200,
+      "end_timestamp": 1729049400,
+      "search_volume": 5000,
+      "increase_percentage": 300,
+      "trend_breakdown": [
+        "aaron boone"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=austin+wells&tz=420"
+    },
+    {
+      "query": "nhl standings",
+      "start_timestamp": 1729046400,
+      "end_timestamp": 1729080600,
+      "search_volume": 5000,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nhl+standings&tz=420"
+    },
+    {
+      "query": "online trading",
+      "start_timestamp": 1729064400,
+      "end_timestamp": 1729078800,
+      "search_volume": 1000,
+      "increase_percentage": 200,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=online+trading&tz=420"
+    },
+    {
+      "query": "donald trump the apprentice movie",
+      "start_timestamp": 1729057200,
+      "end_timestamp": 1729069800,
+      "search_volume": 2000,
+      "increase_percentage": 400,
+      "trend_breakdown": [
+        "roy cohn"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=donald+trump+the+apprentice+movie&tz=420"
+    },
+    {
+      "query": "venezuela",
+      "start_timestamp": 1729032000,
+      "end_timestamp": 1729046400,
+      "search_volume": 5000,
+      "increase_percentage": 300,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=venezuela&tz=420"
+    },
+    {
+      "query": "yankees vs cleveland guardians match player stats",
+      "start_timestamp": 1729037400,
+      "end_timestamp": 1729076400,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "trend_breakdown": [
+        "nyy"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=yankees+vs+cleveland+guardians+match+player+stats&tz=420"
+    },
+    {
+      "query": "harris faulkner",
+      "start_timestamp": 1729005000,
+      "end_timestamp": 1729086600,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=harris+faulkner&tz=420"
+    },
+    {
+      "query": "colombia",
+      "start_timestamp": 1729023000,
+      "end_timestamp": 1729037400,
+      "search_volume": 5000,
+      "increase_percentage": 300,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=colombia&tz=420"
+    },
+    {
+      "query": "dunkin munchkin bucket",
+      "start_timestamp": 1729076400,
+      "end_timestamp": 1729085400,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dunkin+munchkin+bucket&tz=420"
+    },
+    {
+      "query": "horry county schools",
+      "start_timestamp": 1729080000,
+      "end_timestamp": 1729084800,
+      "search_volume": 1000,
+      "increase_percentage": 50,
+      "trend_breakdown": [
+        "sc"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=horry+county+schools&tz=420"
+    },
+    {
+      "query": "jessica biel",
+      "start_timestamp": 1729035000,
+      "end_timestamp": 1729056000,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jessica+biel&tz=420"
+    },
+    {
+      "query": "vix",
+      "start_timestamp": 1729036200,
+      "end_timestamp": 1729054200,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=vix&tz=420"
+    },
+    {
+      "query": "girl haunts boy cast",
+      "start_timestamp": 1729039800,
+      "end_timestamp": 1729062000,
+      "search_volume": 2000,
+      "increase_percentage": 75,
+      "trend_breakdown": [
+        "michael cimino"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=girl+haunts+boy+cast&tz=420"
+    },
+    {
+      "query": "raiders depth chart",
+      "start_timestamp": 1729063200,
+      "end_timestamp": 1729080600,
+      "search_volume": 10000,
+      "increase_percentage": 75,
+      "trend_breakdown": [
+        "raiders",
+        "nfl rumors",
+        "bleacher report",
+        "mike greenberg",
+        "did davante adams get traded",
+        "profootballtalk",
+        "randy moss",
+        "adams davante",
+        "raiders trade",
+        "jets adams",
+        "davante adams to the jets",
+        "davanta adams",
+        "nfl trade news",
+        "davante adams trade details",
+        "devante adams jets"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=raiders+depth+chart&tz=420"
+    },
+    {
+      "query": "panthers vs blue jackets",
+      "start_timestamp": 1729032600,
+      "end_timestamp": 1729077000,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=panthers+vs+blue+jackets&tz=420"
+    },
+    {
+      "query": "american horror stories season 4",
+      "start_timestamp": 1729032600,
+      "end_timestamp": 1729066200,
+      "search_volume": 2000,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=american+horror+stories+season+4&tz=420"
+    },
+    {
+      "query": "kennesaw state football",
+      "start_timestamp": 1729039200,
+      "end_timestamp": 1729051800,
+      "search_volume": 5000,
+      "increase_percentage": 400,
+      "trend_breakdown": [
+        "mtsu football",
+        "kennesaw st vs middle tenn."
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kennesaw+state+football&tz=420"
+    },
+    {
+      "query": "noman ali",
+      "start_timestamp": 1729063800,
+      "end_timestamp": 1729084800,
+      "search_volume": 500,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=noman+ali&tz=420"
+    },
+    {
+      "query": "gypsy rose",
+      "start_timestamp": 1729081200,
+      "end_timestamp": 1729085400,
+      "search_volume": 500,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=gypsy+rose&tz=420"
+    },
+    {
+      "query": "robert roberson",
+      "start_timestamp": 1729076400,
+      "end_timestamp": 1729084800,
+      "search_volume": 1000,
+      "increase_percentage": 50,
+      "trend_breakdown": [
+        "shaken baby syndrome"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=robert+roberson&tz=420"
+    },
+    {
+      "query": "bright minds biosciences",
+      "start_timestamp": 1729012800,
+      "end_timestamp": 1729039800,
+      "search_volume": 5000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bright+minds+biosciences&tz=420"
+    },
+    {
+      "query": "brazil",
+      "start_timestamp": 1729040400,
+      "end_timestamp": 1729051800,
+      "search_volume": 2000,
+      "increase_percentage": 300,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=brazil&tz=420"
+    },
+    {
+      "query": "tim hill",
+      "start_timestamp": 1729042200,
+      "end_timestamp": 1729048200,
+      "search_volume": 5000,
+      "increase_percentage": 1000,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tim+hill&tz=420"
+    },
+    {
+      "query": "phaedra parks",
+      "start_timestamp": 1729039800,
+      "end_timestamp": 1729054200,
+      "search_volume": 10000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=phaedra+parks&tz=420"
+    },
+    {
+      "query": "steven kwan",
+      "start_timestamp": 1729038000,
+      "end_timestamp": 1729046400,
+      "search_volume": 5000,
+      "increase_percentage": 400,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=steven+kwan&tz=420"
+    },
+    {
+      "query": "launchpad",
+      "start_timestamp": 1729082400,
+      "end_timestamp": 1729085400,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=launchpad&tz=420"
+    },
+    {
+      "query": "kristina khorram",
+      "start_timestamp": 1729059000,
+      "end_timestamp": 1729080600,
+      "search_volume": 500,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kristina+khorram&tz=420"
+    },
+    {
+      "query": "guatemala",
+      "start_timestamp": 1729036200,
+      "end_timestamp": 1729048800,
+      "search_volume": 2000,
+      "increase_percentage": 200,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=guatemala&tz=420"
+    },
+    {
+      "query": "aidan morris",
+      "start_timestamp": 1729044600,
+      "end_timestamp": 1729055400,
+      "search_volume": 2000,
+      "increase_percentage": 200,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=aidan+morris&tz=420"
+    },
+    {
+      "query": "western kentucky football",
+      "start_timestamp": 1729057200,
+      "end_timestamp": 1729081800,
+      "search_volume": 1000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=western+kentucky+football&tz=420"
+    },
+    {
+      "query": "when is election day 2024",
+      "start_timestamp": 1729074000,
+      "end_timestamp": 1729081800,
+      "search_volume": 1000,
+      "increase_percentage": 50,
+      "trend_breakdown": [
+        "election",
+        "2024"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=when+is+election+day+2024&tz=420"
+    },
+    {
+      "query": "nba paul george",
+      "start_timestamp": 1729018200,
+      "end_timestamp": 1729030800,
+      "search_volume": 5000,
+      "increase_percentage": 300,
+      "trend_breakdown": [
+        "nba regular season"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nba+paul+george&tz=420"
+    },
+    {
+      "query": "jack nicholson",
+      "start_timestamp": 1729082400,
+      "end_timestamp": 1729084200,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "trend_breakdown": [
+        "smile 2 release date",
+        "ray nicholson"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jack+nicholson&tz=420"
+    },
+    {
+      "query": "travis scott",
+      "start_timestamp": 1729040400,
+      "end_timestamp": 1729055400,
+      "search_volume": 2000,
+      "increase_percentage": 300,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=travis+scott&tz=420"
+    },
+    {
+      "query": "married at first sight",
+      "start_timestamp": 1729033800,
+      "end_timestamp": 1729055400,
+      "search_volume": 2000,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=married+at+first+sight&tz=420"
+    },
+    {
+      "query": "matthew lillard",
+      "start_timestamp": 1729049400,
+      "end_timestamp": 1729074000,
+      "search_volume": 1000,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=matthew+lillard&tz=420"
+    },
+    {
+      "query": "outer banks season 4 part 2",
+      "start_timestamp": 1729040400,
+      "end_timestamp": 1729064400,
+      "search_volume": 2000,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=outer+banks+season+4+part+2&tz=420"
+    },
+    {
+      "query": "disaster relief",
+      "start_timestamp": 1729030200,
+      "end_timestamp": 1729054800,
+      "search_volume": 5000,
+      "increase_percentage": 100,
+      "trend_breakdown": [
+        "north carolina fema workers"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=disaster+relief&tz=420"
+    },
+    {
+      "query": "jennie",
+      "start_timestamp": 1729053000,
+      "end_timestamp": 1729072200,
+      "search_volume": 1000,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jennie&tz=420"
+    },
+    {
+      "query": "philadelphia eagles nick sirianni",
+      "start_timestamp": 1729032600,
+      "end_timestamp": 1729040400,
+      "search_volume": 5000,
+      "increase_percentage": 500,
+      "trend_breakdown": [
+        "eagles head coach nick sirianni"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=philadelphia+eagles+nick+sirianni&tz=420"
+    },
+    {
+      "query": "aliens",
+      "start_timestamp": 1729051200,
+      "end_timestamp": 1729071000,
+      "search_volume": 1000,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=aliens&tz=420"
+    },
+    {
+      "query": "switzerland vs denmark",
+      "start_timestamp": 1729015200,
+      "end_timestamp": 1729029600,
+      "search_volume": 5000,
+      "increase_percentage": 200,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=switzerland+vs+denmark&tz=420"
+    },
+    {
+      "query": "jutta leerdam",
+      "start_timestamp": 1729072800,
+      "end_timestamp": 1729083000,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jutta+leerdam&tz=420"
+    },
+    {
+      "query": "trayce jackson-davis",
+      "start_timestamp": 1729048800,
+      "end_timestamp": 1729074600,
+      "search_volume": 1000,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trayce+jackson-davis&tz=420"
+    },
+    {
+      "query": "sed de venganza",
+      "start_timestamp": 1729041600,
+      "end_timestamp": 1729060200,
+      "search_volume": 2000,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sed+de+venganza&tz=420"
+    },
+    {
+      "query": "cleveland indians",
+      "start_timestamp": 1729038600,
+      "end_timestamp": 1729047600,
+      "search_volume": 5000,
+      "increase_percentage": 200,
+      "trend_breakdown": [
+        "ben lively",
+        "pedro avila"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cleveland+indians&tz=420"
+    },
+    {
+      "query": "early voting florida",
+      "start_timestamp": 1729072800,
+      "end_timestamp": 1729083000,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=early+voting+florida&tz=420"
+    },
+    {
+      "query": "gwen stefani",
+      "start_timestamp": 1729040400,
+      "end_timestamp": 1729044600,
+      "search_volume": 5000,
+      "increase_percentage": 200,
+      "trend_breakdown": [
+        "reba",
+        "reba mcentire"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=gwen+stefani&tz=420"
+    },
+    {
+      "query": "bob woodward",
+      "start_timestamp": 1729077600,
+      "end_timestamp": 1729080000,
+      "search_volume": 500,
+      "increase_percentage": 600,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bob+woodward&tz=420"
+    },
+    {
+      "query": "brésil – pérou",
+      "start_timestamp": 1729037400,
+      "end_timestamp": 1729074000,
+      "search_volume": 2000,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=br%C3%A9sil+%E2%80%93+p%C3%A9rou&tz=420"
+    },
+    {
+      "query": "grace van patten",
+      "start_timestamp": 1729053600,
+      "end_timestamp": 1729074600,
+      "search_volume": 1000,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=grace+van+patten&tz=420"
+    },
+    {
+      "query": "fall back 2024",
+      "start_timestamp": 1729075800,
+      "end_timestamp": 1729081200,
+      "search_volume": 1000,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fall+back+2024&tz=420"
+    },
+    {
+      "query": "trevor noah",
+      "start_timestamp": 1729050600,
+      "end_timestamp": 1729066200,
+      "search_volume": 1000,
+      "increase_percentage": 200,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trevor+noah&tz=420"
+    },
+    {
+      "query": "super bowl 2025",
+      "start_timestamp": 1729017600,
+      "end_timestamp": 1729033800,
+      "search_volume": 5000,
+      "increase_percentage": 100,
+      "trend_breakdown": [
+        "super bowl"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=super+bowl+2025&tz=420"
+    },
+    {
+      "query": "dogecoin",
+      "start_timestamp": 1729072800,
+      "end_timestamp": 1729083000,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dogecoin&tz=420"
+    },
+    {
+      "query": "entergy",
+      "start_timestamp": 1729072200,
+      "end_timestamp": 1729080600,
+      "search_volume": 500,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=entergy&tz=420"
+    },
+    {
+      "query": "malik tillman",
+      "start_timestamp": 1729044000,
+      "end_timestamp": 1729054800,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=malik+tillman&tz=420"
+    },
+    {
+      "query": "manny ramirez",
+      "start_timestamp": 1729038600,
+      "end_timestamp": 1729051800,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=manny+ramirez&tz=420"
+    },
+    {
+      "query": "alien",
+      "start_timestamp": 1729053000,
+      "end_timestamp": 1729069800,
+      "search_volume": 2000,
+      "increase_percentage": 50,
+      "trend_breakdown": [
+        "alien romulus streaming"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alien&tz=420"
+    },
+    {
+      "query": "prime video",
+      "start_timestamp": 1729032600,
+      "end_timestamp": 1729037400,
+      "search_volume": 10000,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=prime+video&tz=420"
+    },
+    {
+      "query": "brasil",
+      "start_timestamp": 1729041000,
+      "end_timestamp": 1729050000,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=brasil&tz=420"
+    },
+    {
+      "query": "tim ream",
+      "start_timestamp": 1729045800,
+      "end_timestamp": 1729056000,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tim+ream&tz=420"
+    },
+    {
+      "query": "marc andre fleury",
+      "start_timestamp": 1729036200,
+      "end_timestamp": 1729048200,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=marc+andre+fleury&tz=420"
+    },
+    {
+      "query": "elisabetta cocciaretto",
+      "start_timestamp": 1729054800,
+      "end_timestamp": 1729071600,
+      "search_volume": 500,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=elisabetta+cocciaretto&tz=420"
+    },
+    {
+      "query": "josh sargent",
+      "start_timestamp": 1729044600,
+      "end_timestamp": 1729054800,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=josh+sargent&tz=420"
+    },
+    {
+      "query": "student loan",
+      "start_timestamp": 1729068600,
+      "end_timestamp": 1729079400,
+      "search_volume": 200,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=student+loan&tz=420"
+    },
+    {
+      "query": "naomi campbell",
+      "start_timestamp": 1729034400,
+      "end_timestamp": 1729065000,
+      "search_volume": 2000,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=naomi+campbell&tz=420"
+    },
+    {
+      "query": "landry shamet",
+      "start_timestamp": 1729042800,
+      "end_timestamp": 1729081200,
+      "search_volume": 2000,
+      "increase_percentage": 75,
+      "trend_breakdown": [
+        "new york knicks"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=landry+shamet&tz=420"
+    },
+    {
+      "query": "al pacino net worth",
+      "start_timestamp": 1729071600,
+      "end_timestamp": 1729081800,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=al+pacino+net+worth&tz=420"
+    },
+    {
+      "query": "troye sivan",
+      "start_timestamp": 1729057800,
+      "end_timestamp": 1729072200,
+      "search_volume": 500,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=troye+sivan&tz=420"
+    },
+    {
+      "query": "eric adams",
+      "start_timestamp": 1729072800,
+      "end_timestamp": 1729080000,
+      "search_volume": 500,
+      "increase_percentage": 100,
+      "trend_breakdown": [
+        "nyc mayor"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=eric+adams&tz=420"
+    },
+    {
+      "query": "el secreto del rio",
+      "start_timestamp": 1729050000,
+      "end_timestamp": 1729064400,
+      "search_volume": 1000,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=el+secreto+del+rio&tz=420"
+    },
+    {
+      "query": "connections hint october 16",
+      "start_timestamp": 1729075200,
+      "end_timestamp": 1729081200,
+      "search_volume": 500,
+      "increase_percentage": 75,
+      "trend_breakdown": [
+        "october 16",
+        "wordle - the new york times"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=connections+hint+october+16&tz=420"
+    },
+    {
+      "query": "whoopi goldberg",
+      "start_timestamp": 1729040400,
+      "end_timestamp": 1729072800,
+      "search_volume": 1000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=whoopi+goldberg&tz=420"
+    },
+    {
+      "query": "logansport indiana",
+      "start_timestamp": 1729075800,
+      "end_timestamp": 1729080000,
+      "search_volume": 200,
+      "increase_percentage": 200,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=logansport+indiana&tz=420"
+    },
+    {
+      "query": "jazz chisholm",
+      "start_timestamp": 1729039200,
+      "end_timestamp": 1729048200,
+      "search_volume": 2000,
+      "increase_percentage": 200,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jazz+chisholm&tz=420"
+    },
+    {
+      "query": "brenden aaronson",
+      "start_timestamp": 1729045200,
+      "end_timestamp": 1729055400,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=brenden+aaronson&tz=420"
+    },
+    {
+      "query": "olivia culpo",
+      "start_timestamp": 1729031400,
+      "end_timestamp": 1729042800,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=olivia+culpo&tz=420"
+    },
+    {
+      "query": "strands hint today",
+      "start_timestamp": 1729074600,
+      "end_timestamp": 1729079400,
+      "search_volume": 1000,
+      "increase_percentage": 75,
+      "trend_breakdown": [
+        "nyt strands"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=strands+hint+today&tz=420"
+    },
+    {
+      "query": "invest 94l",
+      "start_timestamp": 1729075800,
+      "end_timestamp": 1729081800,
+      "search_volume": 200,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=invest+94l&tz=420"
+    },
+    {
+      "query": "liam neeson",
+      "start_timestamp": 1729077600,
+      "end_timestamp": 1729081800,
+      "search_volume": 200,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=liam+neeson&tz=420"
+    },
+    {
+      "query": "soulja boy",
+      "start_timestamp": 1729039200,
+      "end_timestamp": 1729054800,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=soulja+boy&tz=420"
+    },
+    {
+      "query": "iran vs qatar",
+      "start_timestamp": 1729005000,
+      "end_timestamp": 1729039200,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=iran+vs+qatar&tz=420"
+    },
+    {
+      "query": "college basketball",
+      "start_timestamp": 1729012800,
+      "end_timestamp": 1729042800,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=college+basketball&tz=420"
+    },
+    {
+      "query": "germán berterame",
+      "start_timestamp": 1729050600,
+      "end_timestamp": 1729056000,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "trend_breakdown": [
+        "berterame",
+        "german berterame"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=germ%C3%A1n+berterame&tz=420"
+    },
+    {
+      "query": "cara delevingne",
+      "start_timestamp": 1729058400,
+      "end_timestamp": 1729077000,
+      "search_volume": 500,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cara+delevingne&tz=420"
+    },
+    {
+      "query": "logan thompson",
+      "start_timestamp": 1729035600,
+      "end_timestamp": 1729045800,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "trend_breakdown": [
+        "vegas golden knights",
+        "wsh vs vgk"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=logan+thompson&tz=420"
+    },
+    {
+      "query": "victor wembanyama",
+      "start_timestamp": 1729038600,
+      "end_timestamp": 1729062000,
+      "search_volume": 2000,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=victor+wembanyama&tz=420"
+    },
+    {
+      "query": "weather atlanta",
+      "start_timestamp": 1729074600,
+      "end_timestamp": 1729080600,
+      "search_volume": 200,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=weather+atlanta&tz=420"
+    },
+    {
+      "query": "mauritania vs egypt",
+      "start_timestamp": 1729005600,
+      "end_timestamp": 1729022400,
+      "search_volume": 2000,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mauritania+vs+egypt&tz=420"
+    },
+    {
+      "query": "desi lydic",
+      "start_timestamp": 1729048200,
+      "end_timestamp": 1729078200,
+      "search_volume": 1000,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=desi+lydic&tz=420"
+    },
+    {
+      "query": "blake shelton",
+      "start_timestamp": 1729038000,
+      "end_timestamp": 1729053600,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blake+shelton&tz=420"
+    },
+    {
+      "query": "switch 2",
+      "start_timestamp": 1729059000,
+      "end_timestamp": 1729076400,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "trend_breakdown": [
+        "typhlosion leak story"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=switch+2&tz=420"
+    },
+    {
+      "query": "stephen curry",
+      "start_timestamp": 1729048200,
+      "end_timestamp": 1729056000,
+      "search_volume": 1000,
+      "increase_percentage": 200,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=stephen+curry&tz=420"
+    },
+    {
+      "query": "brayan rocchio",
+      "start_timestamp": 1729037400,
+      "end_timestamp": 1729044600,
+      "search_volume": 2000,
+      "increase_percentage": 200,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=brayan+rocchio&tz=420"
+    },
+    {
+      "query": "zoe on jeopardy",
+      "start_timestamp": 1729033800,
+      "end_timestamp": 1729040400,
+      "search_volume": 5000,
+      "increase_percentage": 200,
+      "trend_breakdown": [
+        "zoe grobman jeopardy",
+        "zoe jeopardy",
+        "zoe on jeopardy tonight",
+        "zoe jeopardy today"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=zoe+on+jeopardy&tz=420"
+    },
+    {
+      "query": "central african republic vs morocco",
+      "start_timestamp": 1729017600,
+      "end_timestamp": 1729031400,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=central+african+republic+vs+morocco&tz=420"
+    },
+    {
+      "query": "bo naylor",
+      "start_timestamp": 1729038000,
+      "end_timestamp": 1729045200,
+      "search_volume": 2000,
+      "increase_percentage": 200,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bo+naylor&tz=420"
+    },
+    {
+      "query": "gabriel diallo",
+      "start_timestamp": 1729065600,
+      "end_timestamp": 1729075200,
+      "search_volume": 200,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=gabriel+diallo&tz=420"
+    },
+    {
+      "query": "karolina muchova",
+      "start_timestamp": 1729059600,
+      "end_timestamp": 1729069200,
+      "search_volume": 500,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=karolina+muchova&tz=420"
+    },
+    {
+      "query": "gianluca busio",
+      "start_timestamp": 1729045800,
+      "end_timestamp": 1729054200,
+      "search_volume": 1000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=gianluca+busio&tz=420"
+    },
+    {
+      "query": "nba league pass",
+      "start_timestamp": 1729036200,
+      "end_timestamp": 1729048200,
+      "search_volume": 2000,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nba+league+pass&tz=420"
+    },
+    {
+      "query": "pedro pascal",
+      "start_timestamp": 1729053600,
+      "end_timestamp": 1729072800,
+      "search_volume": 500,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pedro+pascal&tz=420"
+    },
+    {
+      "query": "blues hockey",
+      "start_timestamp": 1729035000,
+      "end_timestamp": 1729048200,
+      "search_volume": 2000,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blues+hockey&tz=420"
+    },
+    {
+      "query": "dylan mcdermott",
+      "start_timestamp": 1729044000,
+      "end_timestamp": 1729059000,
+      "search_volume": 1000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dylan+mcdermott&tz=420"
+    },
+    {
+      "query": "nikkita lyons",
+      "start_timestamp": 1729039800,
+      "end_timestamp": 1729071000,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "trend_breakdown": [
+        "lola vice"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nikkita+lyons&tz=420"
+    },
+    {
+      "query": "trump vs harris polls",
+      "start_timestamp": 1729065600,
+      "end_timestamp": 1729075800,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "trend_breakdown": [
+        "polls today"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+vs+harris+polls&tz=420"
+    },
+    {
+      "query": "jonathan alter",
+      "start_timestamp": 1729045800,
+      "end_timestamp": 1729060800,
+      "search_volume": 1000,
+      "increase_percentage": 300,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jonathan+alter&tz=420"
+    },
+    {
+      "query": "luis malagón",
+      "start_timestamp": 1729045200,
+      "end_timestamp": 1729055400,
+      "search_volume": 1000,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=luis+malag%C3%B3n&tz=420"
+    },
+    {
+      "query": "daria kasatkina",
+      "start_timestamp": 1729072200,
+      "end_timestamp": 1729079400,
+      "search_volume": 200,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=daria+kasatkina&tz=420"
+    },
+    {
+      "query": "cade smith",
+      "start_timestamp": 1729038000,
+      "end_timestamp": 1729042800,
+      "search_volume": 2000,
+      "increase_percentage": 300,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cade+smith&tz=420"
+    },
+    {
+      "query": "israel flag",
+      "start_timestamp": 1729062000,
+      "end_timestamp": 1729074000,
+      "search_volume": 200,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=israel+flag&tz=420"
+    },
+    {
+      "query": "hyatt",
+      "start_timestamp": 1729057800,
+      "end_timestamp": 1729069800,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hyatt&tz=420"
+    },
+    {
+      "query": "josé ramírez",
+      "start_timestamp": 1729041600,
+      "end_timestamp": 1729074000,
+      "search_volume": 1000,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jos%C3%A9+ram%C3%ADrez&tz=420"
+    },
+    {
+      "query": "draymond green",
+      "start_timestamp": 1729047600,
+      "end_timestamp": 1729069200,
+      "search_volume": 1000,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=draymond+green&tz=420"
+    },
+    {
+      "query": "alexis vega",
+      "start_timestamp": 1729050000,
+      "end_timestamp": 1729055400,
+      "search_volume": 1000,
+      "increase_percentage": 200,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alexis+vega&tz=420"
+    },
+    {
+      "query": "antonee robinson",
+      "start_timestamp": 1729045800,
+      "end_timestamp": 1729053600,
+      "search_volume": 1000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=antonee+robinson&tz=420"
+    },
+    {
+      "query": "troy university",
+      "start_timestamp": 1729036800,
+      "end_timestamp": 1729044000,
+      "search_volume": 1000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=troy+university&tz=420"
+    },
+    {
+      "query": "when does nba season start",
+      "start_timestamp": 1729045200,
+      "end_timestamp": 1729052400,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "trend_breakdown": [
+        "nba opening night"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=when+does+nba+season+start&tz=420"
+    },
+    {
+      "query": "pedro martinez",
+      "start_timestamp": 1729048200,
+      "end_timestamp": 1729052400,
+      "search_volume": 1000,
+      "increase_percentage": 500,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pedro+martinez&tz=420"
+    },
+    {
+      "query": "trey lance",
+      "start_timestamp": 1729067400,
+      "end_timestamp": 1729075200,
+      "search_volume": 200,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trey+lance&tz=420"
+    },
+    {
+      "query": "tomas machac",
+      "start_timestamp": 1729066200,
+      "end_timestamp": 1729072800,
+      "search_volume": 200,
+      "increase_percentage": 200,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tomas+machac&tz=420"
+    },
+    {
+      "query": "adrian amos",
+      "start_timestamp": 1729023000,
+      "end_timestamp": 1729032600,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=adrian+amos&tz=420"
+    },
+    {
+      "query": "travis kelce taylor swift baseball",
+      "start_timestamp": 1729024800,
+      "end_timestamp": 1729030800,
+      "search_volume": 2000,
+      "increase_percentage": 300,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=travis+kelce+taylor+swift+baseball&tz=420"
+    },
+    {
+      "query": "amazon prime video",
+      "start_timestamp": 1729033200,
+      "end_timestamp": 1729037400,
+      "search_volume": 5000,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+prime+video&tz=420"
+    },
+    {
+      "query": "javier aguirre",
+      "start_timestamp": 1729047000,
+      "end_timestamp": 1729054200,
+      "search_volume": 1000,
+      "increase_percentage": 100,
+      "trend_breakdown": [
+        "guillermo ochoa"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=javier+aguirre&tz=420"
+    },
+    {
+      "query": "dana tran",
+      "start_timestamp": 1729030200,
+      "end_timestamp": 1729076400,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dana+tran&tz=420"
+    },
+    {
+      "query": "alan bersten",
+      "start_timestamp": 1729042800,
+      "end_timestamp": 1729057800,
+      "search_volume": 1000,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alan+bersten&tz=420"
+    },
+    {
+      "query": "san antonio spurs vs miami heat match player stats",
+      "start_timestamp": 1729039200,
+      "end_timestamp": 1729047600,
+      "search_volume": 1000,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=san+antonio+spurs+vs+miami+heat+match+player+stats&tz=420"
+    },
+    {
+      "query": "coin stock",
+      "start_timestamp": 1729077600,
+      "end_timestamp": 1729081800,
+      "search_volume": 200,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=coin+stock&tz=420"
+    },
+    {
+      "query": "pharrell williams",
+      "start_timestamp": 1729006800,
+      "end_timestamp": 1729011000,
+      "search_volume": 5000,
+      "increase_percentage": 500,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pharrell+williams&tz=420"
+    },
+    {
+      "query": "christa miller",
+      "start_timestamp": 1729046400,
+      "end_timestamp": 1729059000,
+      "search_volume": 1000,
+      "increase_percentage": 200,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=christa+miller&tz=420"
+    },
+    {
+      "query": "roy wood jr",
+      "start_timestamp": 1729038000,
+      "end_timestamp": 1729044000,
+      "search_volume": 1000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=roy+wood+jr&tz=420"
+    },
+    {
+      "query": "tbs",
+      "start_timestamp": 1729036200,
+      "end_timestamp": 1729039800,
+      "search_volume": 2000,
+      "increase_percentage": 600,
+      "trend_breakdown": [
+        "tbs sports"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tbs&tz=420"
+    },
+    {
+      "query": "julianne hough",
+      "start_timestamp": 1729041000,
+      "end_timestamp": 1729044600,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=julianne+hough&tz=420"
+    },
+    {
+      "query": "sasha farber",
+      "start_timestamp": 1729043400,
+      "end_timestamp": 1729047000,
+      "search_volume": 2000,
+      "increase_percentage": 400,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sasha+farber&tz=420"
+    },
+    {
+      "query": "pacôme dadiet",
+      "start_timestamp": 1729039200,
+      "end_timestamp": 1729047000,
+      "search_volume": 1000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pac%C3%B4me+dadiet&tz=420"
+    },
+    {
+      "query": "austin hedges",
+      "start_timestamp": 1729041600,
+      "end_timestamp": 1729045800,
+      "search_volume": 1000,
+      "increase_percentage": 400,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=austin+hedges&tz=420"
+    },
+    {
+      "query": "luke kleintank",
+      "start_timestamp": 1729041000,
+      "end_timestamp": 1729047600,
+      "search_volume": 1000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=luke+kleintank&tz=420"
+    },
+    {
+      "query": "home insurance",
+      "start_timestamp": 1729066800,
+      "end_timestamp": 1729070400,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=home+insurance&tz=420"
+    },
+    {
+      "query": "vancouver whitecaps girls elite vs portland thorns",
+      "start_timestamp": 1729041600,
+      "end_timestamp": 1729054800,
+      "search_volume": 1000,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=vancouver+whitecaps+girls+elite+vs+portland+thorns&tz=420"
+    },
+    {
+      "query": "libya vs nigeria",
+      "start_timestamp": 1729011600,
+      "end_timestamp": 1729018800,
+      "search_volume": 2000,
+      "increase_percentage": 200,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=libya+vs+nigeria&tz=420"
+    },
+    {
+      "query": "devin scillian",
+      "start_timestamp": 1729030800,
+      "end_timestamp": 1729079400,
+      "search_volume": 1000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=devin+scillian&tz=420"
+    },
+    {
+      "query": "mollie hemingway",
+      "start_timestamp": 1729045200,
+      "end_timestamp": 1729050600,
+      "search_volume": 1000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mollie+hemingway&tz=420"
+    },
+    {
+      "query": "don lemon",
+      "start_timestamp": 1729008600,
+      "end_timestamp": 1729041000,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=don+lemon&tz=420"
+    },
+    {
+      "query": "black ops 6 release date",
+      "start_timestamp": 1729075200,
+      "end_timestamp": 1729078800,
+      "search_volume": 200,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=black+ops+6+release+date&tz=420"
+    },
+    {
+      "query": "bally sports",
+      "start_timestamp": 1729033800,
+      "end_timestamp": 1729040400,
+      "search_volume": 1000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bally+sports&tz=420"
+    },
+    {
+      "query": "xfinity",
+      "start_timestamp": 1729060800,
+      "end_timestamp": 1729064400,
+      "search_volume": 1000,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=xfinity&tz=420"
+    },
+    {
+      "query": "doug meehan",
+      "start_timestamp": 1729074000,
+      "end_timestamp": 1729077600,
+      "search_volume": 200,
+      "increase_percentage": 200,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=doug+meehan&tz=420"
+    },
+    {
+      "query": "guadalajara",
+      "start_timestamp": 1729045800,
+      "end_timestamp": 1729053600,
+      "search_volume": 1000,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=guadalajara&tz=420"
+    },
+    {
+      "query": "lithuania vs romania",
+      "start_timestamp": 1729017600,
+      "end_timestamp": 1729027200,
+      "search_volume": 2000,
+      "increase_percentage": 50,
+      "trend_breakdown": [
+        "romania vs lithuania"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lithuania+vs+romania&tz=420"
+    },
+    {
+      "query": "singapore",
+      "start_timestamp": 1729062600,
+      "end_timestamp": 1729075800,
+      "search_volume": 200,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=singapore&tz=420"
+    },
+    {
+      "query": "bilibili",
+      "start_timestamp": 1729063200,
+      "end_timestamp": 1729073400,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bilibili&tz=420"
+    },
+    {
+      "query": "spain fc",
+      "start_timestamp": 1729020000,
+      "end_timestamp": 1729026600,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=spain+fc&tz=420"
+    },
+    {
+      "query": "louisville weather",
+      "start_timestamp": 1729073400,
+      "end_timestamp": 1729080000,
+      "search_volume": 200,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=louisville+weather&tz=420"
+    },
+    {
+      "query": "north carolina news",
+      "start_timestamp": 1729024800,
+      "end_timestamp": 1729030800,
+      "search_volume": 1000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=north+carolina+news&tz=420"
+    },
+    {
+      "query": "maxwell frost",
+      "start_timestamp": 1729047000,
+      "end_timestamp": 1729051200,
+      "search_volume": 1000,
+      "increase_percentage": 200,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=maxwell+frost&tz=420"
+    },
+    {
+      "query": "yulia putintseva",
+      "start_timestamp": 1729060200,
+      "end_timestamp": 1729068000,
+      "search_volume": 200,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=yulia+putintseva&tz=420"
+    },
+    {
+      "query": "luiz henrique",
+      "start_timestamp": 1729045800,
+      "end_timestamp": 1729050000,
+      "search_volume": 500,
+      "increase_percentage": 200,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=luiz+henrique&tz=420"
+    },
+    {
+      "query": "sofia vergara",
+      "start_timestamp": 1729039200,
+      "end_timestamp": 1729042200,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sofia+vergara&tz=420"
+    },
+    {
+      "query": "rafa marquez",
+      "start_timestamp": 1729048200,
+      "end_timestamp": 1729054800,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=rafa+marquez&tz=420"
+    },
+    {
+      "query": "tua tagovailoa miami dolphins",
+      "start_timestamp": 1729064400,
+      "end_timestamp": 1729068600,
+      "search_volume": 200,
+      "increase_percentage": 300,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tua+tagovailoa+miami+dolphins&tz=420"
+    },
+    {
+      "query": "partido colombia hoy",
+      "start_timestamp": 1729024200,
+      "end_timestamp": 1729033200,
+      "search_volume": 1000,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=partido+colombia+hoy&tz=420"
+    },
+    {
+      "query": "spain",
+      "start_timestamp": 1729020600,
+      "end_timestamp": 1729027200,
+      "search_volume": 2000,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=spain&tz=420"
+    },
+    {
+      "query": "singer falls through stage",
+      "start_timestamp": 1729032000,
+      "end_timestamp": 1729036200,
+      "search_volume": 1000,
+      "increase_percentage": 200,
+      "trend_breakdown": [
+        "what singer fell through the stage"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=singer+falls+through+stage&tz=420"
+    },
+    {
+      "query": "climate pledge arena",
+      "start_timestamp": 1729012200,
+      "end_timestamp": 1729020000,
+      "search_volume": 1000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=climate+pledge+arena&tz=420"
+    },
+    {
+      "query": "matt turner",
+      "start_timestamp": 1729047000,
+      "end_timestamp": 1729051800,
+      "search_volume": 1000,
+      "increase_percentage": 50,
+      "trend_breakdown": [
+        "matthew turner"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=matt+turner&tz=420"
+    },
+    {
+      "query": "andrew wiggins",
+      "start_timestamp": 1729050600,
+      "end_timestamp": 1729065600,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "trend_breakdown": [
+        "golden state warriors vs lakers"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=andrew+wiggins&tz=420"
+    },
+    {
+      "query": "jeopardy",
+      "start_timestamp": 1729035000,
+      "end_timestamp": 1729039200,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "trend_breakdown": [
+        "jeopardy today",
+        "jeopardy tonight"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jeopardy&tz=420"
+    },
+    {
+      "query": "nick cannon",
+      "start_timestamp": 1729016400,
+      "end_timestamp": 1729021200,
+      "search_volume": 1000,
+      "increase_percentage": 300,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nick+cannon&tz=420"
+    },
+    {
+      "query": "eva longoria",
+      "start_timestamp": 1729042200,
+      "end_timestamp": 1729046400,
+      "search_volume": 1000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=eva+longoria&tz=420"
+    },
+    {
+      "query": "boeing starliner spacecraft",
+      "start_timestamp": 1729067400,
+      "end_timestamp": 1729071600,
+      "search_volume": 200,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=boeing+starliner+spacecraft&tz=420"
+    },
+    {
+      "query": "utah football cam rising injury",
+      "start_timestamp": 1729068000,
+      "end_timestamp": 1729071000,
+      "search_volume": 1000,
+      "increase_percentage": 100,
+      "trend_breakdown": [
+        "cam rising utah football"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=utah+football+cam+rising+injury&tz=420"
+    },
+    {
+      "query": "d'angelo russell",
+      "start_timestamp": 1729049400,
+      "end_timestamp": 1729054800,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=d%27angelo+russell&tz=420"
+    },
+    {
+      "query": "alina habba",
+      "start_timestamp": 1729039200,
+      "end_timestamp": 1729042800,
+      "search_volume": 1000,
+      "increase_percentage": 200,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alina+habba&tz=420"
+    },
+    {
+      "query": "drew carey",
+      "start_timestamp": 1729004400,
+      "end_timestamp": 1729009800,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=drew+carey&tz=420"
+    },
+    {
+      "query": "handshake",
+      "start_timestamp": 1729063200,
+      "end_timestamp": 1729066800,
+      "search_volume": 200,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=handshake&tz=420"
+    },
+    {
+      "query": "stephanie vaquer",
+      "start_timestamp": 1729038000,
+      "end_timestamp": 1729041600,
+      "search_volume": 1000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=stephanie+vaquer&tz=420"
+    },
+    {
+      "query": "gemini horoscope",
+      "start_timestamp": 1729071600,
+      "end_timestamp": 1729075800,
+      "search_volume": 200,
+      "increase_percentage": 100,
+      "trend_breakdown": [
+        "taurus horoscope"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=gemini+horoscope&tz=420"
+    },
+    {
+      "query": "sierra leone vs ivory coast",
+      "start_timestamp": 1729006800,
+      "end_timestamp": 1729019400,
+      "search_volume": 1000,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sierra+leone+vs+ivory+coast&tz=420"
+    },
+    {
+      "query": "mlb today",
+      "start_timestamp": 1729032600,
+      "end_timestamp": 1729037400,
+      "search_volume": 1000,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mlb+today&tz=420"
+    },
+    {
+      "query": "kellyanne conway",
+      "start_timestamp": 1729041000,
+      "end_timestamp": 1729045200,
+      "search_volume": 500,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kellyanne+conway&tz=420"
+    },
+    {
+      "query": "flau'jae johnson",
+      "start_timestamp": 1729041000,
+      "end_timestamp": 1729044600,
+      "search_volume": 500,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=flau%27jae+johnson&tz=420"
+    },
+    {
+      "query": "taylor schilling",
+      "start_timestamp": 1729042200,
+      "end_timestamp": 1729047000,
+      "search_volume": 1000,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=taylor+schilling&tz=420"
+    },
+    {
+      "query": "isabeli fontana",
+      "start_timestamp": 1729033200,
+      "end_timestamp": 1729037400,
+      "search_volume": 500,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=isabeli+fontana&tz=420"
+    },
+    {
+      "query": "suiza - dinamarca",
+      "start_timestamp": 1729020600,
+      "end_timestamp": 1729027800,
+      "search_volume": 1000,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=suiza+-+dinamarca&tz=420"
+    },
+    {
+      "query": "pdt",
+      "start_timestamp": 1729072800,
+      "end_timestamp": 1729076400,
+      "search_volume": 100,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pdt&tz=420"
+    },
+    {
+      "query": "accused tv show",
+      "start_timestamp": 1729042200,
+      "end_timestamp": 1729046400,
+      "search_volume": 500,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=accused+tv+show&tz=420"
+    },
+    {
+      "query": "sherrod brown",
+      "start_timestamp": 1729044000,
+      "end_timestamp": 1729047600,
+      "search_volume": 500,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sherrod+brown&tz=420"
+    },
+    {
+      "query": "raleigh weather",
+      "start_timestamp": 1729071600,
+      "end_timestamp": 1729075800,
+      "search_volume": 100,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=raleigh+weather&tz=420"
+    },
+    {
+      "query": "omarosa",
+      "start_timestamp": 1729048800,
+      "end_timestamp": 1729053000,
+      "search_volume": 500,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=omarosa&tz=420"
+    },
+    {
+      "query": "chris wallace",
+      "start_timestamp": 1729006200,
+      "end_timestamp": 1729009800,
+      "search_volume": 1000,
+      "increase_percentage": 300,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chris+wallace&tz=420"
+    },
+    {
+      "query": "joan rivers",
+      "start_timestamp": 1729045800,
+      "end_timestamp": 1729050000,
+      "search_volume": 500,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=joan+rivers&tz=420"
+    },
+    {
+      "query": "shane bieber",
+      "start_timestamp": 1729035600,
+      "end_timestamp": 1729039800,
+      "search_volume": 500,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=shane+bieber&tz=420"
+    },
+    {
+      "query": "tim herrin",
+      "start_timestamp": 1729040400,
+      "end_timestamp": 1729044600,
+      "search_volume": 500,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tim+herrin&tz=420"
+    },
+    {
+      "query": "alejandro tabilo",
+      "start_timestamp": 1729074000,
+      "end_timestamp": 1729077600,
+      "search_volume": 100,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alejandro+tabilo&tz=420"
+    },
+    {
+      "query": "sofia falcone the penguin",
+      "start_timestamp": 1729054800,
+      "end_timestamp": 1729059600,
+      "search_volume": 200,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sofia+falcone+the+penguin&tz=420"
+    },
+    {
+      "query": "rugby",
+      "start_timestamp": 1729042800,
+      "end_timestamp": 1729046400,
+      "search_volume": 500,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=rugby&tz=420"
+    },
+    {
+      "query": "fantasy 5",
+      "start_timestamp": 1729072800,
+      "end_timestamp": 1729077000,
+      "search_volume": 100,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fantasy+5&tz=420"
+    },
+    {
+      "query": "jenn tran bachelorette",
+      "start_timestamp": 1729043400,
+      "end_timestamp": 1729047000,
+      "search_volume": 500,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jenn+tran+bachelorette&tz=420"
+    },
+    {
+      "query": "lithopolis ohio",
+      "start_timestamp": 1729026000,
+      "end_timestamp": 1729030200,
+      "search_volume": 500,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lithopolis+ohio&tz=420"
+    },
+    {
+      "query": "baldur's gate 3",
+      "start_timestamp": 1729059000,
+      "end_timestamp": 1729071000,
+      "search_volume": 200,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=baldur%27s+gate+3&tz=420"
+    },
+    {
+      "query": "ben stiller",
+      "start_timestamp": 1729039800,
+      "end_timestamp": 1729056000,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ben+stiller&tz=420"
+    },
+    {
+      "query": "panda cam",
+      "start_timestamp": 1729032600,
+      "end_timestamp": 1729036800,
+      "search_volume": 500,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=panda+cam&tz=420"
+    },
+    {
+      "query": "brian anderson",
+      "start_timestamp": 1729046400,
+      "end_timestamp": 1729050600,
+      "search_volume": 500,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=brian+anderson&tz=420"
+    },
+    {
+      "query": "francis ngannou",
+      "start_timestamp": 1729063800,
+      "end_timestamp": 1729069200,
+      "search_volume": 100,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=francis+ngannou&tz=420"
+    },
+    {
+      "query": "nick piccininni",
+      "start_timestamp": 1729042200,
+      "end_timestamp": 1729046400,
+      "search_volume": 1000,
+      "increase_percentage": 75,
+      "trend_breakdown": [
+        "dana white contender series"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nick+piccininni&tz=420"
+    },
+    {
+      "query": "patriots depth chart",
+      "start_timestamp": 1729065000,
+      "end_timestamp": 1729072200,
+      "search_volume": 200,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=patriots+depth+chart&tz=420"
+    },
+    {
+      "query": "toni breidinger",
+      "start_timestamp": 1729032600,
+      "end_timestamp": 1729036800,
+      "search_volume": 500,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=toni+breidinger&tz=420"
+    },
+    {
+      "query": "charles leclerc",
+      "start_timestamp": 1729039200,
+      "end_timestamp": 1729043400,
+      "search_volume": 500,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=charles+leclerc&tz=420"
+    },
+    {
+      "query": "mom 17 diapers",
+      "start_timestamp": 1729003200,
+      "end_timestamp": 1729009200,
+      "search_volume": 1000,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mom+17+diapers&tz=420"
+    },
+    {
+      "query": "yunus musah",
+      "start_timestamp": 1729047000,
+      "end_timestamp": 1729050600,
+      "search_volume": 500,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=yunus+musah&tz=420"
+    },
+    {
+      "query": "randall terry",
+      "start_timestamp": 1729007400,
+      "end_timestamp": 1729011600,
+      "search_volume": 1000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=randall+terry&tz=420"
+    },
+    {
+      "query": "john deaton",
+      "start_timestamp": 1729040400,
+      "end_timestamp": 1729044000,
+      "search_volume": 500,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=john+deaton&tz=420"
+    },
+    {
+      "query": "marc lotter",
+      "start_timestamp": 1729032000,
+      "end_timestamp": 1729036200,
+      "search_volume": 500,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=marc+lotter&tz=420"
+    },
+    {
+      "query": "us mint",
+      "start_timestamp": 1729006800,
+      "end_timestamp": 1729012200,
+      "search_volume": 1000,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=us+mint&tz=420"
+    },
+    {
+      "query": "bobby brink",
+      "start_timestamp": 1729051800,
+      "end_timestamp": 1729055400,
+      "search_volume": 200,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bobby+brink&tz=420"
+    },
+    {
+      "query": "rizzo",
+      "start_timestamp": 1729043400,
+      "end_timestamp": 1729047600,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=rizzo&tz=420"
+    },
+    {
+      "query": "stephanie grady",
+      "start_timestamp": 1729047000,
+      "end_timestamp": 1729050600,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=stephanie+grady&tz=420"
+    },
+    {
+      "query": "scott presler",
+      "start_timestamp": 1729036800,
+      "end_timestamp": 1729039800,
+      "search_volume": 500,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=scott+presler&tz=420"
+    },
+    {
+      "query": "john deere",
+      "start_timestamp": 1729011000,
+      "end_timestamp": 1729020000,
+      "search_volume": 1000,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=john+deere&tz=420"
+    },
+    {
+      "query": "michael cooper",
+      "start_timestamp": 1729045200,
+      "end_timestamp": 1729049400,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=michael+cooper&tz=420"
+    },
+    {
+      "query": "nbc tv schedule tonight",
+      "start_timestamp": 1729035600,
+      "end_timestamp": 1729039800,
+      "search_volume": 500,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nbc+tv+schedule+tonight&tz=420"
+    },
+    {
+      "query": "pick 4",
+      "start_timestamp": 1729072200,
+      "end_timestamp": 1729075200,
+      "search_volume": 100,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pick+4&tz=420"
+    },
+    {
+      "query": "rachel bloom",
+      "start_timestamp": 1729054800,
+      "end_timestamp": 1729058400,
+      "search_volume": 200,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=rachel+bloom&tz=420"
+    },
+    {
+      "query": "jerry jeudy",
+      "start_timestamp": 1729017600,
+      "end_timestamp": 1729021800,
+      "search_volume": 500,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jerry+jeudy&tz=420"
+    },
+    {
+      "query": "verizon fios outage",
+      "start_timestamp": 1729045200,
+      "end_timestamp": 1729048200,
+      "search_volume": 500,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=verizon+fios+outage&tz=420"
+    },
+    {
+      "query": "cfp rankings",
+      "start_timestamp": 1729034400,
+      "end_timestamp": 1729038000,
+      "search_volume": 500,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cfp+rankings&tz=420"
+    },
+    {
+      "query": "elissa slotkin",
+      "start_timestamp": 1729042200,
+      "end_timestamp": 1729045800,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=elissa+slotkin&tz=420"
+    },
+    {
+      "query": "miles teller",
+      "start_timestamp": 1729015200,
+      "end_timestamp": 1729018800,
+      "search_volume": 1000,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=miles+teller&tz=420"
+    },
+    {
+      "query": "stars game",
+      "start_timestamp": 1729045200,
+      "end_timestamp": 1729049400,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=stars+game&tz=420"
+    },
+    {
+      "query": "tyler kolek",
+      "start_timestamp": 1729044000,
+      "end_timestamp": 1729047000,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tyler+kolek&tz=420"
+    },
+    {
+      "query": "mandy moore",
+      "start_timestamp": 1729035600,
+      "end_timestamp": 1729039800,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mandy+moore&tz=420"
+    },
+    {
+      "query": "uruguay national football team",
+      "start_timestamp": 1729039800,
+      "end_timestamp": 1729044000,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=uruguay+national+football+team&tz=420"
+    },
+    {
+      "query": "rob zombie",
+      "start_timestamp": 1729040400,
+      "end_timestamp": 1729043400,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=rob+zombie&tz=420"
+    },
+    {
+      "query": "pertussis",
+      "start_timestamp": 1729022400,
+      "end_timestamp": 1729026600,
+      "search_volume": 500,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pertussis&tz=420"
+    },
+    {
+      "query": "dave mccormick",
+      "start_timestamp": 1729035600,
+      "end_timestamp": 1729038000,
+      "search_volume": 500,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dave+mccormick&tz=420"
+    },
+    {
+      "query": "todd boehly",
+      "start_timestamp": 1729009800,
+      "end_timestamp": 1729014000,
+      "search_volume": 500,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=todd+boehly&tz=420"
+    },
+    {
+      "query": "russian ukraine war",
+      "start_timestamp": 1729006800,
+      "end_timestamp": 1729010400,
+      "search_volume": 500,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=russian+ukraine+war&tz=420"
+    },
+    {
+      "query": "moon today",
+      "start_timestamp": 1729078200,
+      "end_timestamp": 1729079400,
+      "search_volume": 100,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=moon+today&tz=420"
+    },
+    {
+      "query": "missy peregrym",
+      "start_timestamp": 1729039200,
+      "end_timestamp": 1729042200,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=missy+peregrym&tz=420"
+    },
+    {
+      "query": "mexico vs honduras",
+      "start_timestamp": 1729052400,
+      "end_timestamp": 1729056000,
+      "search_volume": 200,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mexico+vs+honduras&tz=420"
+    },
+    {
+      "query": "olivia troye",
+      "start_timestamp": 1729031400,
+      "end_timestamp": 1729035000,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=olivia+troye&tz=420"
+    },
+    {
+      "query": "young thug",
+      "start_timestamp": 1729048800,
+      "end_timestamp": 1729066200,
+      "search_volume": 200,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=young+thug&tz=420"
+    },
+    {
+      "query": "تاریخ امروز",
+      "start_timestamp": 1729063800,
+      "end_timestamp": 1729066800,
+      "search_volume": 100,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE+%D8%A7%D9%85%D8%B1%D9%88%D8%B2&tz=420"
+    },
+    {
+      "query": "chernobyl",
+      "start_timestamp": 1729062600,
+      "end_timestamp": 1729066800,
+      "search_volume": 100,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chernobyl&tz=420"
+    },
+    {
+      "query": "scottie barnes",
+      "start_timestamp": 1729041600,
+      "end_timestamp": 1729044600,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=scottie+barnes&tz=420"
+    },
+    {
+      "query": "donald cerrone",
+      "start_timestamp": 1729011600,
+      "end_timestamp": 1729015800,
+      "search_volume": 500,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=donald+cerrone&tz=420"
+    },
+    {
+      "query": "oklo stock",
+      "start_timestamp": 1729006800,
+      "end_timestamp": 1729011000,
+      "search_volume": 1000,
+      "increase_percentage": 50,
+      "trend_breakdown": [
+        "oklo"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=oklo+stock&tz=420"
+    },
+    {
+      "query": "jordyn woods",
+      "start_timestamp": 1729032600,
+      "end_timestamp": 1729036200,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jordyn+woods&tz=420"
+    },
+    {
+      "query": "amy adams",
+      "start_timestamp": 1729038600,
+      "end_timestamp": 1729041600,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amy+adams&tz=420"
+    },
+    {
+      "query": "hail",
+      "start_timestamp": 1729023000,
+      "end_timestamp": 1729027200,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hail&tz=420"
+    },
+    {
+      "query": "victoria monet",
+      "start_timestamp": 1729068000,
+      "end_timestamp": 1729070400,
+      "search_volume": 100,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=victoria+monet&tz=420"
+    },
+    {
+      "query": "chile",
+      "start_timestamp": 1729030800,
+      "end_timestamp": 1729034400,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chile&tz=420"
+    },
+    {
+      "query": "ali express",
+      "start_timestamp": 1729065600,
+      "end_timestamp": 1729068000,
+      "search_volume": 100,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ali+express&tz=420"
+    },
+    {
+      "query": "russell brand",
+      "start_timestamp": 1729062000,
+      "end_timestamp": 1729065600,
+      "search_volume": 100,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=russell+brand&tz=420"
+    },
+    {
+      "query": "atlanta braves baseball",
+      "start_timestamp": 1729035000,
+      "end_timestamp": 1729037400,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=atlanta+braves+baseball&tz=420"
+    },
+    {
+      "query": "soccer",
+      "start_timestamp": 1729048800,
+      "end_timestamp": 1729050600,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=soccer&tz=420"
+    },
+    {
+      "query": "leo borg",
+      "start_timestamp": 1729020000,
+      "end_timestamp": 1729023600,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=leo+borg&tz=420"
+    },
+    {
+      "query": "alex wolff",
+      "start_timestamp": 1729015200,
+      "end_timestamp": 1729018800,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alex+wolff&tz=420"
+    },
+    {
+      "query": "times square",
+      "start_timestamp": 1729014000,
+      "end_timestamp": 1729018200,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=times+square&tz=420"
+    },
+    {
+      "query": "karl rove",
+      "start_timestamp": 1729006200,
+      "end_timestamp": 1729010400,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=karl+rove&tz=420"
+    },
+    {
+      "query": "cleveland weather",
+      "start_timestamp": 1729075200,
+      "end_timestamp": 1729076400,
+      "search_volume": 100,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cleveland+weather&tz=420"
+    },
+    {
+      "query": "world liberty financial",
+      "start_timestamp": 1729035600,
+      "end_timestamp": 1729038000,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=world+liberty+financial&tz=420"
+    },
+    {
+      "query": "is instagram down",
+      "start_timestamp": 1729038600,
+      "end_timestamp": 1729039800,
+      "search_volume": 500,
+      "increase_percentage": 100,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=is+instagram+down&tz=420"
+    },
+    {
+      "query": "ethiopia vs guinea",
+      "start_timestamp": 1729020000,
+      "end_timestamp": 1729023000,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ethiopia+vs+guinea&tz=420"
+    },
+    {
+      "query": "jett luchanko",
+      "start_timestamp": 1729053600,
+      "end_timestamp": 1729055400,
+      "search_volume": 200,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jett+luchanko&tz=420"
+    },
+    {
+      "query": "max crosby",
+      "start_timestamp": 1729003200,
+      "end_timestamp": 1729006800,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=max+crosby&tz=420"
+    },
+    {
+      "query": "msg",
+      "start_timestamp": 1729036200,
+      "end_timestamp": 1729038000,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=msg&tz=420"
+    },
+    {
+      "query": "lincoln",
+      "start_timestamp": 1729058400,
+      "end_timestamp": 1729060200,
+      "search_volume": 100,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lincoln&tz=420"
+    },
+    {
+      "query": "steelers news",
+      "start_timestamp": 1729010400,
+      "end_timestamp": 1729012800,
+      "search_volume": 500,
+      "increase_percentage": 75,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=steelers+news&tz=420"
+    },
+    {
+      "query": "john danneker",
+      "start_timestamp": 1729008000,
+      "end_timestamp": 1729010400,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=john+danneker&tz=420"
+    }
+  ]
+}
