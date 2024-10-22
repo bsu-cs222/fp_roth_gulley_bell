@@ -7,7 +7,7 @@ void main() {
   final parser = GoogleParser();
   test('amari cooper is the most trending search', () async {
     final jsonObject = await _loadSampleData('google_trends_query.json');
-    final firstTrend = parser.parseGoogleTrends(jsonObject);
+    final firstTrend = parser.parseFirstGoogleTrends(jsonObject);
     expect(firstTrend, 'amari cooper');
   });
 }
