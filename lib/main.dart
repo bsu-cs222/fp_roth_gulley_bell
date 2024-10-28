@@ -3,8 +3,10 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:trending_app/google_parser.dart';
 import 'package:http/http.dart' as http;
+import 'package:flutter_dotenv/flutter_dotenv.dart';
 
-void main() {
+void main() async {
+  await dotenv.load(fileName: '.env');
   runApp(const MyApp());
 }
 
@@ -101,8 +103,9 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 
   Future<Map<String, dynamic>> fetchGoogleTrends() async {
+    final googleKey = dotenv.env['GOOGLE_KEY'];
     final response = await http.get(Uri.parse(
-        'https://serpapi.com/search.json?engine=google_trends_trending_now&geo=US'));
+        'https://serpapi.com/search.json?engine=google_trends_trending_now&geo=US&api_key=$googleKey'));
     if (response.statusCode == 200) {
       return jsonDecode(response.body);
     } else {
