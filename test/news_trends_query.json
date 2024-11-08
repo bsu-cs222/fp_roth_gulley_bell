@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 35,
+  "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Graham Hurley",
+      "title": "Monkey mayhem in South Carolina after 43 primates escape research facility - CNN",
+      "description": "Residents in a small South Carolina town are finding themselves in the middle of a real-life game of Jumanji after 43 monkeys escaped Wednesday from a research facility.",
+      "url": "https://www.cnn.com/2024/11/07/us/south-carolina-monkeys-escape/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-933079308.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-11-07T18:25:00Z",
+      "content": "Residents in a small South Carolina town are finding themselves in the middle of a real-life game of Jumanji after 43 monkeys escaped Wednesday from a research facility.\r\nThe rhesus macaque primates … [+1738 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "University of Idaho murder suspect back in court for death penalty arguments - Fox News",
+      "description": "Murder suspect Bryan Kohberger hopes to have the death penalty taken off the table before he goes to trial next year in the stabbing deaths of four undergrads.",
+      "url": "https://www.foxnews.com/video/6364345709112",
+      "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f2914e89-bf24-4000-87c7-69a79230f556/727b807c-d3e0-416f-bda2-3973ee619f9f/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "publishedAt": "2024-11-07T18:23:46Z",
+      "content": "©2024 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Claire Boston",
+      "title": "Mortgage rates rise again amid election volatility - Yahoo Finance",
+      "description": "Mortgage rates rose for sixth straight week amid volatility around the presidential election.",
+      "url": "https://finance.yahoo.com/news/mortgage-rates-rise-again-amid-election-volatility-170100675.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/CU8mPK8flIVSIdcS7o.5ig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/299886a0-9d24-11ef-bfef-f4c234d3a6e2",
+      "publishedAt": "2024-11-07T18:15:35Z",
+      "content": "Mortgage rates rose for a sixth consecutive week, following Treasury yields as they climbed higher through the presidential election.\r\nThe average 30-year fixed-rate mortgage rose to 6.79% through We… [+2045 chars]"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Jenn Brice",
+      "title": "How Elon Musk’s $130 million investment in Trump's victory could reap a huge payoff for Tesla and the rest of his business empire - Fortune",
+      "description": "The world's richest person could get a lot of help with contracts and regulatory headaches during the Trump administration.",
+      "url": "https://fortune.com/2024/11/06/elon-musk-donald-trump-tesla-spacex-xai-boring-neuralink/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/11/GettyImages-2181962905_45ea9c-e1730941564396.jpg?resize=1200,600",
+      "publishedAt": "2024-11-07T17:59:07Z",
+      "content": "Donald Trumps election-night address to the country confirmed that one of the evenings biggest winnersin addition to himselfwas Elon Musk. Trump spent a hefty portion of his scattered victory speech … [+5853 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NBCSports.com"
+      },
+      "author": "Mike Florio",
+      "title": "PFT’s Week 10 2024 NFL picks: Florio vs. Simms - NBC Sports",
+      "description": "We keep on rolling.",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-10-2024-nfl-picks-florio-vs-simms",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/ebea639/2147483647/strip/true/crop/5616x3159+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F61%2F7d%2F10bdcc4049a8897fdcf79900a741%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2182271911",
+      "publishedAt": "2024-11-07T17:16:24Z",
+      "content": "We keep on rolling.\r\nHalfway through the season, were both doing well in the straight-up category. Im doing shockingly well against the spread.\r\nLast week, Simms picked up a game in the race to be th… [+2326 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Jennifer Ouellette",
+      "title": "What makes baseball’s “magic mud” so special? - Ars Technica",
+      "description": "It has just the right mix of spreadability, stickiness, and friction to give pitchers a better grip on the ball.",
+      "url": "https://arstechnica.com/science/2024/11/what-makes-baseballs-magic-mud-so-special/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/baseball1-1152x648.jpg",
+      "publishedAt": "2024-11-07T17:07:54Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Mike Fleming Jr",
+      "title": "Star Wars Trilogy Deal: Lucasfilm Taps Simon Kinberg To Write & Produce - Deadline",
+      "description": "Lucasfilm has closed a deal with Simon Kinberg to develop a trilogy of new Star Wars films, which he will write and produce.",
+      "url": "http://deadline.com/2024/11/star-wars-trilogy-simon-kinberg-movies-1236169916/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2024/11/Star-Wars-Simon-Kinberg.jpg?w=1024",
+      "publishedAt": "2024-11-07T16:54:00Z",
+      "content": "EXCLUSIVE: Lucasfilm has closed a deal with Simon Kinberg to develop a trilogy of Star Wars films. Kinberg will write the trio, and produce them with Lucasfilm chief Kathleen Kennedy.\r\nI heard this w… [+1888 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "MEHDI FATTAHI, JON GAMBRELL",
+      "title": "For many Iranians, Trump’s return intensifies worries about war. Yet some see reasons for hope - The Associated Press",
+      "description": "Iranians are divided on what Donald Trump’s next presidency will bring: Some foresee an all-out war between Tehran and Washington, particularly as other conflicts rage in the region. Others hold out hope that America’s 47th president might engage in unexpecte…",
+      "url": "https://apnews.com/article/iran-us-trump-election-nuclear-tensions-mideast-wars-9a8012fdfabc3cb0fd2340bf99c0aaf7",
+      "urlToImage": "https://dims.apnews.com/dims4/default/2712721/2147483647/strip/true/crop/6720x3780+0+350/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2e%2F4d%2Fd37a9941c48d61e43b410cb3da5e%2Fcc48d06e80534bc183385beaddb23576",
+      "publishedAt": "2024-11-07T16:09:00Z",
+      "content": "TEHRAN, Iran (AP) Iranians, like many around the world, are divided on what Donald Trumps next presidency will bring: Some foresee an all-out war between Tehran and Washington, particularly as other … [+5905 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eonline.com"
+      },
+      "author": null,
+      "title": "Liam Payne Death Investigation: 3 People of Interest Detained in Connection to Case - E! Online - E! NEWS",
+      "description": "Amid an investigation into the late Liam Payne's fall from his hotel balcony in Argentina, three people have been detained in connection with the One Direction alum’s unexpected death.",
+      "url": "https://www.eonline.com/news/1409653/liam-payne-death-investigation-3-people-of-interest-detained-in-connection-to-case",
+      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2024917/rs_1200x1200-241017121251-1200-liam-payne-2018.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+      "publishedAt": "2024-11-07T15:37:00Z",
+      "content": "According to the release, coroners reported 25 injuries in Payne's autopsy that were \"compatible with those caused by a fall from height.\"\r\n\"They also pointed out that the head injuries were sufficie… [+1298 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "ABC News",
+      "title": "Southern California fire moving 'dangerously fast' with 0% containment - ABC News",
+      "description": null,
+      "url": "https://abcnews.go.com/US/southern-california-extreme-fire-warnings-dry-windy-conditions/story?id\\\\u003d115573200",
+      "urlToImage": null,
+      "publishedAt": "2024-11-07T15:34:55Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PBS"
+      },
+      "author": null,
+      "title": "Harris allies blame Biden for vice president’s resounding loss to Trump - PBS NewsHour",
+      "description": "As Democrats pick up the pieces following President-elect Donald Trump's decisive victory over Harris, some Harris backers are expressing frustration with Biden's decision to remain in the race until this summer.",
+      "url": "https://www.pbs.org/newshour/politics/harris-allies-blame-biden-for-vice-presidents-resounding-loss-to-trump",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2024/09/2024-08-27T215659Z_824158085_MT1USATODAY24090563_RTRMADP_3_PRESIDENT-JOE-BIDEN-SPEAKS-AND-VICE-PRESIDENT-KAMALA-HARRIS-1024x683.jpg",
+      "publishedAt": "2024-11-07T15:22:26Z",
+      "content": "WASHINGTON (AP) Joe Biden’s name wasn’t on the ballot, but history will likely remember Kamala Harris’ resounding defeat as his loss too.\r\nWATCH LIVE: Biden addresses Trump victory, transfer of power… [+6566 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "'Tar ball' mystery: Sydney identifies objects that shut beaches - BBC.com",
+      "description": "The so-called tar balls were a combination of oil, human faeces and other substances, scientists say.",
+      "url": "https://www.bbc.com/news/articles/c5yr08xnxw8o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b703/live/d3b4f350-9c9b-11ef-8538-e1655f5a8342.jpg",
+      "publishedAt": "2024-11-07T14:57:29Z",
+      "content": "Australian scientists have solved a mystery which has gripped Sydney: what were the sticky dark blobs which washed up on some of the city's famed beaches last month?\r\nInitially believed to be tar bal… [+1745 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barchart.com"
+      },
+      "author": "Aditya Raghunath",
+      "title": "Should You Dump Super Micro Computer Stock Or Buy The Dip? - Barchart",
+      "description": "Down 80% from all-time highs, Super Micro Computer is a beaten-down tech stock that trades at a cheap valuation, but significant risks remain.",
+      "url": "https://www.barchart.com/story/news/29452102/should-you-dump-super-micro-computer-stock-or-buy-the-dip",
+      "urlToImage": "https://media.barchart.com/contributors-admin/common-images/images/Tech%20(Ecommerce%2C%20Social%20Media%2C%20etc.)/AI%20(artificial%20intelligence)/Artificial%20Intelligence%20technology%20concept%20by%20NicoEINino%20via%20Shutterstock.jpg",
+      "publishedAt": "2024-11-07T14:53:15Z",
+      "content": "Stocks: 1520 minute delay (Cboe BZX is real-time), ET. Volume reflects consolidated markets. Futures and Forex: 10 or 15 minute delay, CT. Market Data powered by Barchart Solutions. Fundamental data … [+33 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Hartley Charlton",
+      "title": "Mac Mini With M4 and M4 Pro Reviews: Smaller Design and Pro Performance Make for Major Upgrade - MacRumors",
+      "description": "The new Mac mini will launch in stores and begin arriving to customers this Friday. Ahead of time, the first reviews of Apple's latest redesigned...",
+      "url": "https://www.macrumors.com/review/mac-mini-with-m4-and-m4-pro/",
+      "urlToImage": "https://images.macrumors.com/t/vRQUjjkXavsatRY7kElB2x4Bq1c=/1920x/article-new/2024/11/the-verge-mac-mini.jpg.jpeg",
+      "publishedAt": "2024-11-07T14:37:26Z",
+      "content": "The new Mac mini will launch in stores and begin arriving to customers this Friday. Ahead of time, the first reviews of Apple's latest redesigned computer have been shared by select media outlets and… [+6487 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Sophie Tanno, Sebastian Shukla, Olesya Dmitracova",
+      "title": "Germany’s normally stable government has collapsed. Here’s why - CNN",
+      "description": "Germany’s governing coalition has collapsed after disagreements over the country’s weak economy led Chancellor Olaf Scholz to sack his finance minister.",
+      "url": "https://www.cnn.com/2024/11/07/europe/germany-government-collapse-explainer-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-11-06t212528z-1173338859-rc2wzaadwjpi-rtrmadp-3-germany-politics-scholz.JPG?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-11-07T14:37:00Z",
+      "content": "Germanys governing coalition has collapsed after disagreements over the countrys weak economy led Chancellor Olaf Scholz to sack his finance minister.\r\nChristian Lindners dismissal prompted him to wi… [+6049 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Heidi Busse, Miriam Freedman",
+      "title": "Microplastics promote cloud formation, with likely effects on weather and climate - The Conversation",
+      "description": "Clouds affect Earth’s weather and climate in many ways. New research suggests that the presence of microplastic particles could alter these processes.",
+      "url": "https://theconversation.com/microplastics-promote-cloud-formation-with-likely-effects-on-weather-and-climate-240192",
+      "urlToImage": "https://images.theconversation.com/files/628340/original/file-20241027-15-u5n608.jpg?ixlib=rb-4.1.0&rect=46%2C434%2C5184%2C2592&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2024-11-07T13:40:29Z",
+      "content": "Clouds form when water vapor an invisible gas in the atmosphere sticks to tiny floating particles, such as dust, and turns into liquid water droplets or ice crystals. In a newly published study, we s… [+5159 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "ANDREA RODRÍGUEZ",
+      "title": "Cuba left reeling after Category 3 hurricane ravages island and knocks out power grid - The Associated Press",
+      "description": "Cuba is reeling after a powerful Category 3 hurricane ripped across the island and fierce winds knocked out the country’s power grid. The magnitude of the impact from Hurricane Rafael remained unclear through the early hours of Thursday. Forecasters had warne…",
+      "url": "https://apnews.com/article/rafael-hurricane-storm-cuba-mexico-texas-fc83c4db8e13b9da1a3fa7ec5b6f3319",
+      "urlToImage": "https://dims.apnews.com/dims4/default/56c4818/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff5%2Fb7%2F9c7720a8d159f858e3fb8d37db89%2F723c2deae5764744b16a6125b6e44697",
+      "publishedAt": "2024-11-07T13:37:00Z",
+      "content": "HAVANA (AP) Cuba was left reeling Thursday after a fierce Category 3 hurricane ripped across the island and knocked out the countrys power grid.\r\nThe magnitude of the impact remained unclear through … [+3318 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NESN"
+      },
+      "author": "Adam London",
+      "title": "Stephen Curry Disagrees With Teammate After Warriors Beat Celtics - NESN",
+      "description": "Stephen Curry disagreed with one of his Warriors teammates after Golden State took down the Celtics in Boston.",
+      "url": "https://nesn.com/2024/11/stephen-curry-disagrees-with-teammate-after-warriors-beat-celtics/",
+      "urlToImage": "https://nesn.com/wp-content/uploads/sites/5/2024/11/Stephen-Curry-Jrue-Holiday.jpg",
+      "publishedAt": "2024-11-07T13:22:51Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "",
+      "title": "Hear what RFK Jr. said about vaccines post-election - CNN",
+      "description": "Former presidential candidate Robert F. Kennedy Jr. discusses his plan for vaccine safety following President-elect Donald Trump’s victory. CNN’s Meg Tirrell explains how the US currently monitors vaccine safety and efficacy.",
+      "url": "https://www.cnn.com/2024/11/07/politics/video/rfk-jr-vaccine-plan-health-trump-administration-digvid",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2167290412.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-11-07T13:15:44Z",
+      "content": "Former presidential candidate Robert F. Kennedy Jr. discusses his plan for vaccine safety following President-elect Donald Trumps victory. CNNs Meg Tirrell explains how the US currently monitors vacc… [+23 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ryan Christoffel",
+      "title": "Apple-backed Matter adds new smart home device types, better cross-platform experience, more - 9to5Mac",
+      "description": "The Apple-backed Matter smart home standard just launched version 1.4 with support for new device types and a lot more.",
+      "url": "https://9to5mac.com/2024/11/07/apple-backed-matter-adds-new-smart-home-device-types-better-cross-platform-experience-more/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/06/home-app-homekit.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-11-07T13:00:00Z",
+      "content": "The Apple-backed group that oversees the Matter smart device standard has launched its latest big update. Matter 1.4 debuts today with a variety of improvements that further advance smart home capabi… [+2059 chars]"
+    }
+  ]
+}
