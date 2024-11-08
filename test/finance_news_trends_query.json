@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "found": 4671419,
+    "returned": 2,
+    "limit": 2,
+    "page": 1
+  },
+  "data": [
+    {
+      "uuid": "2ed980de-a166-438b-8bf0-f767253767fb",
+      "title": "How Delivery Fees Work for Local Businesses (2024)",
+      "description": "Learn about different types of delivery fees and why restaurants and other businesses charge them.",
+      "keywords": "",
+      "snippet": "In 1984, Dominoâ€™s Pizza introduced a stunning promise: Delivery in 30 minutes or less, or your pizza is free. The policy was short-lived. In 1993, a jury slap...",
+      "url": "https://www.shopify.com/blog/delivery-fees",
+      "image_url": "https://cdn.shopify.com/s/files/1/0070/7032/files/epacket.png?v=1692384005",
+      "language": "en",
+      "published_at": "2024-11-08T21:51:10.000000Z",
+      "source": "shopify.com",
+      "relevance_score": null,
+      "entities": [],
+      "similar": [
+        {
+          "uuid": "5a68a257-0d5f-4b79-b720-0b269472f9a5",
+          "title": "Western Midstream: 9% Yield With Growth Tailwinds From Permian Gas Expansion (WES)",
+          "description": "Western Midstreamâ€™s expansion in the Delaware Basin boosts long-term growth. See why WES stockâ€™s low distribution coverage makes it riskier than peers.",
+          "keywords": "",
+          "snippet": "Long-Term Focussed In-Depth Fundamental Analysis. - Former Associate at a $10 billion hedge fund, with 15 years of professional experience in equity markets. - ...",
+          "url": "https://seekingalpha.com/article/4735193-western-midstream-9-percent-yield-tailwinds-from-permian-gas-expansion",
+          "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1983365574/image_1983365574.jpg?io=getty-c-w1536",
+          "language": "en",
+          "published_at": "2024-11-08T21:42:13.000000Z",
+          "source": "seekingalpha.com",
+          "relevance_score": null,
+          "entities": []
+        },
+        {
+          "uuid": "cb81320c-0e0f-408c-a928-2e92faa7a45e",
+          "title": "Jack Dorsey dramatically scales back crypto ambitions for Block",
+          "description": "Block said Thursday that it was \"winding down\" its TBD division, which had sought to create an open-source crypto development platform.",
+          "keywords": "Block Inc, Jack Dorsey, Breaking News: Technology, Bitcoin/USD Coin Metrics, FinTech, Technology, Cryptocurrency, Bitcoin, Energy, business news",
+          "snippet": "Jack Dorsey, co-founder of Twitter Inc., speaks during the Bitcoin 2021 conference in Miami, Florida, U.S., on Friday, June 4, 2021.\n\nDuring the crypto-crazed s...",
+          "url": "https://www.cnbc.com/2024/11/08/jack-dorsey-dramatically-shutters-blocks-tbd-crypto-unit.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/106893738-1623155438178-gettyimages-1233274915-BITCOIN_2021.jpeg?v=1731095196&w=1920&h=1080",
+          "language": "en",
+          "published_at": "2024-11-08T21:41:35.000000Z",
+          "source": "cnbc.com",
+          "relevance_score": null,
+          "entities": [
+            {
+              "symbol": "TWR.DE",
+              "name": "Twitter, Inc.",
+              "exchange": null,
+              "country": "de",
+              "type": "equity",
+              "industry": "Communication Services",
+              "match_score": 13.618976,
+              "sentiment_score": -0.1909,
+              "highlights": [
+                {
+                  "highlight": "Jack Dorsey, co-founder of <em>Twitter</em>[+110 characters]",
+                  "sentiment": 0,
+                  "highlighted_in": "main_text"
+                },
+                {
+                  "highlight": "\"Our primary focus is #Bitcoin,\" Dorsey [+277 characters]",
+                  "sentiment": -0.3818,
+                  "highlighted_in": "main_text"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "fd38112d-b6c8-490c-aeb4-870477ed3c66",
+      "title": "Dawson Geophysical (DWSN) Stock Surges Amid Market Fluctuations",
+      "description": "Dawson Geophysical Co. (DWSN) experienced a notable stock price increase of 5.45%. The stock is currently trading at $1.75 per share with a volume of 5,074 shar",
+      "keywords": "GuruFocus, Article, News, GuruFocus News, DWSN",
+      "snippet": "Dawson Geophysical Co. (DWSN, Financial) experienced a notable stock price increase of 5.45%. The stock is currently trading at $1.75 per share with a volume of...",
+      "url": "https://www.gurufocus.com/news/2593474/dawson-geophysical-dwsn-stock-surges-amid-market-fluctuations",
+      "image_url": "https://static.gurufocus.com/images/global_logo_twitter_card.png",
+      "language": "en",
+      "published_at": "2024-11-08T21:20:48.000000Z",
+      "source": "gurufocus.com",
+      "relevance_score": null,
+      "entities": [],
+      "similar": [
+        {
+          "uuid": "3cfd553d-69bc-4588-9fe0-1482a1bb342c",
+          "title": "JFU Stock Surges 6% Amid Positive Earnings Report",
+          "description": "9F Inc. (JFU) experienced a significant stock price increase of 6%. The stock is currently trading at $1.62 per share, with a trading volume of 10,456 shares an",
+          "keywords": "GuruFocus, Article, News, GuruFocus News, JFU",
+          "snippet": "9F Inc. (JFU, Financial) experienced a significant stock price increase of 6%. The stock is currently trading at $1.62 per share, with a trading volume of 10,45...",
+          "url": "https://www.gurufocus.com/news/2593496/jfu-stock-surges-6-amid-positive-earnings-report",
+          "image_url": "https://static.gurufocus.com/images/global_logo_twitter_card.png",
+          "language": "en",
+          "published_at": "2024-11-08T21:11:09.000000Z",
+          "source": "gurufocus.com",
+          "relevance_score": null,
+          "entities": []
+        },
+        {
+          "uuid": "6573536f-f349-4be6-989f-9d9c4dbf6ba8",
+          "title": "NCI Stock Surges 8.39% Amid Volatile Trading",
+          "description": "NCI International (NCI) experienced a significant stock price increase of 8.39%, reaching $0.770 per share with a trading volume of 106,965 shares and a turnove",
+          "keywords": "GuruFocus, Article, News, GuruFocus News, NCI",
+          "snippet": "NCI International (NCI, Financial) experienced a significant stock price increase of 8.39%, reaching $0.770 per share with a trading volume of 106,965 shares an...",
+          "url": "https://www.gurufocus.com/news/2593494/nci-stock-surges-839-amid-volatile-trading",
+          "image_url": "https://static.gurufocus.com/images/global_logo_twitter_card.png",
+          "language": "en",
+          "published_at": "2024-11-08T21:11:05.000000Z",
+          "source": "gurufocus.com",
+          "relevance_score": null,
+          "entities": []
+        },
+        {
+          "uuid": "70e693c9-3cd4-4066-89ed-c4a3bd81be33",
+          "title": "LB Foster (FSTR) Stock Surges Over 5% Amid Strong Earnings",
+          "description": "LB Foster (FSTR) shares experienced a significant surge, jumping 5.39%. The stock is now priced at $21.52 per share with a trading volume of 17,655 shares, repr",
+          "keywords": "GuruFocus, Article, News, GuruFocus News, FSTR",
+          "snippet": "LB Foster (FSTR, Financial) shares experienced a significant surge, jumping 5.39%. The stock is now priced at $21.52 per share with a trading volume of 17,655 s...",
+          "url": "https://www.gurufocus.com/news/2593485/lb-foster-fstr-stock-surges-over-5-amid-strong-earnings",
+          "image_url": "https://static.gurufocus.com/logos/0C00000823.png?20",
+          "language": "en",
+          "published_at": "2024-11-08T21:10:31.000000Z",
+          "source": "gurufocus.com",
+          "relevance_score": null,
+          "entities": []
+        },
+        {
+          "uuid": "55a9b5d2-3648-420c-9138-e5664669b1f8",
+          "title": "BTBT Surges 5% Amid Strong Buy Ratings and Market Activity",
+          "description": "Bit Digital (BTBT) experienced a significant price movement with its stock rising by 5.03%, reaching $4.35 per share. The trading volume hit 10.93 million share",
+          "keywords": "GuruFocus, Article, News, GuruFocus News, BTBT",
+          "snippet": "Bit Digital (BTBT, Financial) experienced a significant price movement with its stock rising by 5.03%, reaching $4.35 per share. The trading volume hit 10.93 mi...",
+          "url": "https://www.gurufocus.com/news/2593486/btbt-surges-5-amid-strong-buy-ratings-and-market-activity",
+          "image_url": "https://static.gurufocus.com/images/global_logo_twitter_card.png",
+          "language": "en",
+          "published_at": "2024-11-08T21:10:24.000000Z",
+          "source": "gurufocus.com",
+          "relevance_score": null,
+          "entities": []
+        }
+      ]
+    }
+  ]
+}
+
