@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "found": 140450,
+    "returned": 2,
+    "limit": 2,
+    "page": 1
+  },
+  "data": [
+    {
+      "uuid": "e7b2f4a6-df00-4a40-9e38-2a220ff1fa85",
+      "title": "Why Tesla (TSLA) Shares Are Dropping Today",
+      "description": "Tesla (TSLA) shares have taken a downturn, paralleling a broader market decline. The stock price decreased by 5.83%, reflecting investor concerns over valuation",
+      "keywords": "GuruFocus, Article, News, GuruFocus News, TSLA",
+      "snippet": "Tesla (TSLA, Financial) shares have taken a downturn, paralleling a broader market decline. The stock price decreased by 5.83%, reflecting investor concerns ove...",
+      "url": "https://www.gurufocus.com/news/2597781/why-tesla-tsla-shares-are-dropping-today",
+      "image_url": "https://static.gurufocus.com/logos/0C00004EP4.png?20",
+      "language": "en",
+      "published_at": "2024-11-12T21:00:29.000000Z",
+      "source": "gurufocus.com",
+      "entities": [
+        {
+          "symbol": "TSLA",
+          "name": "Tesla, Inc.",
+          "country": "us",
+          "type": "equity",
+          "industry": "Consumer Cyclical",
+          "match_score": 34.97313,
+          "sentiment_score": 0.492967,
+          "highlights": [
+            {
+              "highlight": "<em>Tesla</em> (TSLA, Financial) shares [+306 characters]",
+              "sentiment": 0.6222,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "From a valuation perspective, <em>Tesla<[+259 characters]",
+              "sentiment": 0.0888,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "Its Price-to-Earnings (P/E) ratio stands[+307 characters]",
+              "sentiment": 0.7506,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "On a positive note, <em>Tesla</em> shows[+312 characters]",
+              "sentiment": 0.9042,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "As <em>Tesla</em> continues to lead in t[+277 characters]",
+              "sentiment": 0.296,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "Why <em>Tesla</em> (TSLA) Shares Are Dropping Today",
+              "sentiment": 0.296,
+              "highlighted_in": "title"
+            }
+          ]
+        }
+      ],
+      "similar": [
+        {
+          "uuid": "98d35b03-2795-4b3f-b17b-1a1afcbdd547",
+          "title": "Hertz posts wider-than-expected loss due to high depreciation costs By Reuters",
+          "description": "Hertz posts wider-than-expected loss due to high depreciation costs",
+          "keywords": "",
+          "snippet": "(Reuters) -Rental car firm Hertz Global reported a wider-than-expected third-quarter loss and missed revenue estimates on Tuesday, hurt by high depreciation cha...",
+          "url": "https://www.investing.com/news/stock-market-news/hertz-posts-weakerthanexpected-quarterly-results-shares-fall-3716571",
+          "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEC0Q1B5_L.jpg",
+          "language": "en",
+          "published_at": "2024-11-12T17:18:18.000000Z",
+          "source": "investing.com",
+          "entities": [
+            {
+              "symbol": "TSLA",
+              "name": "Tesla, Inc.",
+              "country": "us",
+              "type": "equity",
+              "industry": "Consumer Cyclical",
+              "match_score": 14.286778,
+              "sentiment_score": -0.064,
+              "highlights": [
+                {
+                  "highlight": "Earlier this year, the company said it w[+177 characters]",
+                  "sentiment": 0,
+                  "highlighted_in": "main_text"
+                },
+                {
+                  "highlight": "But cooling used car demand could prove [+130 characters]",
+                  "sentiment": -0.128,
+                  "highlighted_in": "main_text"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "7fb4b240-155f-4156-95e9-de4320f8b379",
+      "title": "Mixed Performance in U.S. Stocks as Inflation Data Awaited",
+      "description": "U.S. stocks ended with mixed results as investors began to reassess the high valuations of equities amid new economic policies under President-elect Trump. The",
+      "keywords": "GuruFocus, Article, News, GuruFocus News, TSLA",
+      "snippet": "U.S. stocks ended with mixed results as investors began to reassess the high valuations of equities amid new economic policies under President-elect Trump. The ...",
+      "url": "https://www.gurufocus.com/news/2597700/mixed-performance-in-us-stocks-as-inflation-data-awaited",
+      "image_url": "https://static.gurufocus.com/logos/0C00004EP4.png?20",
+      "language": "en",
+      "published_at": "2024-11-12T20:10:34.000000Z",
+      "source": "gurufocus.com",
+      "entities": [
+        {
+          "symbol": "TSLA",
+          "name": "Tesla, Inc.",
+          "country": "us",
+          "type": "equity",
+          "industry": "Consumer Cyclical",
+          "match_score": 13.035027,
+          "sentiment_score": 0.48245,
+          "highlights": [
+            {
+              "highlight": "<em>Tesla</em> (TSLA, Financial) has gar[+326 characters]",
+              "sentiment": 0.6249,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "<em>Tesla</em> has emerged as a key high[+34 characters]",
+              "sentiment": 0.34,
+              "highlighted_in": "main_text"
+            }
+          ]
+        }
+      ],
+      "similar": []
+    }
+  ]
+}
