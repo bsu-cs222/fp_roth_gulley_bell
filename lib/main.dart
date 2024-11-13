@@ -1,9 +1,10 @@
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
-import 'package:trending_app/google_parser.dart';
-import 'package:http/http.dart' as http;
 import 'package:flutter_dotenv/flutter_dotenv.dart';
+import 'package:http/http.dart' as http;
+import 'package:trending_app/google_parser.dart';
+import 'package:trending_app/stocks_trends_parser.dart';
 import 'package:trending_app/youtube_trends_parser.dart';
 
 void main() async {
@@ -45,6 +46,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     final googleParser = GoogleParser();
     final youtubeParser = YoutubeTrendsParser();
+    final stocksParser = StocksTrendsParser();
 
     return MaterialApp(
       home: Scaffold(

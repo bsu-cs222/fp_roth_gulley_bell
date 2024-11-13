@@ -1,7 +1,8 @@
 import 'dart:convert';
 import 'dart:io';
-import 'package:trending_app/youtube_trends_parser.dart';
+
 import 'package:flutter_test/flutter_test.dart';
+import 'package:trending_app/youtube_trends_parser.dart';
 
 void main() {
   final youtubeParser = YoutubeTrendsParser();
