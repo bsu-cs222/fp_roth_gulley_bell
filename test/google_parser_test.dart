@@ -8,13 +8,13 @@ void main() {
   final parser = SerpApiTrendsParser();
   test('amari cooper is the most trending search', () async {
     final jsonObject = await _loadSampleData('google_trends_query.json');
-    final firstTrend = parser.parseFirstGoogleTrends(jsonObject);
+    final firstTrend = parser.parseFirstApiDataTrends(jsonObject);
     expect(firstTrend, 'amari cooper');
   });
 
   test('The first five trends from google trends will be pulled', () async {
     final jsonObject = await _loadSampleData('google_trends_query.json');
-    final firstFiveTrends = parser.parseFirstFiveGoogleTrends(jsonObject);
+    final firstFiveTrends = parser.parseFirstFiveApiDataTrends(jsonObject);
     expect(firstFiveTrends, [
       'amari cooper',
       'kate moss',

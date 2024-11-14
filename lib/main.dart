@@ -91,7 +91,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                 children: [
                                   Text("Google"),
                                   Text(
-                                    "1. ${googleParser.parseFirstGoogleTrends(snapshot.data)}",
+                                    "1. ${googleParser.parseFirstApiDataTrends(snapshot.data)}",
                                     style: TextStyle(
                                         decoration: TextDecoration.none,
                                         fontSize: 20,
