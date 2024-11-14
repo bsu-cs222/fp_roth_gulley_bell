@@ -45,7 +45,7 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
-    final googleParser = GoogleParser();
+    final googleParser = SerpApiTrendsParser();
     final youtubeParser = YoutubeTrendsParser();
     final stocksParser = StocksTrendsParser();
     final newsParser = NewsTrendsParser();

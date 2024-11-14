@@ -1,10 +1,11 @@
 import 'dart:convert';
 import 'dart:io';
-import 'package:trending_app/google_parser.dart';
+
 import 'package:flutter_test/flutter_test.dart';
+import 'package:trending_app/google_parser.dart';
 
 void main() {
-  final parser = GoogleParser();
+  final parser = SerpApiTrendsParser();
   test('amari cooper is the most trending search', () async {
     final jsonObject = await _loadSampleData('google_trends_query.json');
     final firstTrend = parser.parseFirstGoogleTrends(jsonObject);
