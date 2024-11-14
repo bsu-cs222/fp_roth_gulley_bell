@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:http/http.dart' as http;
 import 'package:trending_app/google_parser.dart';
+import 'package:trending_app/news_trends_parser.dart';
 import 'package:trending_app/stocks_trends_parser.dart';
 import 'package:trending_app/youtube_trends_parser.dart';
 
@@ -47,6 +48,7 @@ class _MyHomePageState extends State<MyHomePage> {
     final googleParser = GoogleParser();
     final youtubeParser = YoutubeTrendsParser();
     final stocksParser = StocksTrendsParser();
+    final newsParser = NewsTrendsParser();
 
     return MaterialApp(
       home: Scaffold(
@@ -65,90 +67,178 @@ class _MyHomePageState extends State<MyHomePage> {
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
-                  Row(
-                    children: [
-                      Container(
-                        margin: const EdgeInsets.all(0),
-                        padding: const EdgeInsets.all(5.0),
-                        decoration: BoxDecoration(border: Border.all()),
-                        child: FutureBuilder<Map<String, dynamic>>(
-                          future: fetchGoogleTrends(),
-                          builder: (BuildContext context,
-                              AsyncSnapshot<Map<String, dynamic>> snapshot) {
-                            if (snapshot.connectionState ==
-                                ConnectionState.waiting) {
-                              return Center(
-                                  child: CircularProgressIndicator(
-                                      color: Colors.black));
-                            } else if (snapshot.hasError) {
-                              return Center(
-                                  child: Text('Error: ${snapshot.error}'));
-                            } else if (snapshot.hasData) {
-                              return Center(
-                                child: Column(
-                                  children: [
-                                    Text("Google"),
-                                    Text(
-                                      "1. ${googleParser.parseFirstGoogleTrends(snapshot.data)}",
-                                      style: TextStyle(
-                                          decoration: TextDecoration.none,
-                                          fontSize: 20,
-                                          fontWeight: FontWeight.w100,
-                                          color: Colors.black),
-                                    ),
-                                  ],
-                                ),
-                              );
-                            } else {
-                              return Center(
-                                  child: Text(
-                                      'Please Check your internet connection!'));
-                            }
-                          },
-                        ),
+                  Padding(
+                    padding: const EdgeInsets.all(8.0),
+                    child: Container(
+                      margin: const EdgeInsets.all(0),
+                      padding: const EdgeInsets.all(5.0),
+                      decoration: BoxDecoration(border: Border.all()),
+                      child: FutureBuilder<Map<String, dynamic>>(
+                        future: fetchGoogleTrends(),
+                        builder: (BuildContext context,
+                            AsyncSnapshot<Map<String, dynamic>> snapshot) {
+                          if (snapshot.connectionState ==
+                              ConnectionState.waiting) {
+                            return Center(
+                                child: CircularProgressIndicator(
+                                    color: Colors.black));
+                          } else if (snapshot.hasError) {
+                            return Center(
+                                child: Text('Error: ${snapshot.error}'));
+                          } else if (snapshot.hasData) {
+                            return Center(
+                              child: Column(
+                                children: [
+                                  Text("Google"),
+                                  Text(
+                                    "1. ${googleParser.parseFirstGoogleTrends(snapshot.data)}",
+                                    style: TextStyle(
+                                        decoration: TextDecoration.none,
+                                        fontSize: 20,
+                                        fontWeight: FontWeight.w100,
+                                        color: Colors.black),
+                                  ),
+                                ],
+                              ),
+                            );
+                          } else {
+                            return Center(
+                                child: Text(
+                                    'Please Check your internet connection!'));
+                          }
+                        },
                       ),
-                      Container(
-                        margin: const EdgeInsets.all(0),
-                        padding: const EdgeInsets.all(5.0),
-                        decoration: BoxDecoration(border: Border.all()),
-                        child: FutureBuilder<Map<String, dynamic>>(
-                          future: fetchYoutubeTrends(),
-                          builder: (BuildContext context,
-                              AsyncSnapshot<Map<String, dynamic>> snapshot) {
-                            if (snapshot.connectionState ==
-                                ConnectionState.waiting) {
-                              return Center(
-                                  child: CircularProgressIndicator(
-                                      color: Colors.black));
-                            } else if (snapshot.hasError) {
-                              return Center(
-                                  child: Text('Error: ${snapshot.error}'));
-                            } else if (snapshot.hasData) {
-                              return Center(
-                                child: Column(
-                                  children: [
-                                    Text('Youtube'),
-                                    Text(
-                                      "1. ${youtubeParser.parseFirstYoutubeTrend(snapshot.data)}",
-                                      style: TextStyle(
-                                          decoration: TextDecoration.none,
-                                          fontSize: 20,
-                                          fontWeight: FontWeight.w100,
-                                          color: Colors.black),
-                                    ),
-                                  ],
-                                ),
-                              );
-                            } else {
-                              return Center(
-                                  child: Text(
-                                      'Please Check your internet connection!'));
-                            }
-                          },
-                        ),
+                    ),
+                  ),
+                  Padding(
+                    padding: const EdgeInsets.all(8.0),
+                    child: Container(
+                      margin: const EdgeInsets.all(0),
+                      padding: const EdgeInsets.all(5.0),
+                      decoration: BoxDecoration(border: Border.all()),
+                      child: FutureBuilder<Map<String, dynamic>>(
+                        future: fetchYoutubeTrends(),
+                        builder: (BuildContext context,
+                            AsyncSnapshot<Map<String, dynamic>> snapshot) {
+                          if (snapshot.connectionState ==
+                              ConnectionState.waiting) {
+                            return Center(
+                                child: CircularProgressIndicator(
+                                    color: Colors.black));
+                          } else if (snapshot.hasError) {
+                            return Center(
+                                child: Text('Error: ${snapshot.error}'));
+                          } else if (snapshot.hasData) {
+                            return Center(
+                              child: Column(
+                                children: [
+                                  Text('Youtube'),
+                                  Text(
+                                    "1. ${youtubeParser.parseFirstYoutubeTrend(snapshot.data)}",
+                                    style: TextStyle(
+                                        decoration: TextDecoration.none,
+                                        fontSize: 20,
+                                        fontWeight: FontWeight.w100,
+                                        color: Colors.black),
+                                  ),
+                                ],
+                              ),
+                            );
+                          } else {
+                            return Center(
+                                child: Text(
+                                    'Please Check your internet connection!'));
+                          }
+                        },
                       ),
-                    ],
-                  )
+                    ),
+                  ),
+                  Padding(
+                    padding: const EdgeInsets.all(8.0),
+                    child: Container(
+                      margin: const EdgeInsets.all(0),
+                      padding: const EdgeInsets.all(5.0),
+                      decoration: BoxDecoration(border: Border.all()),
+                      child: FutureBuilder<Map<String, dynamic>>(
+                        future: fetchNewsAPITrends(),
+                        builder: (BuildContext context,
+                            AsyncSnapshot<Map<String, dynamic>> snapshot) {
+                          if (snapshot.connectionState ==
+                              ConnectionState.waiting) {
+                            return Center(
+                                child: CircularProgressIndicator(
+                                    color: Colors.black));
+                          } else if (snapshot.hasError) {
+                            return Center(
+                                child: Text('Error: ${snapshot.error}'));
+                          } else if (snapshot.hasData) {
+                            return Center(
+                              child: Column(
+                                children: [
+                                  Text("News API"),
+                                  Text(
+                                    "1. ${newsParser.parseFirstNewsTrend(snapshot.data)}",
+                                    style: TextStyle(
+                                        decoration: TextDecoration.none,
+                                        fontSize: 20,
+                                        fontWeight: FontWeight.w100,
+                                        color: Colors.black),
+                                  ),
+                                ],
+                              ),
+                            );
+                          } else {
+                            return Center(
+                                child: Text(
+                                    'Please Check your internet connection!'));
+                          }
+                        },
+                      ),
+                    ),
+                  ),
+                  Padding(
+                    padding: const EdgeInsets.all(8.0),
+                    child: Container(
+                      margin: const EdgeInsets.all(0),
+                      padding: const EdgeInsets.all(5.0),
+                      decoration: BoxDecoration(border: Border.all()),
+                      child: FutureBuilder<Map<String, dynamic>>(
+                        future: fetchFinanceTrends(),
+                        builder: (BuildContext context,
+                            AsyncSnapshot<Map<String, dynamic>> snapshot) {
+                          if (snapshot.connectionState ==
+                              ConnectionState.waiting) {
+                            return Center(
+                                child: CircularProgressIndicator(
+                                    color: Colors.black));
+                          } else if (snapshot.hasError) {
+                            return Center(
+                                child: Text('Error: ${snapshot.error}'));
+                          } else if (snapshot.hasData) {
+                            return Center(
+                              child: Column(
+                                children: [
+                                  Text("StockData"),
+                                  Text(
+                                    "1. ${stocksParser.parseFirstStocksTrend(snapshot.data)}",
+                                    style: TextStyle(
+                                        decoration: TextDecoration.none,
+                                        fontSize: 20,
+                                        fontWeight: FontWeight.w100,
+                                        color: Colors.black),
+                                  ),
+                                ],
+                              ),
+                            );
+                          } else {
+                            return Center(
+                                child: Text(
+                                    'Please Check your internet connection!'));
+                          }
+                        },
+                      ),
+                    ),
+                  ),
                 ],
               ),
             ),
@@ -173,6 +263,28 @@ class _MyHomePageState extends State<MyHomePage> {
     final youtubeKey = dotenv.env['YOUTUBE_KEY'];
     final response = await http.get(Uri.parse(
         'https://www.googleapis.com/youtube/v3/videos?part=snippet,statistics&chart=mostPopular&regionCode=US&key=$youtubeKey'));
+    if (response.statusCode == 200) {
+      return jsonDecode(response.body);
+    } else {
+      throw Exception('Failed to load Data');
+    }
+  }
+
+  Future<Map<String, dynamic>> fetchNewsAPITrends() async {
+    final newsKey = dotenv.env['NEWS_KEY'];
+    final response = await http.get(Uri.parse(
+        'https://newsapi.org/v2/top-headlines?country=us&apiKey=$newsKey'));
+    if (response.statusCode == 200) {
+      return jsonDecode(response.body);
+    } else {
+      throw Exception('Failed to load Data');
+    }
+  }
+
+  Future<Map<String, dynamic>> fetchFinanceTrends() async {
+    final financeKey = dotenv.env['FINANCE_KEY'];
+    final response = await http.get(Uri.parse(
+        'https://api.stockdata.org/v1/news/all?&filter_entities=true&language=en&api_token=$financeKey'));
     if (response.statusCode == 200) {
       return jsonDecode(response.body);
     } else {
