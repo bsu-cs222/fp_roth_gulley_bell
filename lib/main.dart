@@ -43,7 +43,7 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
-    final googleParser = GoogleParser();
+    final googleParser = SerpApiTrendsParser();
     final youtubeParser = YoutubeTrendsParser();
     final stocksParser = StocksTrendsParser();
     final newsParser = NewsTrendsParser();
@@ -90,7 +90,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                 children: [
                                   Text("Google"),
                                   Text(
-                                    "1. ${googleParser.parseFirstGoogleTrends(snapshot.data)}",
+                                    "1. ${googleParser.parseFirstApiDataTrends(snapshot.data)}",
                                     style: TextStyle(
                                         decoration: TextDecoration.none,
                                         fontSize: 20,
