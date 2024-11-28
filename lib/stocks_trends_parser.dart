@@ -8,7 +8,7 @@ class StocksTrendsParser {
     }
   }
 
-  List<String> parseFirstThreeStocktrends(dynamic jsonData) {
+  List<String> parseFirstTwoStockTrends(dynamic jsonData) {
     List<String> stockTrends = [];
 
     if (jsonData['data'] != null && jsonData['data'].length >= 3) {

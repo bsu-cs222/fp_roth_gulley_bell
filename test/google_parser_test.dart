@@ -13,7 +13,7 @@ void main() {
 
   test('The first five trends from google trends will be pulled', () async {
     final jsonObject = await _loadSampleData('google_trends_query.json');
-    final firstFiveTrends = parser.parseFirstFiveGoogleTrends(jsonObject);
+    final firstFiveTrends = parser.parseMultipleGoogleTrends(jsonObject, 5);
     expect(firstFiveTrends, [
       'amari cooper',
       'kate moss',

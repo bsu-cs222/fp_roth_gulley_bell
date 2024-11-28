@@ -14,11 +14,9 @@ void main() {
 
   test('The first three stock trends will be pulled', () async {
     final jsonObject = await _loadSampleData('stocks_trends_query.json');
-    final firstThreeTrends =
-        stocksParser.parseFirstThreeStocktrends(jsonObject);
+    final firstThreeTrends = stocksParser.parseFirstTwoStockTrends(jsonObject);
     expect(firstThreeTrends, [
       'Why Tesla (TSLA) Shares Are Dropping Today',
-      'Hertz posts wider-than-expected loss due to high depreciation costs By Reuters',
       'Mixed Performance in U.S. Stocks as Inflation Data Awaited'
     ]);
   });

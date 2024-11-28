@@ -4,9 +4,10 @@ class GoogleParser {
     return firstTrend;
   }
 
-  List<String> parseFirstFiveGoogleTrends(dynamic jsonData) {
+  List<String> parseMultipleGoogleTrends(dynamic jsonData, int numOfTrends) {
     List<String> trendList = <String>[];
-    for (int i = 0; i <= 4; i++) {
+    numOfTrends = numOfTrends - 1;
+    for (int i = 0; i <= numOfTrends; i++) {
       String trend = jsonData['trending_searches'][i]['query'];
       trendList.add(trend);
     }
