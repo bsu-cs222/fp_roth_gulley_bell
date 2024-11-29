@@ -72,10 +72,16 @@ class _MyHomePageState extends State<MyHomePage> {
                       margin: const EdgeInsets.all(0),
                       padding: const EdgeInsets.all(5.0),
                       decoration: BoxDecoration(border: Border.all()),
-                      child: FutureBuilder<Map<String, dynamic>>(
-                        future: _future.fetchGoogleTrends(),
+                      child: FutureBuilder<List<Map<String, dynamic>>>(
+                        future: Future.wait([
+                          _future.fetchGoogleTrends(),
+                          _future.fetchYoutubeTrends(),
+                          _future.fetchNewsAPITrends(),
+                          _future.fetchFinanceTrends()
+                        ]),
                         builder: (BuildContext context,
-                            AsyncSnapshot<Map<String, dynamic>> snapshot) {
+                            AsyncSnapshot<List<Map<String, dynamic>>>
+                                snapshot) {
                           if (snapshot.connectionState ==
                               ConnectionState.waiting) {
                             return Center(
@@ -90,136 +96,34 @@ class _MyHomePageState extends State<MyHomePage> {
                                 children: [
                                   Text("Google"),
                                   Text(
-                                    "1. ${googleParser.parseFirstGoogleTrends(snapshot.data)}",
+                                    "1. ${googleParser.parseFirstGoogleTrends(snapshot.data![0])}",
                                     style: TextStyle(
                                         decoration: TextDecoration.none,
                                         fontSize: 20,
                                         fontWeight: FontWeight.w100,
                                         color: Colors.black),
                                   ),
-                                ],
-                              ),
-                            );
-                          } else {
-                            return Center(
-                                child: Text(
-                                    'Please Check your internet connection!'));
-                          }
-                        },
-                      ),
-                    ),
-                  ),
-                  Padding(
-                    padding: const EdgeInsets.all(8.0),
-                    child: Container(
-                      margin: const EdgeInsets.all(0),
-                      padding: const EdgeInsets.all(5.0),
-                      decoration: BoxDecoration(border: Border.all()),
-                      child: FutureBuilder<Map<String, dynamic>>(
-                        future: _future.fetchYoutubeTrends(),
-                        builder: (BuildContext context,
-                            AsyncSnapshot<Map<String, dynamic>> snapshot) {
-                          if (snapshot.connectionState ==
-                              ConnectionState.waiting) {
-                            return Center(
-                                child: CircularProgressIndicator(
-                                    color: Colors.black));
-                          } else if (snapshot.hasError) {
-                            return Center(
-                                child: Text('Error: ${snapshot.error}'));
-                          } else if (snapshot.hasData) {
-                            return Center(
-                              child: Column(
-                                children: [
-                                  Text('Youtube'),
+                                  Text("Youtube"),
                                   Text(
-                                    "1. ${youtubeParser.parseFirstYoutubeTrend(snapshot.data)}",
+                                    "1. ${youtubeParser.parseFirstYoutubeTrend(snapshot.data![1])}",
                                     style: TextStyle(
                                         decoration: TextDecoration.none,
                                         fontSize: 20,
-                                        fontWeight: FontWeight.w200,
+                                        fontWeight: FontWeight.w100,
                                         color: Colors.black),
                                   ),
-                                ],
-                              ),
-                            );
-                          } else {
-                            return Center(
-                                child: Text(
-                                    'Please Check your internet connection!'));
-                          }
-                        },
-                      ),
-                    ),
-                  ),
-                  Padding(
-                    padding: const EdgeInsets.all(8.0),
-                    child: Container(
-                      margin: const EdgeInsets.all(0),
-                      padding: const EdgeInsets.all(5.0),
-                      decoration: BoxDecoration(border: Border.all()),
-                      child: FutureBuilder<Map<String, dynamic>>(
-                        future: _future.fetchNewsAPITrends(),
-                        builder: (BuildContext context,
-                            AsyncSnapshot<Map<String, dynamic>> snapshot) {
-                          if (snapshot.connectionState ==
-                              ConnectionState.waiting) {
-                            return Center(
-                                child: CircularProgressIndicator(
-                                    color: Colors.black));
-                          } else if (snapshot.hasError) {
-                            return Center(
-                                child: Text('Error: ${snapshot.error}'));
-                          } else if (snapshot.hasData) {
-                            return Center(
-                              child: Column(
-                                children: [
                                   Text("News API"),
                                   Text(
-                                    "1. ${newsParser.parseFirstNewsTrend(snapshot.data)}",
+                                    "1. ${newsParser.parseFirstNewsTrend(snapshot.data![2])}",
                                     style: TextStyle(
                                         decoration: TextDecoration.none,
                                         fontSize: 20,
                                         fontWeight: FontWeight.w100,
                                         color: Colors.black),
                                   ),
-                                ],
-                              ),
-                            );
-                          } else {
-                            return Center(
-                                child: Text(
-                                    'Please Check your internet connection!'));
-                          }
-                        },
-                      ),
-                    ),
-                  ),
-                  Padding(
-                    padding: const EdgeInsets.all(8.0),
-                    child: Container(
-                      margin: const EdgeInsets.all(0),
-                      padding: const EdgeInsets.all(5.0),
-                      decoration: BoxDecoration(border: Border.all()),
-                      child: FutureBuilder<Map<String, dynamic>>(
-                        future: _future.fetchFinanceTrends(),
-                        builder: (BuildContext context,
-                            AsyncSnapshot<Map<String, dynamic>> snapshot) {
-                          if (snapshot.connectionState ==
-                              ConnectionState.waiting) {
-                            return Center(
-                                child: CircularProgressIndicator(
-                                    color: Colors.black));
-                          } else if (snapshot.hasError) {
-                            return Center(
-                                child: Text('Error: ${snapshot.error}'));
-                          } else if (snapshot.hasData) {
-                            return Center(
-                              child: Column(
-                                children: [
-                                  Text("StockData"),
+                                  Text("StockDataAPI"),
                                   Text(
-                                    "1. ${stocksParser.parseFirstStocksTrend(snapshot.data)}",
+                                    "1. ${stocksParser.parseFirstStocksTrend(snapshot.data![3])}",
                                     style: TextStyle(
                                         decoration: TextDecoration.none,
                                         fontSize: 20,
