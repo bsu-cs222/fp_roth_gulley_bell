@@ -43,11 +43,25 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
-    final googleParser = GoogleParser();
-    final youtubeParser = YoutubeTrendsParser();
-    final stocksParser = StocksTrendsParser();
-    final newsParser = NewsTrendsParser();
-    final _future = TrendFetchers();
+    GoogleParser googleParser = GoogleParser();
+    YoutubeTrendsParser youtubeParser = YoutubeTrendsParser();
+    StocksTrendsParser stocksParser = StocksTrendsParser();
+    NewsTrendsParser newsParser = NewsTrendsParser();
+    TrendFetchers trendFetcher = TrendFetchers();
+
+    Future<void> fetchTrends() async {
+      try {
+        await Future.wait([
+          trendFetcher.fetchGoogleTrends(),
+          trendFetcher.fetchYoutubeTrends(),
+          trendFetcher.fetchNewsAPITrends(),
+          trendFetcher.fetchFinanceTrends()
+        ]);
+      } catch (e) {
+        FileNotFoundError;
+      }
+      setState(() {});
+    }
 
     return MaterialApp(
       home: Scaffold(
@@ -68,78 +82,127 @@ class _MyHomePageState extends State<MyHomePage> {
                 children: [
                   Padding(
                     padding: const EdgeInsets.all(8.0),
-                    child: Container(
-                      margin: const EdgeInsets.all(0),
-                      padding: const EdgeInsets.all(5.0),
-                      decoration: BoxDecoration(border: Border.all()),
-                      child: FutureBuilder<List<Map<String, dynamic>>>(
-                        future: Future.wait([
-                          _future.fetchGoogleTrends(),
-                          _future.fetchYoutubeTrends(),
-                          _future.fetchNewsAPITrends(),
-                          _future.fetchFinanceTrends()
-                        ]),
-                        builder: (BuildContext context,
-                            AsyncSnapshot<List<Map<String, dynamic>>>
-                                snapshot) {
-                          if (snapshot.connectionState ==
-                              ConnectionState.waiting) {
-                            return Center(
-                                child: CircularProgressIndicator(
-                                    color: Colors.black));
-                          } else if (snapshot.hasError) {
-                            return Center(
-                                child: Text('Error: ${snapshot.error}'));
-                          } else if (snapshot.hasData) {
-                            return Center(
-                              child: Column(
-                                children: [
-                                  Text("Google"),
-                                  Text(
-                                    "1. ${googleParser.parseFirstGoogleTrends(snapshot.data![0])}",
-                                    style: TextStyle(
-                                        decoration: TextDecoration.none,
-                                        fontSize: 20,
-                                        fontWeight: FontWeight.w100,
-                                        color: Colors.black),
+                    child: FutureBuilder<List<Map<String, dynamic>>>(
+                      future: Future.wait([
+                        trendFetcher.fetchGoogleTrends(),
+                        trendFetcher.fetchYoutubeTrends(),
+                        trendFetcher.fetchNewsAPITrends(),
+                        trendFetcher.fetchFinanceTrends()
+                      ]),
+                      builder: (BuildContext context,
+                          AsyncSnapshot<List<Map<String, dynamic>>> snapshot) {
+                        if (snapshot.connectionState ==
+                            ConnectionState.waiting) {
+                          return Center(
+                              child: CircularProgressIndicator(
+                                  color: Colors.black));
+                        } else if (snapshot.hasError) {
+                          return Center(
+                              child: Text('Error: ${snapshot.error}'));
+                        } else if (snapshot.hasData) {
+                          return Center(
+                            child: Column(
+                              children: [
+                                Container(
+                                  margin: const EdgeInsets.all(0),
+                                  padding: const EdgeInsets.all(5.0),
+                                  decoration:
+                                      BoxDecoration(border: Border.all()),
+                                  child: Column(children: [
+                                    Text("Google"),
+                                    Text(
+                                      "1. ${googleParser.parseFirstGoogleTrends(snapshot.data![0])}",
+                                      style: TextStyle(
+                                          decoration: TextDecoration.none,
+                                          fontSize: 20,
+                                          fontWeight: FontWeight.w100,
+                                          color: Colors.black),
+                                    ),
+                                  ]),
+                                ),
+                                Container(
+                                  margin: const EdgeInsets.all(0),
+                                  padding: const EdgeInsets.all(5.0),
+                                  decoration:
+                                      BoxDecoration(border: Border.all()),
+                                  child: Column(
+                                    children: [
+                                      Text("Youtube"),
+                                      Text(
+                                        "1. ${youtubeParser.parseFirstYoutubeTrend(snapshot.data![1])}",
+                                        style: TextStyle(
+                                            decoration: TextDecoration.none,
+                                            fontSize: 20,
+                                            fontWeight: FontWeight.w100,
+                                            color: Colors.black),
+                                      ),
+                                    ],
                                   ),
-                                  Text("Youtube"),
-                                  Text(
-                                    "1. ${youtubeParser.parseFirstYoutubeTrend(snapshot.data![1])}",
-                                    style: TextStyle(
-                                        decoration: TextDecoration.none,
-                                        fontSize: 20,
-                                        fontWeight: FontWeight.w100,
-                                        color: Colors.black),
+                                ),
+                                Container(
+                                  margin: const EdgeInsets.all(0),
+                                  padding: const EdgeInsets.all(5.0),
+                                  decoration:
+                                      BoxDecoration(border: Border.all()),
+                                  child: Column(
+                                    children: [
+                                      Text("News API"),
+                                      Text(
+                                        "1. ${newsParser.parseFirstNewsTrend(snapshot.data![2])}",
+                                        style: TextStyle(
+                                            decoration: TextDecoration.none,
+                                            fontSize: 20,
+                                            fontWeight: FontWeight.w100,
+                                            color: Colors.black),
+                                      ),
+                                    ],
                                   ),
-                                  Text("News API"),
-                                  Text(
-                                    "1. ${newsParser.parseFirstNewsTrend(snapshot.data![2])}",
-                                    style: TextStyle(
-                                        decoration: TextDecoration.none,
-                                        fontSize: 20,
-                                        fontWeight: FontWeight.w100,
-                                        color: Colors.black),
+                                ),
+                                Container(
+                                  margin: const EdgeInsets.all(0),
+                                  padding: const EdgeInsets.all(5.0),
+                                  decoration:
+                                      BoxDecoration(border: Border.all()),
+                                  child: Column(
+                                    children: [
+                                      Text("StockDataAPI"),
+                                      Text(
+                                        "1. ${stocksParser.parseFirstStocksTrend(snapshot.data![3])}",
+                                        style: TextStyle(
+                                            decoration: TextDecoration.none,
+                                            fontSize: 20,
+                                            fontWeight: FontWeight.w100,
+                                            color: Colors.black),
+                                      ),
+                                    ],
                                   ),
-                                  Text("StockDataAPI"),
-                                  Text(
-                                    "1. ${stocksParser.parseFirstStocksTrend(snapshot.data![3])}",
-                                    style: TextStyle(
-                                        decoration: TextDecoration.none,
-                                        fontSize: 20,
-                                        fontWeight: FontWeight.w100,
-                                        color: Colors.black),
-                                  ),
-                                ],
-                              ),
-                            );
-                          } else {
-                            return Center(
-                                child: Text(
-                                    'Please Check your internet connection!'));
-                          }
-                        },
-                      ),
+                                ),
+                              ],
+                            ),
+                          );
+                        } else {
+                          return Center(
+                              child: Text(
+                                  'Please Check your internet connection!'));
+                        }
+                      },
+                    ),
+                  ),
+                  Center(
+                    child: Row(
+                      mainAxisAlignment: MainAxisAlignment.center,
+                      children: [
+                        TextButton(
+                          onPressed: fetchTrends,
+                          child: Text(("Fetch Trends!"),
+                              style: TextStyle(
+                                decoration: TextDecoration.underline,
+                                fontSize: 20,
+                                fontWeight: FontWeight.w100,
+                                color: Colors.black,
+                              )),
+                        )
+                      ],
                     ),
                   ),
                 ],
