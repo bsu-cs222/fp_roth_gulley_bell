@@ -8,11 +8,11 @@ class StocksTrendsParser {
     }
   }
 
-  List<String> parseFirstTwoStockTrends(dynamic jsonData) {
+  List<String> parseMultipleStockTrends(dynamic jsonData, int numOfTrends) {
     List<String> stockTrends = [];
-
+    numOfTrends = numOfTrends - 1;
     if (jsonData['data'] != null && jsonData['data'].length >= 3) {
-      for (int i = 0; i < 3; i++) {
+      for (int i = 0; i < numOfTrends; i++) {
         stockTrends.add(jsonData['data'][i]['title']);
       }
     } else if (jsonData['data'] != null) {

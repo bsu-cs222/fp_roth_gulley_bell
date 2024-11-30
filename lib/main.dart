@@ -100,85 +100,97 @@ class _MyHomePageState extends State<MyHomePage> {
                           return Center(
                               child: Text('Error: ${snapshot.error}'));
                         } else if (snapshot.hasData) {
-                          return Center(
-                            child: Column(
-                              children: [
-                                Container(
-                                  margin: const EdgeInsets.all(0),
-                                  padding: const EdgeInsets.all(5.0),
-                                  decoration:
-                                      BoxDecoration(border: Border.all()),
-                                  child: Column(children: [
-                                    Text("Google"),
-                                    Text(
-                                      "1. ${googleParser.parseFirstGoogleTrends(snapshot.data![0])}",
-                                      style: TextStyle(
-                                          decoration: TextDecoration.none,
-                                          fontSize: 20,
-                                          fontWeight: FontWeight.w100,
-                                          color: Colors.black),
+                          return Row(
+                            children: [
+                              Center(
+                                child: Row(
+                                  children: [
+                                    Container(
+                                      margin: const EdgeInsets.all(0),
+                                      padding: const EdgeInsets.all(5.0),
+                                      width: 350.0,
+                                      height: 350.0,
+                                      decoration:
+                                          BoxDecoration(border: Border.all()),
+                                      child: Column(children: [
+                                        Text("Google"),
+                                        Text(
+                                          "1. ${googleParser.parseFirstGoogleTrends(snapshot.data![0])}",
+                                          style: TextStyle(
+                                              decoration: TextDecoration.none,
+                                              fontSize: 20,
+                                              fontWeight: FontWeight.w100,
+                                              color: Colors.black),
+                                        ),
+                                      ]),
                                     ),
-                                  ]),
-                                ),
-                                Container(
-                                  margin: const EdgeInsets.all(0),
-                                  padding: const EdgeInsets.all(5.0),
-                                  decoration:
-                                      BoxDecoration(border: Border.all()),
-                                  child: Column(
-                                    children: [
-                                      Text("Youtube"),
-                                      Text(
-                                        "1. ${youtubeParser.parseFirstYoutubeTrend(snapshot.data![1])}",
-                                        style: TextStyle(
-                                            decoration: TextDecoration.none,
-                                            fontSize: 20,
-                                            fontWeight: FontWeight.w100,
-                                            color: Colors.black),
+                                    Container(
+                                      margin: const EdgeInsets.all(0),
+                                      padding: const EdgeInsets.all(5.0),
+                                      width: 350.0,
+                                      height: 350.0,
+                                      decoration:
+                                          BoxDecoration(border: Border.all()),
+                                      child: Column(
+                                        children: [
+                                          Text("Youtube"),
+                                          Text(
+                                            "1. ${youtubeParser.parseFirstYoutubeTrend(snapshot.data![1])}",
+                                            style: TextStyle(
+                                                decoration: TextDecoration.none,
+                                                fontSize: 20,
+                                                fontWeight: FontWeight.w100,
+                                                color: Colors.black),
+                                          ),
+                                        ],
                                       ),
-                                    ],
-                                  ),
-                                ),
-                                Container(
-                                  margin: const EdgeInsets.all(0),
-                                  padding: const EdgeInsets.all(5.0),
-                                  decoration:
-                                      BoxDecoration(border: Border.all()),
-                                  child: Column(
-                                    children: [
-                                      Text("News API"),
-                                      Text(
-                                        "1. ${newsParser.parseFirstNewsTrend(snapshot.data![2])}",
-                                        style: TextStyle(
-                                            decoration: TextDecoration.none,
-                                            fontSize: 20,
-                                            fontWeight: FontWeight.w100,
-                                            color: Colors.black),
+                                    ),
+                                    Container(
+                                      margin: const EdgeInsets.all(0),
+                                      padding: const EdgeInsets.all(5.0),
+                                      width: 350.0,
+                                      height: 350.0,
+                                      decoration:
+                                          BoxDecoration(border: Border.all()),
+                                      child: Column(
+                                        children: [
+                                          Text("News API"),
+                                          Text(
+                                            "1. ${newsParser.parseFirstNewsTrend(snapshot.data![2])}",
+                                            style: TextStyle(
+                                                decoration: TextDecoration.none,
+                                                fontSize: 20,
+                                                fontWeight: FontWeight.w100,
+                                                color: Colors.black),
+                                          ),
+                                        ],
                                       ),
-                                    ],
-                                  ),
-                                ),
-                                Container(
-                                  margin: const EdgeInsets.all(0),
-                                  padding: const EdgeInsets.all(5.0),
-                                  decoration:
-                                      BoxDecoration(border: Border.all()),
-                                  child: Column(
-                                    children: [
-                                      Text("StockDataAPI"),
-                                      Text(
-                                        "1. ${stocksParser.parseFirstStocksTrend(snapshot.data![3])}",
-                                        style: TextStyle(
-                                            decoration: TextDecoration.none,
-                                            fontSize: 20,
-                                            fontWeight: FontWeight.w100,
-                                            color: Colors.black),
+                                    ),
+                                    Container(
+                                      margin: const EdgeInsets.all(0),
+                                      padding: const EdgeInsets.all(5.0),
+                                      width: 350.0,
+                                      height: 350.0,
+                                      decoration:
+                                          BoxDecoration(border: Border.all()),
+                                      child: Column(
+                                        children: [
+                                          Text("StockDataAPI"),
+                                          Text(
+                                            "1. ${stocksParser.parseFirstStocksTrend(snapshot.data![3])}",
+                                            style: TextStyle(
+                                                decoration: TextDecoration.none,
+                                                fontSize: 20,
+                                                fontWeight: FontWeight.w100,
+                                                color: Colors.black),
+                                          ),
+                                        ],
                                       ),
-                                    ],
-                                  ),
+                                    ),
+                                  ],
                                 ),
-                              ],
-                            ),
+                              ),
+                            ],
                           );
                         } else {
                           return Center(

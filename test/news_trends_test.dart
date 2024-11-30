@@ -17,7 +17,7 @@ void main() {
 
   test("The top five trending news articles will be returned", () async {
     final jsonObject = await _loadSampleData('news_trends_query.json');
-    final firstFiveTrends = newsParser.parseFirstFiveNewsTrends(jsonObject);
+    final firstFiveTrends = newsParser.parseMultipleNewsTrends(jsonObject, 5);
     expect(firstFiveTrends, [
       "Monkey mayhem in South Carolina after 43 primates escape research facility - CNN",
       "University of Idaho murder suspect back in court for death penalty arguments - Fox News",

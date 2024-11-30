@@ -4,9 +4,10 @@ class YoutubeTrendsParser {
     return firstTrend;
   }
 
-  List<String> parseFirstFiveYoutubeTrends(dynamic jsonData) {
+  List<String> parseMultipleYoutubeTrends(dynamic jsonData, int numOfTrends) {
     List<String> youtubeTrends = [];
-    for (int i = 0; i <= 4; i++) {
+    numOfTrends = numOfTrends - 1;
+    for (int i = 0; i <= numOfTrends; i++) {
       youtubeTrends.add(jsonData['items'][i]['snippet']['title']);
     }
     return youtubeTrends;

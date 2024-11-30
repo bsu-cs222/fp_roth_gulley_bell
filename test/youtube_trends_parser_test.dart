@@ -16,7 +16,7 @@ void main() {
   test("The top five trending videos will be returned", () async {
     final jsonObject = await _loadSampleData('youtube_trends_query.json');
     final firstFiveTrends =
-        youtubeParser.parseFirstFiveYoutubeTrends(jsonObject);
+        youtubeParser.parseMultipleYoutubeTrends(jsonObject, 5);
     expect(firstFiveTrends, [
       "My Daughter's Emotional 15th BIRTHDAY SURPRISE",
       "\$1 vs \$500,000 Experiences!",
