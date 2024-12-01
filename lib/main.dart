@@ -49,6 +49,7 @@ class _MyHomePageState extends State<MyHomePage> {
   NewsTrendsParser newsParser = NewsTrendsParser();
   TrendFetchers trendFetcher = TrendFetchers();
   List<Map<String, dynamic>>? trendsData;
+  String? errorText;
 
   Future<void> fetchTrends() async {
     try {
@@ -251,7 +252,8 @@ class _MyHomePageState extends State<MyHomePage> {
                               border: OutlineInputBorder(),
                               enabledBorder: OutlineInputBorder(),
                               hintText: "Enter 1-10 For New Trends!",
-                              hintStyle: TextStyle(color: Colors.black)),
+                              hintStyle: TextStyle(color: Colors.black),
+                              errorText: errorText),
                           controller: textEditingController,
                           style: TextStyle(
                               decoration: TextDecoration.none,
@@ -260,8 +262,19 @@ class _MyHomePageState extends State<MyHomePage> {
                               color: Colors.black),
                           onChanged: (value) {
                             setState(() {
-                              numOfTrends =
-                                  int.tryParse(textEditingController.text) ?? 1;
+                              try {
+                                numOfTrends =
+                                    int.parse(textEditingController.text);
+                                // Clear error message if input is valid
+                                errorText = null;
+                                // Ensure the number is between 1 and 10
+                                if (numOfTrends < 1 || numOfTrends > 5) {
+                                  errorText =
+                                      "Please enter a number between 1 and 5";
+                                }
+                              } catch (e) {
+                                errorText = "Please enter a number from 1 - 5";
+                              }
                             });
                           },
                         ),

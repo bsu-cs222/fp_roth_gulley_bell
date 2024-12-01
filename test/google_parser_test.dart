@@ -8,19 +8,14 @@ void main() {
   test('amari cooper is the most trending search', () async {
     final jsonObject = await _loadSampleData('google_trends_query.json');
     final firstTrend = parser.parseFirstGoogleTrends(jsonObject);
-    expect(firstTrend, 'amari cooper');
+    expect(firstTrend, '1. amari cooper');
   });
 
   test('The first five trends from google trends will be pulled', () async {
     final jsonObject = await _loadSampleData('google_trends_query.json');
     final firstFiveTrends = parser.parseMultipleGoogleTrends(jsonObject, 5);
-    expect(firstFiveTrends, [
-      'amari cooper',
-      'kate moss',
-      'argentina vs bolivia',
-      'méxico - estados unidos',
-      'johnny gaudreau'
-    ]);
+    expect(firstFiveTrends,
+        '1. amari cooper\n2. kate moss\n3. argentina vs bolivia\n4. méxico - estados unidos\n5. johnny gaudreau');
   });
 }
 

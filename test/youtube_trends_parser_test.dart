@@ -10,20 +10,15 @@ void main() {
       () async {
     final jsonObject = await _loadSampleData('youtube_trends_query.json');
     final firstTrend = youtubeParser.parseFirstYoutubeTrend(jsonObject);
-    expect(firstTrend, "My Daughter's Emotional 15th BIRTHDAY SURPRISE");
+    expect(firstTrend, "1. My Daughter's Emotional 15th BIRTHDAY SURPRISE");
   });
 
   test("The top five trending videos will be returned", () async {
     final jsonObject = await _loadSampleData('youtube_trends_query.json');
     final firstFiveTrends =
         youtubeParser.parseMultipleYoutubeTrends(jsonObject, 5);
-    expect(firstFiveTrends, [
-      "My Daughter's Emotional 15th BIRTHDAY SURPRISE",
-      "\$1 vs \$500,000 Experiences!",
-      'I Tested Restaurants with No Reviews',
-      '\$10,000 If You Can Beat My Rock, Paper, Scissors Robot',
-      'We Won Every Game at the State Fair!'
-    ]);
+    expect(firstFiveTrends,
+        "1. My Daughter's Emotional 15th BIRTHDAY SURPRISE\n2. \$1 vs \$500,000 Experiences!\n3. I Tested Restaurants with No Reviews\n4. \$10,000 If You Can Beat My Rock, Paper, Scissors Robot\n5. We Won Every Game at the State Fair!");
   });
 }
 

@@ -4,12 +4,13 @@ class NewsTrendsParser {
     return firstTrend;
   }
 
-  List<String> parseMultipleNewsTrends(dynamic jsonData, int numOfTrends) {
+  String parseMultipleNewsTrends(dynamic jsonData, int numOfTrends) {
     List<String> newsTrends = [];
     numOfTrends = numOfTrends - 1;
     for (int i = 0; i <= numOfTrends; i++) {
-      newsTrends.add(jsonData['articles'][i]['title']);
+      String trend = jsonData['articles'][i]['title'];
+      newsTrends.add("${i + 1}. $trend");
     }
-    return newsTrends;
+    return newsTrends.join("\n");
   }
 }
