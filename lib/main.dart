@@ -41,28 +41,32 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
+  final textEditingController = TextEditingController();
+  int numOfTrends = 0;
+  GoogleParser googleParser = GoogleParser();
+  YoutubeTrendsParser youtubeParser = YoutubeTrendsParser();
+  StocksTrendsParser stocksParser = StocksTrendsParser();
+  NewsTrendsParser newsParser = NewsTrendsParser();
+  TrendFetchers trendFetcher = TrendFetchers();
+  List<Map<String, dynamic>>? trendsData;
+
+  Future<void> fetchTrends() async {
+    try {
+      final data = await Future.wait([
+        trendFetcher.fetchGoogleTrends(),
+        trendFetcher.fetchYoutubeTrends(),
+        trendFetcher.fetchNewsAPITrends(),
+      ]);
+      setState(() {
+        trendsData = data;
+      });
+    } catch (e) {
+      Text("Failed to load data");
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
-    GoogleParser googleParser = GoogleParser();
-    YoutubeTrendsParser youtubeParser = YoutubeTrendsParser();
-    StocksTrendsParser stocksParser = StocksTrendsParser();
-    NewsTrendsParser newsParser = NewsTrendsParser();
-    TrendFetchers trendFetcher = TrendFetchers();
-
-    Future<void> fetchTrends() async {
-      try {
-        await Future.wait([
-          trendFetcher.fetchGoogleTrends(),
-          trendFetcher.fetchYoutubeTrends(),
-          trendFetcher.fetchNewsAPITrends(),
-          trendFetcher.fetchFinanceTrends()
-        ]);
-      } catch (e) {
-        FileNotFoundError;
-      }
-      setState(() {});
-    }
-
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
@@ -115,7 +119,14 @@ class _MyHomePageState extends State<MyHomePage> {
                                       child: Column(children: [
                                         Text("Google"),
                                         Text(
-                                          "1. ${googleParser.parseFirstGoogleTrends(snapshot.data![0])}",
+                                          textEditingController.text.isEmpty
+                                              ? googleParser
+                                                  .parseFirstGoogleTrends(
+                                                      snapshot.data![0])
+                                              : googleParser
+                                                  .parseMultipleGoogleTrends(
+                                                      snapshot.data![0],
+                                                      numOfTrends),
                                           style: TextStyle(
                                               decoration: TextDecoration.none,
                                               fontSize: 20,
@@ -135,7 +146,14 @@ class _MyHomePageState extends State<MyHomePage> {
                                         children: [
                                           Text("Youtube"),
                                           Text(
-                                            "1. ${youtubeParser.parseFirstYoutubeTrend(snapshot.data![1])}",
+                                            textEditingController.text.isEmpty
+                                                ? youtubeParser
+                                                    .parseFirstYoutubeTrend(
+                                                        snapshot.data![1])
+                                                : youtubeParser
+                                                    .parseMultipleYoutubeTrends(
+                                                        snapshot.data![1],
+                                                        numOfTrends),
                                             style: TextStyle(
                                                 decoration: TextDecoration.none,
                                                 fontSize: 20,
@@ -204,17 +222,50 @@ class _MyHomePageState extends State<MyHomePage> {
                     child: Row(
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: [
-                        TextButton(
-                          onPressed: fetchTrends,
-                          child: Text(("Fetch Trends!"),
-                              style: TextStyle(
-                                decoration: TextDecoration.underline,
-                                fontSize: 20,
-                                fontWeight: FontWeight.w100,
-                                color: Colors.black,
-                              )),
+                        Padding(
+                          padding: const EdgeInsets.all(20.0),
+                          child: Container(
+                            decoration: BoxDecoration(shape: BoxShape.circle),
+                            child: TextButton(
+                              onPressed: fetchTrends,
+                              child: Text(("Fetch New Trends!"),
+                                  style: TextStyle(
+                                    fontSize: 20,
+                                    fontWeight: FontWeight.w200,
+                                    color: Colors.black,
+                                  )),
+                            ),
+                          ),
                         )
                       ],
+                    ),
+                  ),
+                  Center(
+                    child: Padding(
+                      padding: const EdgeInsets.all(15.0),
+                      child: SizedBox(
+                        height: 100.0,
+                        width: 225.0,
+                        child: TextField(
+                          decoration: InputDecoration(
+                              border: OutlineInputBorder(),
+                              enabledBorder: OutlineInputBorder(),
+                              hintText: "Enter 1-10 For New Trends!",
+                              hintStyle: TextStyle(color: Colors.black)),
+                          controller: textEditingController,
+                          style: TextStyle(
+                              decoration: TextDecoration.none,
+                              fontSize: 15,
+                              fontWeight: FontWeight.w200,
+                              color: Colors.black),
+                          onChanged: (value) {
+                            setState(() {
+                              numOfTrends =
+                                  int.tryParse(textEditingController.text) ?? 1;
+                            });
+                          },
+                        ),
+                      ),
                     ),
                   ),
                 ],

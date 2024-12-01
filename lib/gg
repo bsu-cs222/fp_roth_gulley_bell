@@ -1,0 +1,22 @@
+Container(
+                                      margin: const EdgeInsets.all(0),
+                                      padding: const EdgeInsets.all(5.0),
+                                      width: 350.0,
+                                      height: 350.0,
+                                      decoration:
+                                          BoxDecoration(border: Border.all()),
+                                      child: Column(
+                                        children: [
+                                          Text("StockDataAPI"),
+                                          Text(
+                                            "1. ${stocksParser.parseFirstStocksTrend(snapshot.data![3])}",
+                                            style: TextStyle(
+                                                decoration: TextDecoration.none,
+                                                fontSize: 20,
+                                                fontWeight: FontWeight.w100,
+                                                color: Colors.black),
+                                          ),
+                                        ],
+                                      ),
+                                    ),
+

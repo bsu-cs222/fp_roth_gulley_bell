@@ -1,16 +1,16 @@
 class GoogleParser {
   String parseFirstGoogleTrends(dynamic jsonData) {
     String firstTrend = jsonData['trending_searches'][0]['query'];
-    return firstTrend;
+    return "${1}. $firstTrend";
   }
 
-  List<String> parseMultipleGoogleTrends(dynamic jsonData, int numOfTrends) {
+  String parseMultipleGoogleTrends(dynamic jsonData, int numOfTrends) {
     List<String> trendList = <String>[];
     numOfTrends = numOfTrends - 1;
     for (int i = 0; i <= numOfTrends; i++) {
       String trend = jsonData['trending_searches'][i]['query'];
-      trendList.add(trend);
+      trendList.add("${i + 1}. $trend");
     }
-    return trendList;
+    return trendList.join("\n");
   }
 }
