@@ -120,42 +120,21 @@ class _MyHomePageState extends State<MyHomePage> {
                                           BoxDecoration(border: Border.all()),
                                       child: Column(children: [
                                         Text("Google"),
-                                        Row(
-                                          children: [
-                                            Column(
-                                              children: [
-                                                for (int i = 0;
-                                                    i < numOfTrends;
-                                                    i++)
-                                                  Text(
-                                                    "${i + 1}.",
-                                                    style: TextStyle(
-                                                        decoration:
-                                                            TextDecoration.none,
-                                                        fontSize: 20,
-                                                        fontWeight:
-                                                            FontWeight.w100,
-                                                        color: Colors.black),
-                                                  ),
-                                              ],
-                                            ),
-                                            Text(
-                                              textEditingController.text.isEmpty
-                                                  ? googleParser
-                                                      .parseFirstGoogleTrends(
-                                                          snapshot.data![0])
-                                                  : googleParser
-                                                      .parseMultipleGoogleTrends(
-                                                          snapshot.data![0],
-                                                          numOfTrends),
-                                              style: TextStyle(
-                                                  decoration:
-                                                      TextDecoration.none,
-                                                  fontSize: 20,
-                                                  fontWeight: FontWeight.w100,
-                                                  color: Colors.black),
-                                            ),
-                                          ],
+                                        Text(
+                                          textAlign: TextAlign.center,
+                                          textEditingController.text.isEmpty
+                                              ? googleParser
+                                                  .parseFirstGoogleTrends(
+                                                      snapshot.data![0])
+                                              : googleParser
+                                                  .parseMultipleGoogleTrends(
+                                                      snapshot.data![0],
+                                                      numOfTrends),
+                                          style: TextStyle(
+                                              decoration: TextDecoration.none,
+                                              fontSize: 20,
+                                              fontWeight: FontWeight.w100,
+                                              color: Colors.black),
                                         ),
                                       ]),
                                     ),
@@ -169,44 +148,21 @@ class _MyHomePageState extends State<MyHomePage> {
                                       child: Column(
                                         children: [
                                           Text("Youtube"),
-                                          Row(
-                                            children: [
-                                              Column(
-                                                children: [
-                                                  for (int i = 0;
-                                                      i < numOfTrends;
-                                                      i++)
-                                                    Text(
-                                                      "${i + 1}.",
-                                                      style: TextStyle(
-                                                          decoration:
-                                                              TextDecoration
-                                                                  .none,
-                                                          fontSize: 20,
-                                                          fontWeight:
-                                                              FontWeight.w100,
-                                                          color: Colors.black),
-                                                    ),
-                                                ],
-                                              ),
-                                              Text(
-                                                textEditingController
-                                                        .text.isEmpty
-                                                    ? youtubeParser
-                                                        .parseFirstYoutubeTrend(
-                                                            snapshot.data![1])
-                                                    : youtubeParser
-                                                        .parseMultipleYoutubeTrends(
-                                                            snapshot.data![1],
-                                                            numOfTrends),
-                                                style: TextStyle(
-                                                    decoration:
-                                                        TextDecoration.none,
-                                                    fontSize: 20,
-                                                    fontWeight: FontWeight.w100,
-                                                    color: Colors.black),
-                                              ),
-                                            ],
+                                          Text(
+                                            textAlign: TextAlign.center,
+                                            textEditingController.text.isEmpty
+                                                ? youtubeParser
+                                                    .parseFirstYoutubeTrend(
+                                                        snapshot.data![1])
+                                                : youtubeParser
+                                                    .parseMultipleYoutubeTrends(
+                                                        snapshot.data![1],
+                                                        numOfTrends),
+                                            style: TextStyle(
+                                                decoration: TextDecoration.none,
+                                                fontSize: 20,
+                                                fontWeight: FontWeight.w100,
+                                                color: Colors.black),
                                           ),
                                         ],
                                       ),
