@@ -12,14 +12,14 @@ void main() {
     final jsonObject = await _loadSampleData('news_trends_query.json');
     final firstTrend = newsParser.parseFirstNewsTrend(jsonObject);
     expect(firstTrend,
-        "1. Monkey mayhem in South Carolina after 43 primates escape research facility - CNN");
+        "Monkey mayhem in South Carolina after 43 primates escape research facility - CNN");
   });
 
   test("The top five trending news articles will be returned", () async {
     final jsonObject = await _loadSampleData('news_trends_query.json');
     final firstFiveTrends = newsParser.parseMultipleNewsTrends(jsonObject, 5);
     expect(firstFiveTrends,
-        "1. Monkey mayhem in South Carolina after 43 primates escape research facility - CNN\n2. University of Idaho murder suspect back in court for death penalty arguments - Fox News\n3. Mortgage rates rise again amid election volatility - Yahoo Finance\n4. How Elon Musk’s \$130 million investment in Trump\'s victory could reap a huge payoff for Tesla and the rest of his business empire - Fortune\n5. PFT’s Week 10 2024 NFL picks: Florio vs. Simms - NBC Sports");
+        "Monkey mayhem in South Carolina after 43 primates escape research facility - CNN\nUniversity of Idaho murder suspect back in court for death penalty arguments - Fox News\nMortgage rates rise again amid election volatility - Yahoo Finance\nHow Elon Musk’s \$130 million investment in Trump\'s victory could reap a huge payoff for Tesla and the rest of his business empire - Fortune\nPFT’s Week 10 2024 NFL picks: Florio vs. Simms - NBC Sports");
   });
 }
 
