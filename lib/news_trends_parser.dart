@@ -1,7 +1,7 @@
 class NewsTrendsParser {
   String parseFirstNewsTrend(dynamic jsonData) {
     String firstTrend = jsonData['articles'][0]['title'];
-    return firstTrend;
+    return "${1}. $firstTrend";
   }
 
   String parseMultipleNewsTrends(dynamic jsonData, int numOfTrends) {

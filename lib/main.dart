@@ -42,7 +42,8 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   final textEditingController = TextEditingController();
-  int numOfTrends = 0;
+  int numOfTrends = 1;
+  int numberPointer = 0;
   GoogleParser googleParser = GoogleParser();
   YoutubeTrendsParser youtubeParser = YoutubeTrendsParser();
   StocksTrendsParser stocksParser = StocksTrendsParser();
@@ -119,20 +120,42 @@ class _MyHomePageState extends State<MyHomePage> {
                                           BoxDecoration(border: Border.all()),
                                       child: Column(children: [
                                         Text("Google"),
-                                        Text(
-                                          textEditingController.text.isEmpty
-                                              ? googleParser
-                                                  .parseFirstGoogleTrends(
-                                                      snapshot.data![0])
-                                              : googleParser
-                                                  .parseMultipleGoogleTrends(
-                                                      snapshot.data![0],
-                                                      numOfTrends),
-                                          style: TextStyle(
-                                              decoration: TextDecoration.none,
-                                              fontSize: 20,
-                                              fontWeight: FontWeight.w100,
-                                              color: Colors.black),
+                                        Row(
+                                          children: [
+                                            Column(
+                                              children: [
+                                                for (int i = 0;
+                                                    i < numOfTrends;
+                                                    i++)
+                                                  Text(
+                                                    "${i + 1}.",
+                                                    style: TextStyle(
+                                                        decoration:
+                                                            TextDecoration.none,
+                                                        fontSize: 20,
+                                                        fontWeight:
+                                                            FontWeight.w100,
+                                                        color: Colors.black),
+                                                  ),
+                                              ],
+                                            ),
+                                            Text(
+                                              textEditingController.text.isEmpty
+                                                  ? googleParser
+                                                      .parseFirstGoogleTrends(
+                                                          snapshot.data![0])
+                                                  : googleParser
+                                                      .parseMultipleGoogleTrends(
+                                                          snapshot.data![0],
+                                                          numOfTrends),
+                                              style: TextStyle(
+                                                  decoration:
+                                                      TextDecoration.none,
+                                                  fontSize: 20,
+                                                  fontWeight: FontWeight.w100,
+                                                  color: Colors.black),
+                                            ),
+                                          ],
                                         ),
                                       ]),
                                     ),
@@ -146,20 +169,44 @@ class _MyHomePageState extends State<MyHomePage> {
                                       child: Column(
                                         children: [
                                           Text("Youtube"),
-                                          Text(
-                                            textEditingController.text.isEmpty
-                                                ? youtubeParser
-                                                    .parseFirstYoutubeTrend(
-                                                        snapshot.data![1])
-                                                : youtubeParser
-                                                    .parseMultipleYoutubeTrends(
-                                                        snapshot.data![1],
-                                                        numOfTrends),
-                                            style: TextStyle(
-                                                decoration: TextDecoration.none,
-                                                fontSize: 20,
-                                                fontWeight: FontWeight.w100,
-                                                color: Colors.black),
+                                          Row(
+                                            children: [
+                                              Column(
+                                                children: [
+                                                  for (int i = 0;
+                                                      i < numOfTrends;
+                                                      i++)
+                                                    Text(
+                                                      "${i + 1}.",
+                                                      style: TextStyle(
+                                                          decoration:
+                                                              TextDecoration
+                                                                  .none,
+                                                          fontSize: 20,
+                                                          fontWeight:
+                                                              FontWeight.w100,
+                                                          color: Colors.black),
+                                                    ),
+                                                ],
+                                              ),
+                                              Text(
+                                                textEditingController
+                                                        .text.isEmpty
+                                                    ? youtubeParser
+                                                        .parseFirstYoutubeTrend(
+                                                            snapshot.data![1])
+                                                    : youtubeParser
+                                                        .parseMultipleYoutubeTrends(
+                                                            snapshot.data![1],
+                                                            numOfTrends),
+                                                style: TextStyle(
+                                                    decoration:
+                                                        TextDecoration.none,
+                                                    fontSize: 20,
+                                                    fontWeight: FontWeight.w100,
+                                                    color: Colors.black),
+                                              ),
+                                            ],
                                           ),
                                         ],
                                       ),
@@ -175,7 +222,8 @@ class _MyHomePageState extends State<MyHomePage> {
                                         children: [
                                           Text("News API"),
                                           Text(
-                                            "1. ${newsParser.parseFirstNewsTrend(snapshot.data![2])}",
+                                            newsParser.parseFirstNewsTrend(
+                                                snapshot.data![2]),
                                             style: TextStyle(
                                                 decoration: TextDecoration.none,
                                                 fontSize: 20,
@@ -196,7 +244,8 @@ class _MyHomePageState extends State<MyHomePage> {
                                         children: [
                                           Text("StockDataAPI"),
                                           Text(
-                                            "1. ${stocksParser.parseFirstStocksTrend(snapshot.data![3])}",
+                                            stocksParser.parseFirstStocksTrend(
+                                                snapshot.data![3]),
                                             style: TextStyle(
                                                 decoration: TextDecoration.none,
                                                 fontSize: 20,
@@ -269,8 +318,9 @@ class _MyHomePageState extends State<MyHomePage> {
                                 errorText = null;
                                 // Ensure the number is between 1 and 10
                                 if (numOfTrends < 1 || numOfTrends > 5) {
+                                  numOfTrends = 0;
                                   errorText =
-                                      "Please enter a number between 1 and 5";
+                                      "Please enter a number from 1 - 5";
                                 }
                               } catch (e) {
                                 errorText = "Please enter a number from 1 - 5";

@@ -12,7 +12,7 @@ void main() {
     final jsonObject = await _loadSampleData('news_trends_query.json');
     final firstTrend = newsParser.parseFirstNewsTrend(jsonObject);
     expect(firstTrend,
-        "Monkey mayhem in South Carolina after 43 primates escape research facility - CNN");
+        "1. Monkey mayhem in South Carolina after 43 primates escape research facility - CNN");
   });
 
   test("The top five trending news articles will be returned", () async {
