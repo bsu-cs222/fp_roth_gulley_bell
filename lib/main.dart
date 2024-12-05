@@ -3,8 +3,8 @@ import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:trending_app/google_parser.dart';
 import 'package:trending_app/news_trends_parser.dart';
 import 'package:trending_app/stocks_trends_parser.dart';
-import 'package:trending_app/youtube_trends_parser.dart';
 import 'package:trending_app/trend_fetchers.dart';
+import 'package:trending_app/youtube_trends_parser.dart';
 
 void main() async {
   await dotenv.load(fileName: '.env');
@@ -20,13 +20,14 @@ class MyApp extends StatelessWidget {
       title: 'WTRN',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(
-            primary: Colors.amber,
-            secondary: Colors.orangeAccent,
-            seedColor: Colors.grey,
-            shadow: Colors.black12),
+          seedColor: Colors.amberAccent,
+          primary: Colors.black87,
+          secondary: Colors.orangeAccent,
+          surface: Colors.amberAccent,
+        ),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'Whats Trending Right Now?'),
+      home: const MyHomePage(title: 'What’s Trending Right Now?'),
     );
   }
 }
@@ -43,14 +44,18 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   final textEditingController = TextEditingController();
   int numOfTrends = 1;
-  int numberPointer = 0;
+  String? errorText;
+
   GoogleParser googleParser = GoogleParser();
   YoutubeTrendsParser youtubeParser = YoutubeTrendsParser();
   StocksTrendsParser stocksParser = StocksTrendsParser();
   NewsTrendsParser newsParser = NewsTrendsParser();
   TrendFetchers trendFetcher = TrendFetchers();
-  List<Map<String, dynamic>>? trendsData;
-  String? errorText;
+
+  List<String> _googleTrends = [];
+  List<String> _youtubeTrends = [];
+  List<String> _newsTrends = [];
+  List<String> _stocksTrends = [];
 
   Future<void> fetchTrends() async {
     try {
@@ -58,239 +63,165 @@ class _MyHomePageState extends State<MyHomePage> {
         trendFetcher.fetchGoogleTrends(),
         trendFetcher.fetchYoutubeTrends(),
         trendFetcher.fetchNewsAPITrends(),
+        trendFetcher.fetchFinanceTrends(),
       ]);
+
       setState(() {
-        trendsData = data;
+        _googleTrends = googleParser
+            .parseMultipleGoogleTrends(data[0], numOfTrends)
+            .split('\n');
+        _youtubeTrends = youtubeParser
+            .parseMultipleYoutubeTrends(data[1], numOfTrends)
+            .split('\n');
+        _newsTrends = newsParser
+            .parseMultipleNewsTrends(data[2], numOfTrends)
+            .split('\n');
+        _stocksTrends = stocksParser
+            .parseMultipleStockTrends(data[3], numOfTrends)
+            .split('\n');
       });
     } catch (e) {
-      Text("Failed to load data");
+      setState(() {
+        errorText = "Failed to load data. Please try again.";
+      });
     }
+  }
+
+  Widget buildTrendCard({
+    required String title,
+    required IconData icon,
+    required List<String> trends,
+  }) {
+    return Card(
+      elevation: 5,
+      child: Padding(
+        padding: const EdgeInsets.all(16.0),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Row(
+              children: [
+                Icon(icon, color: Colors.amber),
+                const SizedBox(width: 8),
+                Text(
+                  title,
+                  style: TextStyle(
+                    fontSize: 20,
+                    fontWeight: FontWeight.bold,
+                    color: Theme.of(context).colorScheme.primary,
+                  ),
+                ),
+              ],
+            ),
+            const SizedBox(height: 8),
+            Expanded(
+              child: trends.isEmpty
+                  ? const Center(
+                      child: Text("", style: TextStyle(fontSize: 16)))
+                  : ListView.builder(
+                      itemCount: trends.length,
+                      itemBuilder: (context, index) {
+                        return Text(
+                          '${index + 1}. ${trends[index]}',
+                          style: const TextStyle(fontSize: 18),
+                        );
+                      },
+                    ),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+
+  @override
+  void initState() {
+    super.initState();
+    fetchTrends();
   }
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      home: Scaffold(
-        appBar: AppBar(
-          title: const Text(
-            "What's Trending Right Now?",
-            style: TextStyle(color: Colors.white60),
-          ),
-          backgroundColor: Colors.black87,
-        ),
-        body: Container(
-          color: Theme.of(context).primaryColor,
-          child: Padding(
-            padding: const EdgeInsets.all(16.0),
-            child: Center(
-              child: Column(
-                mainAxisAlignment: MainAxisAlignment.center,
+    return Scaffold(
+      appBar: AppBar(
+        title: Text(widget.title),
+        backgroundColor: Theme.of(context).colorScheme.primary,
+        foregroundColor: Colors.white70,
+      ),
+      body: Padding(
+        padding: const EdgeInsets.all(16.0),
+        child: Column(
+          children: [
+            Expanded(
+              child: GridView.count(
+                crossAxisCount: 4,
+                childAspectRatio: 0.85,
+                crossAxisSpacing: 16,
+                mainAxisSpacing: 16,
                 children: [
-                  Padding(
-                    padding: const EdgeInsets.all(8.0),
-                    child: FutureBuilder<List<Map<String, dynamic>>>(
-                      future: Future.wait([
-                        trendFetcher.fetchGoogleTrends(),
-                        trendFetcher.fetchYoutubeTrends(),
-                        trendFetcher.fetchNewsAPITrends(),
-                        trendFetcher.fetchFinanceTrends()
-                      ]),
-                      builder: (BuildContext context,
-                          AsyncSnapshot<List<Map<String, dynamic>>> snapshot) {
-                        if (snapshot.connectionState ==
-                            ConnectionState.waiting) {
-                          return Center(
-                              child: CircularProgressIndicator(
-                                  color: Colors.black));
-                        } else if (snapshot.hasError) {
-                          return Center(
-                              child: Text('Error: ${snapshot.error}'));
-                        } else if (snapshot.hasData) {
-                          return Row(
-                            children: [
-                              Center(
-                                child: Row(
-                                  children: [
-                                    Container(
-                                      margin: const EdgeInsets.all(0),
-                                      padding: const EdgeInsets.all(5.0),
-                                      width: 350.0,
-                                      height: 350.0,
-                                      decoration:
-                                          BoxDecoration(border: Border.all()),
-                                      child: Column(children: [
-                                        Text("Google"),
-                                        Text(
-                                          textAlign: TextAlign.center,
-                                          textEditingController.text.isEmpty
-                                              ? googleParser
-                                                  .parseFirstGoogleTrends(
-                                                      snapshot.data![0])
-                                              : googleParser
-                                                  .parseMultipleGoogleTrends(
-                                                      snapshot.data![0],
-                                                      numOfTrends),
-                                          style: TextStyle(
-                                              decoration: TextDecoration.none,
-                                              fontSize: 20,
-                                              fontWeight: FontWeight.w100,
-                                              color: Colors.black),
-                                        ),
-                                      ]),
-                                    ),
-                                    Container(
-                                      margin: const EdgeInsets.all(0),
-                                      padding: const EdgeInsets.all(5.0),
-                                      width: 350.0,
-                                      height: 350.0,
-                                      decoration:
-                                          BoxDecoration(border: Border.all()),
-                                      child: Column(
-                                        children: [
-                                          Text("Youtube"),
-                                          Text(
-                                            textAlign: TextAlign.center,
-                                            textEditingController.text.isEmpty
-                                                ? youtubeParser
-                                                    .parseFirstYoutubeTrend(
-                                                        snapshot.data![1])
-                                                : youtubeParser
-                                                    .parseMultipleYoutubeTrends(
-                                                        snapshot.data![1],
-                                                        numOfTrends),
-                                            style: TextStyle(
-                                                decoration: TextDecoration.none,
-                                                fontSize: 20,
-                                                fontWeight: FontWeight.w100,
-                                                color: Colors.black),
-                                          ),
-                                        ],
-                                      ),
-                                    ),
-                                    Container(
-                                      margin: const EdgeInsets.all(0),
-                                      padding: const EdgeInsets.all(5.0),
-                                      width: 350.0,
-                                      height: 350.0,
-                                      decoration:
-                                          BoxDecoration(border: Border.all()),
-                                      child: Column(
-                                        children: [
-                                          Text("News API"),
-                                          Text(
-                                            newsParser.parseFirstNewsTrend(
-                                                snapshot.data![2]),
-                                            style: TextStyle(
-                                                decoration: TextDecoration.none,
-                                                fontSize: 20,
-                                                fontWeight: FontWeight.w100,
-                                                color: Colors.black),
-                                          ),
-                                        ],
-                                      ),
-                                    ),
-                                    Container(
-                                      margin: const EdgeInsets.all(0),
-                                      padding: const EdgeInsets.all(5.0),
-                                      width: 350.0,
-                                      height: 350.0,
-                                      decoration:
-                                          BoxDecoration(border: Border.all()),
-                                      child: Column(
-                                        children: [
-                                          Text("StockDataAPI"),
-                                          Text(
-                                            stocksParser.parseFirstStocksTrend(
-                                                snapshot.data![3]),
-                                            style: TextStyle(
-                                                decoration: TextDecoration.none,
-                                                fontSize: 20,
-                                                fontWeight: FontWeight.w100,
-                                                color: Colors.black),
-                                          ),
-                                        ],
-                                      ),
-                                    ),
-                                  ],
-                                ),
-                              ),
-                            ],
-                          );
-                        } else {
-                          return Center(
-                              child: Text(
-                                  'Please Check your internet connection!'));
-                        }
-                      },
-                    ),
+                  buildTrendCard(
+                    title: "Google Trends",
+                    icon: Icons.search,
+                    trends: _googleTrends,
                   ),
-                  Center(
-                    child: Row(
-                      mainAxisAlignment: MainAxisAlignment.center,
-                      children: [
-                        Padding(
-                          padding: const EdgeInsets.all(20.0),
-                          child: Container(
-                            decoration: BoxDecoration(shape: BoxShape.circle),
-                            child: TextButton(
-                              onPressed: fetchTrends,
-                              child: Text(("Fetch New Trends!"),
-                                  style: TextStyle(
-                                    fontSize: 20,
-                                    fontWeight: FontWeight.w200,
-                                    color: Colors.black,
-                                  )),
-                            ),
-                          ),
-                        )
-                      ],
-                    ),
+                  buildTrendCard(
+                    title: "YouTube Trends",
+                    icon: Icons.video_library,
+                    trends: _youtubeTrends,
                   ),
-                  Center(
-                    child: Padding(
-                      padding: const EdgeInsets.all(15.0),
-                      child: SizedBox(
-                        height: 100.0,
-                        width: 225.0,
-                        child: TextField(
-                          decoration: InputDecoration(
-                              border: OutlineInputBorder(),
-                              enabledBorder: OutlineInputBorder(),
-                              hintText: "Enter 1-10 For New Trends!",
-                              hintStyle: TextStyle(color: Colors.black),
-                              errorText: errorText),
-                          controller: textEditingController,
-                          style: TextStyle(
-                              decoration: TextDecoration.none,
-                              fontSize: 15,
-                              fontWeight: FontWeight.w200,
-                              color: Colors.black),
-                          onChanged: (value) {
-                            setState(() {
-                              try {
-                                numOfTrends =
-                                    int.parse(textEditingController.text);
-                                // Clear error message if input is valid
-                                errorText = null;
-                                // Ensure the number is between 1 and 10
-                                if (numOfTrends < 1 || numOfTrends > 5) {
-                                  numOfTrends = 0;
-                                  errorText =
-                                      "Please enter a number from 1 - 5";
-                                }
-                              } catch (e) {
-                                errorText = "Please enter a number from 1 - 5";
-                              }
-                            });
-                          },
-                        ),
-                      ),
-                    ),
+                  buildTrendCard(
+                    title: "News Trends",
+                    icon: Icons.article,
+                    trends: _newsTrends,
+                  ),
+                  buildTrendCard(
+                    title: "Stock Trends",
+                    icon: Icons.trending_up,
+                    trends: _stocksTrends,
                   ),
                 ],
               ),
             ),
-          ),
+            const SizedBox(height: 20),
+            TextButton(
+              onPressed: fetchTrends,
+              style: TextButton.styleFrom(
+                backgroundColor: Theme.of(context).colorScheme.primary,
+              ),
+              child: Text(
+                "Fetch New Trends",
+                style: TextStyle(
+                  fontSize: 18,
+                  color: Colors.white70,
+                ),
+              ),
+            ),
+            const SizedBox(height: 16),
+            SizedBox(
+              width: 250,
+              child: TextField(
+                controller: textEditingController,
+                decoration: InputDecoration(
+                  border: const OutlineInputBorder(),
+                  hintText: "Enter 1-5 for new trends",
+                  errorText: errorText,
+                ),
+                onChanged: (value) {
+                  setState(() {
+                    try {
+                      numOfTrends = int.parse(value);
+                      errorText = null;
+                      if (numOfTrends < 1 || numOfTrends > 5) {
+                        errorText = "Please enter a number between 1-5";
+                      }
+                    } catch (e) {
+                      errorText = "Invalid input. Enter a number.";
+                    }
+                  });
+                },
+              ),
+            ),
+          ],
         ),
       ),
     );
