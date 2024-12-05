@@ -5,12 +5,6 @@ import 'package:flutter_test/flutter_test.dart';
 
 void main() {
   final parser = GoogleParser();
-  test('amari cooper is the most trending search', () async {
-    final jsonObject = await _loadSampleData('google_trends_query.json');
-    final firstTrend = parser.parseFirstGoogleTrends(jsonObject);
-    expect(firstTrend, 'amari cooper');
-  });
-
   test('The first five trends from google trends will be pulled', () async {
     final jsonObject = await _loadSampleData('google_trends_query.json');
     final firstFiveTrends = parser.parseMultipleGoogleTrends(jsonObject, 5);

@@ -1,9 +1,4 @@
 class YoutubeTrendsParser {
-  String parseFirstYoutubeTrend(dynamic jsonData) {
-    String firstTrend = jsonData['items'][0]['snippet']['title'];
-    return firstTrend;
-  }
-
   String parseMultipleYoutubeTrends(dynamic jsonData, int numOfTrends) {
     List<String> youtubeTrends = [];
     numOfTrends = numOfTrends - 1;

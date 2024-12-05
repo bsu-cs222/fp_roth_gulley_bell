@@ -6,12 +6,6 @@ import 'package:trending_app/stocks_trends_parser.dart';
 
 void main() {
   final stocksParser = StocksTrendsParser();
-  test('Why Tesla (TSLA) Shares Are Dropping Today', () async {
-    final jsonObject = await _loadSampleData('stocks_trends_query.json');
-    final firstTrend = stocksParser.parseFirstStocksTrend(jsonObject);
-    expect(firstTrend, "Why Tesla (TSLA) Shares Are Dropping Today");
-  });
-
   test('The first two stock trends will be pulled', () async {
     final jsonObject = await _loadSampleData('stocks_trends_query.json');
     final firstThreeTrends =

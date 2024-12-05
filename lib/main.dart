@@ -45,6 +45,7 @@ class _MyHomePageState extends State<MyHomePage> {
   final textEditingController = TextEditingController();
   int numOfTrends = 1;
   String? errorText;
+  bool isLoading = false;
 
   GoogleParser googleParser = GoogleParser();
   YoutubeTrendsParser youtubeParser = YoutubeTrendsParser();
@@ -58,6 +59,9 @@ class _MyHomePageState extends State<MyHomePage> {
   List<String> _stocksTrends = [];
 
   Future<void> fetchTrends() async {
+    setState(() {
+      isLoading = true;
+    });
     try {
       final data = await Future.wait([
         trendFetcher.fetchGoogleTrends(),
@@ -79,6 +83,7 @@ class _MyHomePageState extends State<MyHomePage> {
         _stocksTrends = stocksParser
             .parseMultipleStockTrends(data[3], numOfTrends)
             .split('\n');
+        isLoading = false;
       });
     } catch (e) {
       setState(() {
@@ -115,9 +120,10 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
             const SizedBox(height: 8),
             Expanded(
-              child: trends.isEmpty
+              child: isLoading
                   ? const Center(
-                      child: Text("", style: TextStyle(fontSize: 16)))
+                      child: CircularProgressIndicator(),
+                    )
                   : ListView.builder(
                       itemCount: trends.length,
                       itemBuilder: (context, index) {
@@ -211,8 +217,11 @@ class _MyHomePageState extends State<MyHomePage> {
                     try {
                       numOfTrends = int.parse(value);
                       errorText = null;
+                      isLoading = false;
                       if (numOfTrends < 1 || numOfTrends > 5) {
                         errorText = "Please enter a number between 1-5";
+                      } else {
+                        fetchTrends();
                       }
                     } catch (e) {
                       errorText = "Invalid input. Enter a number.";

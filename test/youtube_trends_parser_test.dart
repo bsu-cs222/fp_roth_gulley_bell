@@ -6,13 +6,6 @@ import 'package:trending_app/youtube_trends_parser.dart';
 
 void main() {
   final youtubeParser = YoutubeTrendsParser();
-  test("My Daughter's 15 Birthday Surprise is the most trending video",
-      () async {
-    final jsonObject = await _loadSampleData('youtube_trends_query.json');
-    final firstTrend = youtubeParser.parseFirstYoutubeTrend(jsonObject);
-    expect(firstTrend, "My Daughter's Emotional 15th BIRTHDAY SURPRISE");
-  });
-
   test("The top five trending videos will be returned", () async {
     final jsonObject = await _loadSampleData('youtube_trends_query.json');
     final firstFiveTrends =
