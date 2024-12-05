@@ -46,6 +46,7 @@ class _MyHomePageState extends State<MyHomePage> {
   int numOfTrends = 1;
   String? errorText;
   bool isLoading = false;
+  bool isButtonEnabled = true;
 
   GoogleParser googleParser = GoogleParser();
   YoutubeTrendsParser youtubeParser = YoutubeTrendsParser();
@@ -190,15 +191,17 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
             const SizedBox(height: 20),
             TextButton(
-              onPressed: fetchTrends,
+              onPressed: isButtonEnabled ? fetchTrends : null,
               style: TextButton.styleFrom(
-                backgroundColor: Theme.of(context).colorScheme.primary,
+                backgroundColor: isButtonEnabled
+                    ? Theme.of(context).colorScheme.primary
+                    : Colors.grey,
               ),
               child: Text(
                 "Fetch New Trends",
                 style: TextStyle(
                   fontSize: 18,
-                  color: Colors.white70,
+                  color: isButtonEnabled ? Colors.white70 : Colors.white38,
                 ),
               ),
             ),
@@ -216,15 +219,17 @@ class _MyHomePageState extends State<MyHomePage> {
                   setState(() {
                     try {
                       numOfTrends = int.parse(value);
-                      errorText = null;
-                      isLoading = false;
                       if (numOfTrends < 1 || numOfTrends > 5) {
                         errorText = "Please enter a number between 1-5";
+                        isButtonEnabled = false;
                       } else {
                         fetchTrends();
+                        errorText = null;
+                        isButtonEnabled = true;
                       }
                     } catch (e) {
                       errorText = "Invalid input. Enter a number.";
+                      isButtonEnabled = false;
                     }
                   });
                 },
